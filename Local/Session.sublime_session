@@ -1,0 +1,1535 @@
+{
+	"folder_history":
+	[
+		"/home/ext-huaqin-liuzhigang/gpt",
+		"/home/lzg/android5.0/server/8127/harley/kernel/kernel",
+		"/home/lzg/android5.0/server/8127/harley/kernel/drivers",
+		"/home/lzg/android5.0/server/8127/harley/mediatek",
+		"/home/lzg/harley/schf/20141104/20141104",
+		"/home/lzg/harley/schf",
+		"/home/lzg/android5.0/aw1978_0110/device",
+		"/home/lzg/android5.0/aw1978_ntfs",
+		"/home/lzg/android5.0/server/aw1978/aw1978_ntfs/vendor/mediatek/proprietary/custom/aw1978/cgen/cfgdefault",
+		"/home/lzg/android5.0/server/aw1978/aw1978_ntfs",
+		"/home/lzg/android5.0/aw1978_ntfs/kernel-3.10",
+		"/home/lzg/android5.0/aw1978_ntfs/system",
+		"/home/lzg/android5.0/aw1978_0110/kernel-3.10",
+		"/home/lzg/android5.0/aw1978_0110/bootable",
+		"/home/lzg/android5.0/aw1978_0110/system",
+		"/boot",
+		"/home/lzg/android5.0/aw1978_hsg_1226/kernel-3.10",
+		"/home/lzg/android5.0/aw1978_0110",
+		"/home/lzg/gitlib/python/awesome-python-webapp",
+		"/home/lzg/gitlib/python/python_webapp",
+		"/home/lzg/android5.0/MT8382_L_BD2",
+		"/home/lzg/android5.0/doc/tuxera-file-systems-3014.9.13-mt8382 (2)",
+		"/home/lzg/考勤系统/到 Sign_In 的链接/sigin_meteor",
+		"/home/lzg/android5.0/MT8382_L_BD2/vendor",
+		"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+		"/home/lzg/android5.0/MT8382_L_BD2/external",
+		"/home/lzg/a1986/base_on__aw6018/mediatek",
+		"/home/lzg/gitlib/python/win7_pygame",
+		"/home/lzg/iozone/iozone3_429/iozone3_429/src/current"
+	],
+	"last_version": 3065,
+	"last_window_id": 6,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"kd_hi",
+						"kd_hi257_poweron"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 140.0,
+				"selected_items":
+				[
+					[
+						"gitlogc",
+						"Git: Log Current File"
+					],
+					[
+						"gitlog",
+						"Git: Log Current File"
+					],
+					[
+						"gitdiffc",
+						"Git: Diff Current File"
+					],
+					[
+						"gitdiff",
+						"Git: Diff Current File"
+					],
+					[
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"gitd",
+						"Git: Diff Current File"
+					],
+					[
+						"gitdiffcu",
+						"Git: Diff Current File"
+					],
+					[
+						"git",
+						"Git: Diff All Files"
+					],
+					[
+						"gitlo",
+						"Git: Log All"
+					],
+					[
+						"git d",
+						"Git: Diff Current File"
+					],
+					[
+						"git diffc",
+						"Git: Diff Tool Current File"
+					],
+					[
+						"gitdiffcur",
+						"Git: Diff Current File"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 105.0,
+				"history":
+				[
+					"print (100**100)",
+					"print (2**100)",
+					"import tkinter",
+					"import Tkinter",
+					"import tk",
+					"print(1)",
+					"print \"asd\"",
+					"printf  1",
+					"print  1",
+					"print  \"1\"",
+					"import os",
+					"import  pygame",
+					"import",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/webrtc/android-webrtc.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/android.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.project.rc",
+				"/home/lzg/android5.0/doc/android-5.0.0_r1..tuxera-lollipop.texfat_tntfs_e2fc27d.patch",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/STATIC_LIBRARIES/liboprofile_db_intermediates/db_debug.P",
+				"/home/lzg/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/lzg/android5.0/MT8382_L_BD2/system/vold/Android.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/full_aw1978.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/huaqin/hq8382_tb_b2c_l/aw1978/default/bsp/kernel/hq8382_tb_b2c_l_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/buildkernel_modversion.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/KERNEL_OBJ/include/generated/utsrelease.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/build_1_9_kernel.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/BOOTLOADER_OBJ/build-aw1978/dev/logo/wsvga/wsvga_num_9.raw",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1231.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/eigen/bench/bench_unrolling",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/eclipse-basebuilder/basebuilder-3.6.2/org.eclipse.releng.basebuilder/plugins/org.eclipse.build.tools/src/org/eclipse/releng/BuildMachineManager.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/eclipse-basebuilder/basebuilder-3.6.2/org.eclipse.releng.basebuilder/plugins/org.eclipse.build.tools/data/builds-emf-2.3.xml",
+				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/gradle-plugin/com/android/tools/build/builder/0.12.2/builder-0.12.2.pom",
+				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/gradle-plugin/com/android/tools/build/builder/0.12.2/builder-0.12.2.jar.sha1",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/clang/test/CodeGen/builtin-unwind-init.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/art/compiler/dex/verification_results.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/libvorbis/doc/vorbis-errors.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/checkpolicy/VERSION",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/srec/config/en.us/audio/v139/v139_189.nwv",
+				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/custom/mt6582/hal/sendepfeature/sp0a19_yuv/config.ftbl.sp0a19_yuv.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/external/lzo/src/config1.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/scripts/config",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/configure",
+				"/home/lzg/android5.0/MT8382_L_BD2/development/samples/devbytes/graphics/FoldingLayout/src/com/example/android/foldinglayout/OnFoldListener.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/skia/src/opts/SkColor_opts_neon.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/clang/CODE_OWNERS.TXT",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/COPYING",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/dynamic_cast.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/delete.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/class_type_info.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/array_type_info.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/typeinfo",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/new",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/cxxabi.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/use_rtti.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/Android.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_8_kernel.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_7.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_6_1.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_6.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_5.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_4.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/Makefile",
+				"/home/lzg/android5.0/MT8382_L_BD2/.gitignore",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/hq8382_tb_b2c_l/init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/resources/manager/ProjectClassLoader.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/media/java/android/media/projection/IMediaProjectionWatcherCallback.aidl",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/factory_init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/meta_init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/factory_init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/project/ProjectChooserHelper.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos_unittest.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/resources/manager/ProjectResources.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/wizards/newproject/NewProjectCreator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/sdklib/src/main/java/com/android/sdklib/internal/project/ProjectCreator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/volley/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/tools/telemetry/unittest_data/perf_report_output.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/tcpdump/print-radius.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/PACKAGING",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8312.usb.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.usb.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/magnetometer/ist8303-new/ist8303.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8312.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/dalvik/dx/src/com/android/dx/util/IntIterator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/emma/core/java12/com/vladium/util/IntIntMap.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/dexmaker/src/dx/java/com/android/dx/util/IntIterator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/dalvik/dexgen/src/com/android/dexgen/util/IntIterator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/libcore/luni/src/main/java/java/lang/ExceptionInInitializerError.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/ipc/ipcns_notifier.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/INSTALL",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/mt6582/init.mt6582.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/include/linux/vermagic.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/apps/DeviceConfig/proguard-project.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/lib1/proguard-project.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/app/proguard-project.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/operator/OP01/packages/apps/ConfigureCheck2/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/apps/DeviceConfig/proguard-project.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/apps/DeviceConfig/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/lib1/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/app/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/testing/gtest/xcode/Config/DebugProject.xcconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/apps/DeviceConfig/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/protobuf/gtest/xcode/Config/DebugProject.xcconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/llvm/autoconf/m4/config_project.m4",
+				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/python/darwin-x86/2.7.5/lib/python2.7/ConfigParser.py",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/mockito/src/org/mockito/internal/configuration/injection/SpyOnInjectedFieldsHandler.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/packages/apps/Camera2/src/com/android/camera/ui/OnIndicatorEventListener.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/hardware/ril/viatelecom/pppd_via/magic.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.modem.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/bootable/bootloader/lk/project/aw1978.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/bootable/bootloader/lk/project/aw1975.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/docs/source.android.com/src/devices/audio_avoiding_pi.jd",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/common/sepolicy/audiocmdservice_atci.te",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/libopus/silk/control_audio_bandwidth.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/fugu/libaudio/audio_hal_hooks.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/generic/goldfish/audio/MODULE_LICENSE_APACHE2",
+				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/audio_hw_hal.cpp",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/flo/audio_effects.conf",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/qemu/audio/audio.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/test/AudioSignalFactoryTest.cpp",
+				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/AudioPolicyManagerDefault.cpp",
+				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/client/AndroidManifest.xml",
+				"/home/lzg/android5.0/MT8382_L_BD2/system/media/audio_utils/primitives.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/art/runtime/dex_instruction_visitor_test.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/BUILD.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/Android.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/data/sounds/AudioPackage13_48.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/data/sounds/AudioPackage12_48.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/htc/flounder/nvaudio_conf.xml",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/av/services/audiopolicy/audio_policy_conf.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/docs/source.android.com/src/devices/audio_latency_measure.jd",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/fugu/libaudio/audio_hal_thunks.cpp",
+				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/audio_policy_hal.cpp",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/av/services/audiopolicy/audio_policy.conf",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/qemu/audio/audio_win_int.h"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/kernel",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/android/configs",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"G:\\android5.0\\MT8382_L_BD2\\system",
+					"G:\\android5.0\\MT8382_L_BD2\\system\\core",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"debug_check_no_locks_held",
+					"debug_check_no",
+					"lockdep_init_map",
+					"mutex_lock_nested",
+					"mutex_lock",
+					"mutex_",
+					"mutex_nest_lock",
+					"mutex_nested_lock",
+					"export_symbol_gpl",
+					"config_lockdep",
+					"config_modules",
+					"config_LOCKDEP",
+					"config_modules",
+					"modules",
+					"config_lockdep",
+					"gpl",
+					"mutex_lock_nested",
+					"config_debug_loc",
+					"config_modules",
+					"config_lockdep",
+					"config",
+					"config_modules",
+					"config_lockdep",
+					"config_modules",
+					"int Volume::formatVol(bool wipe)",
+					"SLOGI(\"Formatting volume %s (%s)\", getLabel(), devicePath);",
+					"int Volume::formatVol(bool wipe)",
+					"setState(Volume::State_Formatting);",
+					"int Volume::formatVol(bool wipe)",
+					"wipe",
+					"int Volume::formatVol(bool wipe)",
+					"if(formatExfat == 1)",
+					"if (formatExfat == 1)",
+					"if (formatExfat == 1) ",
+					"Fat::format(devicePath, 0, wipe)",
+					"if(Fat::format(devicePath, 0, wipe))",
+					"if (Fat::format(devicePath, 0, wipe))",
+					"sprintf(devicePath, \"/dev/block/vold/%d:%d\",",
+					"if (formatEntireDevice)",
+					"setState(Volume::State_Formatting)",
+					"sprintf(devicePath, \"/dev/block/vold/%d:%d\",",
+					"if(formatEntireDevice)",
+					"if (formatEntireDevice)",
+					"Only initialize the MBR if we are formatting the entire device",
+					"formatEntireDevice && !formatExfat",
+					"if (formatEntireDevice)",
+					"Only initialize the MBR if we are formatting the entire ",
+					"Only initialize",
+					"State_Formatting",
+					"copy",
+					"copy.*line",
+					"copy line",
+					"copy",
+					"volume.cpp",
+					"volume",
+					"config_lock",
+					"config_modul",
+					"config_modul=y",
+					"config_moduls",
+					"config_modul",
+					"config",
+					"crc",
+					"define MODULE_ARCH_VERMAGIC",
+					"mutex_lock_nested",
+					"#ifdef CONFIG_MODVERSIONS",
+					"MODULE_ARCH_VERMAGIC=y",
+					"MODULE_ARCH_VERMAGIC",
+					"CONFIG_SMP=y",
+					"CONFIG_PREEMPT",
+					"CONFIG_MODULE_UNLOAD",
+					"MODULE_ARCH_VERMAGIC.*armv7",
+					"armv7",
+					"MODULE_ARCH_VERMAGIC \"ARMv7\"",
+					"MODULE_ARCH_VERMAGIC",
+					"ARMv7",
+					"MODULE_ARCH_VERMAGIC=y",
+					"MODULE_ARCH_VERMAGIC",
+					"MODULE_VERMAGIC_MODVERSIONS",
+					"CONFIG_MODVERSIONS",
+					"CONFIG_LOCKDEP",
+					"CONFIG_DEBUG_LOCK_ALLOC",
+					"CONFIG_MODULES",
+					"CONFIG_MODVERSIONS",
+					"error",
+					"error:",
+					"error",
+					"MODULE_VERMAGIC_MODVERSIONS",
+					"ARMv7",
+					"MODULE_ARCH_VERMAGIC",
+					"ARMv7",
+					"MODULE_ARCH_VERMAGIC",
+					"CONFIG_MODVERSIONS",
+					"version",
+					"MT8382_L_BD2/.*1978",
+					"MT8382_L_BD2/.*8382",
+					"MT8382_L_BD2/.*all",
+					"MT8382_L_BD2/.*8382",
+					"8382",
+					"1987",
+					"MODVERSION",
+					"config_lock",
+					"config_modul",
+					"ntfs",
+					"no_locks_held",
+					"gpl",
+					"lockdep_init_map",
+					"lockedp_init_map",
+					"init_map",
+					"EXPORT_SYMBOL_GPL",
+					"export",
+					"mutex_lock_nested",
+					"CONFIG_DEBUG_LOCKDEP",
+					"CONFIG_PROVE_LOCKING",
+					"CONFIG_LOCKDEP_SUPPORT",
+					"config_lockdep",
+					"version",
+					"modversion",
+					"version",
+					"debug_lock",
+					"config_module",
+					"config_modules",
+					"config_module",
+					"config",
+					"debug_LOCK",
+					"LOCK",
+					"LOCKDEP",
+					"insmod",
+					"inmod"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"  "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 38.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 200.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 124.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"aw1978de",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"aw1978defon",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_defconfig"
+					],
+					[
+						"aw1978_debug",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"aw1978",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"aw1978defconfig",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"utsrelease.h",
+						"MT8382_L_BD2/out/target/product/aw1978/obj/KERNEL_OBJ/include/generated/utsrelease.h"
+					],
+					[
+						"build1_9",
+						"MT8382_L_BD2/build_1_9_kernel.log"
+					],
+					[
+						"buildmod",
+						"MT8382_L_BD2/buildkernel_modversion.log"
+					],
+					[
+						"vermagic",
+						"MT8382_L_BD2/kernel-3.10/include/linux/vermagic.h"
+					],
+					[
+						"config1987",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"projectrc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"init83",
+						"MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.rc"
+					],
+					[
+						"aw1978initrc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"genfs",
+						"MT8382_L_BD2/device/mediatek/common/sepolicy/genfs_contexts"
+					],
+					[
+						"initrc",
+						"~/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"initpro.rc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"init.project.rc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"system/vold/volume.cpp",
+						"MT8382_L_BD2/system/vold/Volume.cpp"
+					],
+					[
+						"system/vold/main.cpp",
+						"MT8382_L_BD2/system/vold/main.cpp"
+					],
+					[
+						"system/vold/android.mk",
+						"MT8382_L_BD2/system/vold/Android.mk"
+					],
+					[
+						"aw1978_debug_defconfig",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"kern/mm/kmem",
+						"kernel-3.10\\mm\\kmemcheck.c"
+					],
+					[
+						"system/vold/vol",
+						"system\\vold\\Volume.cpp"
+					],
+					[
+						"system/vold/ma",
+						"system\\vold\\main.cpp"
+					],
+					[
+						"system/vold/mai",
+						"system/vold/main.cpp"
+					],
+					[
+						".ko",
+						"kernel-3.10/fs/nls/nls_koi8-u.c"
+					],
+					[
+						"initusb",
+						"device/huaqin/aw1978/init.mt6582.usb.rc"
+					],
+					[
+						"init.usb",
+						"system/core/rootdir/init.usb.rc"
+					],
+					[
+						"init.usb.rc",
+						"device/huaqin/aw1978/init.mt6582.usb.rc"
+					],
+					[
+						"k/d/lcm/",
+						"kernel-3.10/drivers/misc/mediatek/lcm/mt65xx_lcm_list.c"
+					],
+					[
+						"ke/d/lc/",
+						"kernel-3.10/drivers/scsi/lpfc/lpfc_bsg.c"
+					],
+					[
+						"driver//",
+						"frameworks/rs/driver/runtime/rs_cl.c"
+					],
+					[
+						"projectconfig",
+						"device/mediatek/tb6582p1/ProjectConfig.mk"
+					],
+					[
+						"fiele",
+						"/home/lzg/gitlib/first/source/file2.c"
+					],
+					[
+						"/home/gitl",
+						"/home/lzg/gitlib/first/source/file2.c"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"~/gitlib/python/python_webapp/conf/webapp.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 318.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"kd_hi",
+						"kd_hi257_poweron"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/ext-huaqin-liuzhigang/test/repo",
+					"settings":
+					{
+						"buffer_size": 17443,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 140.0,
+				"selected_items":
+				[
+					[
+						"gitlogc",
+						"Git: Log Current File"
+					],
+					[
+						"gitlog",
+						"Git: Log Current File"
+					],
+					[
+						"gitdiffc",
+						"Git: Diff Current File"
+					],
+					[
+						"gitdiff",
+						"Git: Diff Current File"
+					],
+					[
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"gitd",
+						"Git: Diff Current File"
+					],
+					[
+						"gitdiffcu",
+						"Git: Diff Current File"
+					],
+					[
+						"git",
+						"Git: Diff All Files"
+					],
+					[
+						"gitlo",
+						"Git: Log All"
+					],
+					[
+						"git d",
+						"Git: Diff Current File"
+					],
+					[
+						"git diffc",
+						"Git: Diff Tool Current File"
+					],
+					[
+						"gitdiffcur",
+						"Git: Diff Current File"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 105.0,
+				"history":
+				[
+					"print (100**100)",
+					"print (2**100)",
+					"import tkinter",
+					"import Tkinter",
+					"import tk",
+					"print(1)",
+					"print \"asd\"",
+					"printf  1",
+					"print  1",
+					"print  \"1\"",
+					"import os",
+					"import  pygame",
+					"import",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/ext-huaqin-liuzhigang/gpt"
+			],
+			"file_history":
+			[
+				"/home/ext-huaqin-liuzhigang/run_printer_driver.sh",
+				"/home/ext-huaqin-liuzhigang/gpt/flashdiag.py",
+				"/home/ext-huaqin-liuzhigang/test/co/.git/COMMIT_EDITMSG",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/webrtc/android-webrtc.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/android.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.project.rc",
+				"/home/lzg/android5.0/doc/android-5.0.0_r1..tuxera-lollipop.texfat_tntfs_e2fc27d.patch",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/STATIC_LIBRARIES/liboprofile_db_intermediates/db_debug.P",
+				"/home/lzg/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/lzg/android5.0/MT8382_L_BD2/system/vold/Android.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/full_aw1978.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/huaqin/hq8382_tb_b2c_l/aw1978/default/bsp/kernel/hq8382_tb_b2c_l_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/buildkernel_modversion.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/KERNEL_OBJ/include/generated/utsrelease.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/build_1_9_kernel.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/BOOTLOADER_OBJ/build-aw1978/dev/logo/wsvga/wsvga_num_9.raw",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1231.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/eigen/bench/bench_unrolling",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/eclipse-basebuilder/basebuilder-3.6.2/org.eclipse.releng.basebuilder/plugins/org.eclipse.build.tools/src/org/eclipse/releng/BuildMachineManager.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/eclipse-basebuilder/basebuilder-3.6.2/org.eclipse.releng.basebuilder/plugins/org.eclipse.build.tools/data/builds-emf-2.3.xml",
+				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/gradle-plugin/com/android/tools/build/builder/0.12.2/builder-0.12.2.pom",
+				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/gradle-plugin/com/android/tools/build/builder/0.12.2/builder-0.12.2.jar.sha1",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/clang/test/CodeGen/builtin-unwind-init.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/art/compiler/dex/verification_results.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/libvorbis/doc/vorbis-errors.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/checkpolicy/VERSION",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/srec/config/en.us/audio/v139/v139_189.nwv",
+				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/custom/mt6582/hal/sendepfeature/sp0a19_yuv/config.ftbl.sp0a19_yuv.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/external/lzo/src/config1.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/scripts/config",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/configure",
+				"/home/lzg/android5.0/MT8382_L_BD2/development/samples/devbytes/graphics/FoldingLayout/src/com/example/android/foldinglayout/OnFoldListener.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/skia/src/opts/SkColor_opts_neon.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/clang/CODE_OWNERS.TXT",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/COPYING",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/dynamic_cast.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/delete.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/class_type_info.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/array_type_info.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/typeinfo",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/new",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/cxxabi.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/use_rtti.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/Android.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_8_kernel.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_7.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_6_1.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_6.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_5.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_4.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/Makefile",
+				"/home/lzg/android5.0/MT8382_L_BD2/.gitignore",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/hq8382_tb_b2c_l/init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/resources/manager/ProjectClassLoader.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/media/java/android/media/projection/IMediaProjectionWatcherCallback.aidl",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/factory_init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/meta_init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/factory_init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/project/ProjectChooserHelper.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos_unittest.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/resources/manager/ProjectResources.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/wizards/newproject/NewProjectCreator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/sdklib/src/main/java/com/android/sdklib/internal/project/ProjectCreator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/volley/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/tools/telemetry/unittest_data/perf_report_output.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/tcpdump/print-radius.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/PACKAGING",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8312.usb.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.usb.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/magnetometer/ist8303-new/ist8303.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8312.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/dalvik/dx/src/com/android/dx/util/IntIterator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/emma/core/java12/com/vladium/util/IntIntMap.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/dexmaker/src/dx/java/com/android/dx/util/IntIterator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/dalvik/dexgen/src/com/android/dexgen/util/IntIterator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/libcore/luni/src/main/java/java/lang/ExceptionInInitializerError.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/ipc/ipcns_notifier.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/INSTALL",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/mt6582/init.mt6582.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/include/linux/vermagic.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/apps/DeviceConfig/proguard-project.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/lib1/proguard-project.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/app/proguard-project.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/operator/OP01/packages/apps/ConfigureCheck2/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/apps/DeviceConfig/proguard-project.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/apps/DeviceConfig/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/lib1/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/app/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/testing/gtest/xcode/Config/DebugProject.xcconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/apps/DeviceConfig/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/protobuf/gtest/xcode/Config/DebugProject.xcconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/llvm/autoconf/m4/config_project.m4",
+				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/python/darwin-x86/2.7.5/lib/python2.7/ConfigParser.py",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/mockito/src/org/mockito/internal/configuration/injection/SpyOnInjectedFieldsHandler.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/packages/apps/Camera2/src/com/android/camera/ui/OnIndicatorEventListener.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/hardware/ril/viatelecom/pppd_via/magic.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.modem.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/bootable/bootloader/lk/project/aw1978.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/bootable/bootloader/lk/project/aw1975.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/docs/source.android.com/src/devices/audio_avoiding_pi.jd",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/common/sepolicy/audiocmdservice_atci.te",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/libopus/silk/control_audio_bandwidth.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/fugu/libaudio/audio_hal_hooks.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/generic/goldfish/audio/MODULE_LICENSE_APACHE2",
+				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/audio_hw_hal.cpp",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/flo/audio_effects.conf",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/qemu/audio/audio.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/test/AudioSignalFactoryTest.cpp",
+				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/AudioPolicyManagerDefault.cpp",
+				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/client/AndroidManifest.xml",
+				"/home/lzg/android5.0/MT8382_L_BD2/system/media/audio_utils/primitives.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/art/runtime/dex_instruction_visitor_test.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/BUILD.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/Android.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/data/sounds/AudioPackage13_48.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/data/sounds/AudioPackage12_48.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/htc/flounder/nvaudio_conf.xml",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/av/services/audiopolicy/audio_policy_conf.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/docs/source.android.com/src/devices/audio_latency_measure.jd",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/fugu/libaudio/audio_hal_thunks.cpp"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/kernel",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/android/configs",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"G:\\android5.0\\MT8382_L_BD2\\system",
+					"G:\\android5.0\\MT8382_L_BD2\\system\\core",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"debug_check_no_locks_held",
+					"debug_check_no",
+					"lockdep_init_map",
+					"mutex_lock_nested",
+					"mutex_lock",
+					"mutex_",
+					"mutex_nest_lock",
+					"mutex_nested_lock",
+					"export_symbol_gpl",
+					"config_lockdep",
+					"config_modules",
+					"config_LOCKDEP",
+					"config_modules",
+					"modules",
+					"config_lockdep",
+					"gpl",
+					"mutex_lock_nested",
+					"config_debug_loc",
+					"config_modules",
+					"config_lockdep",
+					"config",
+					"config_modules",
+					"config_lockdep",
+					"config_modules",
+					"int Volume::formatVol(bool wipe)",
+					"SLOGI(\"Formatting volume %s (%s)\", getLabel(), devicePath);",
+					"int Volume::formatVol(bool wipe)",
+					"setState(Volume::State_Formatting);",
+					"int Volume::formatVol(bool wipe)",
+					"wipe",
+					"int Volume::formatVol(bool wipe)",
+					"if(formatExfat == 1)",
+					"if (formatExfat == 1)",
+					"if (formatExfat == 1) ",
+					"Fat::format(devicePath, 0, wipe)",
+					"if(Fat::format(devicePath, 0, wipe))",
+					"if (Fat::format(devicePath, 0, wipe))",
+					"sprintf(devicePath, \"/dev/block/vold/%d:%d\",",
+					"if (formatEntireDevice)",
+					"setState(Volume::State_Formatting)",
+					"sprintf(devicePath, \"/dev/block/vold/%d:%d\",",
+					"if(formatEntireDevice)",
+					"if (formatEntireDevice)",
+					"Only initialize the MBR if we are formatting the entire device",
+					"formatEntireDevice && !formatExfat",
+					"if (formatEntireDevice)",
+					"Only initialize the MBR if we are formatting the entire ",
+					"Only initialize",
+					"State_Formatting",
+					"copy",
+					"copy.*line",
+					"copy line",
+					"copy",
+					"volume.cpp",
+					"volume",
+					"config_lock",
+					"config_modul",
+					"config_modul=y",
+					"config_moduls",
+					"config_modul",
+					"config",
+					"crc",
+					"define MODULE_ARCH_VERMAGIC",
+					"mutex_lock_nested",
+					"#ifdef CONFIG_MODVERSIONS",
+					"MODULE_ARCH_VERMAGIC=y",
+					"MODULE_ARCH_VERMAGIC",
+					"CONFIG_SMP=y",
+					"CONFIG_PREEMPT",
+					"CONFIG_MODULE_UNLOAD",
+					"MODULE_ARCH_VERMAGIC.*armv7",
+					"armv7",
+					"MODULE_ARCH_VERMAGIC \"ARMv7\"",
+					"MODULE_ARCH_VERMAGIC",
+					"ARMv7",
+					"MODULE_ARCH_VERMAGIC=y",
+					"MODULE_ARCH_VERMAGIC",
+					"MODULE_VERMAGIC_MODVERSIONS",
+					"CONFIG_MODVERSIONS",
+					"CONFIG_LOCKDEP",
+					"CONFIG_DEBUG_LOCK_ALLOC",
+					"CONFIG_MODULES",
+					"CONFIG_MODVERSIONS",
+					"error",
+					"error:",
+					"error",
+					"MODULE_VERMAGIC_MODVERSIONS",
+					"ARMv7",
+					"MODULE_ARCH_VERMAGIC",
+					"ARMv7",
+					"MODULE_ARCH_VERMAGIC",
+					"CONFIG_MODVERSIONS",
+					"version",
+					"MT8382_L_BD2/.*1978",
+					"MT8382_L_BD2/.*8382",
+					"MT8382_L_BD2/.*all",
+					"MT8382_L_BD2/.*8382",
+					"8382",
+					"1987",
+					"MODVERSION",
+					"config_lock",
+					"config_modul",
+					"ntfs",
+					"no_locks_held",
+					"gpl",
+					"lockdep_init_map",
+					"lockedp_init_map",
+					"init_map",
+					"EXPORT_SYMBOL_GPL",
+					"export",
+					"mutex_lock_nested",
+					"CONFIG_DEBUG_LOCKDEP",
+					"CONFIG_PROVE_LOCKING",
+					"CONFIG_LOCKDEP_SUPPORT",
+					"config_lockdep",
+					"version",
+					"modversion",
+					"version",
+					"debug_lock",
+					"config_module",
+					"config_modules",
+					"config_module",
+					"config",
+					"debug_LOCK",
+					"LOCK",
+					"LOCKDEP",
+					"insmod",
+					"inmod"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"  "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/ext-huaqin-liuzhigang/gpt"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/ext-huaqin-liuzhigang/test/repo",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17443,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5998,
+										5998
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"codeintel": true,
+									"codeintel_database_dir": "~/.codeintel",
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Node.js",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_exclude_scopes_from_complete_triggers":
+									[
+										"comment"
+									],
+									"codeintel_language_settings":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_exclude_dir":
+											[
+												"/build/",
+												"/min/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": false,
+											"codeintel_selected_catalogs":
+											[
+												"jQuery"
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 15,
+											"codeintel_scan_exclude_dir":
+											[
+												"/Applications/MAMP/bin/php/php5.5.3/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": true,
+											"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
+										},
+										"Python3":
+										{
+											"codeintel_scan_extra_dir":
+											[
+												"/Applications/Sublime Text.app/Contents/MacOS",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
+											],
+											"codeintel_scan_files_in_project": true,
+											"codeintel_selected_catalogs":
+											[
+											],
+											"python3": "/usr/local/bin/python3.3"
+										}
+									},
+									"codeintel_live": true,
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									[
+									],
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+									],
+									"codeintel_snippets": false,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"codeintel_word_completions": "buffer",
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3036.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 200.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 124.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1600,900",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"aw1978de",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"aw1978defon",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_defconfig"
+					],
+					[
+						"aw1978_debug",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"aw1978",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"aw1978defconfig",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"utsrelease.h",
+						"MT8382_L_BD2/out/target/product/aw1978/obj/KERNEL_OBJ/include/generated/utsrelease.h"
+					],
+					[
+						"build1_9",
+						"MT8382_L_BD2/build_1_9_kernel.log"
+					],
+					[
+						"buildmod",
+						"MT8382_L_BD2/buildkernel_modversion.log"
+					],
+					[
+						"vermagic",
+						"MT8382_L_BD2/kernel-3.10/include/linux/vermagic.h"
+					],
+					[
+						"config1987",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"projectrc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"init83",
+						"MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.rc"
+					],
+					[
+						"aw1978initrc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"genfs",
+						"MT8382_L_BD2/device/mediatek/common/sepolicy/genfs_contexts"
+					],
+					[
+						"initrc",
+						"~/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"initpro.rc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"init.project.rc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"system/vold/volume.cpp",
+						"MT8382_L_BD2/system/vold/Volume.cpp"
+					],
+					[
+						"system/vold/main.cpp",
+						"MT8382_L_BD2/system/vold/main.cpp"
+					],
+					[
+						"system/vold/android.mk",
+						"MT8382_L_BD2/system/vold/Android.mk"
+					],
+					[
+						"aw1978_debug_defconfig",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"kern/mm/kmem",
+						"kernel-3.10\\mm\\kmemcheck.c"
+					],
+					[
+						"system/vold/vol",
+						"system\\vold\\Volume.cpp"
+					],
+					[
+						"system/vold/ma",
+						"system\\vold\\main.cpp"
+					],
+					[
+						"system/vold/mai",
+						"system/vold/main.cpp"
+					],
+					[
+						".ko",
+						"kernel-3.10/fs/nls/nls_koi8-u.c"
+					],
+					[
+						"initusb",
+						"device/huaqin/aw1978/init.mt6582.usb.rc"
+					],
+					[
+						"init.usb",
+						"system/core/rootdir/init.usb.rc"
+					],
+					[
+						"init.usb.rc",
+						"device/huaqin/aw1978/init.mt6582.usb.rc"
+					],
+					[
+						"k/d/lcm/",
+						"kernel-3.10/drivers/misc/mediatek/lcm/mt65xx_lcm_list.c"
+					],
+					[
+						"ke/d/lc/",
+						"kernel-3.10/drivers/scsi/lpfc/lpfc_bsg.c"
+					],
+					[
+						"driver//",
+						"frameworks/rs/driver/runtime/rs_cl.c"
+					],
+					[
+						"projectconfig",
+						"device/mediatek/tb6582p1/ProjectConfig.mk"
+					],
+					[
+						"fiele",
+						"/home/lzg/gitlib/first/source/file2.c"
+					],
+					[
+						"/home/gitl",
+						"/home/lzg/gitlib/first/source/file2.c"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"~/gitlib/python/python_webapp/conf/webapp.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 318.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			},
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/lzg/gitlib/python/python_webapp/conf/webapp.sublime-workspace",
+			"/home/lzg/harley/schf/untitled.sublime-workspace",
+			"/home/lzg/android5.0/sublimeconfig/MT8382.sublime-workspace",
+			"/home/lzg/android5.0/sublimeconfig/aw1978_0110.sublime-workspace",
+			"/home/lzg/考勤系统/到 Sign_In 的链接/sigin_meteor.sublime-workspace",
+			"/home/lzg/a1986/base_on_aw6018.sublimeconfig/base_on_aw6018.sublime-workspace",
+			"/home/lzg/gitlib/huge/huge.sublime-workspace"
+		]
+	}
+}
