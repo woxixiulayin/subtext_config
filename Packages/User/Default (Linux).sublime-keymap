@@ -1,4 +1,9 @@
 [
 	{ "keys": ["ctrl+1"], "command": "toggle_comment", "args": { "block": false } },
-	{ "keys": ["ctrl+shift+1"], "command": "toggle_comment", "args": { "block": true } }
+	{ "keys": ["ctrl+shift+1"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": ["f1"], "command": "find_under" },
+	{ "keys": ["f2"], "command": "find_prev" },
+	{ "keys": ["f3"], "command": "find_next" },
+	{ "keys": ["f4"], "command": "show_panel", "args": {"panel": "find", "reverse": true} },
+	{ "keys": ["f8"], "command": "save" },
 ]

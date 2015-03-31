@@ -2,18 +2,14 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2",
-		"ssl-linux"
-	],
 	"installed_packages":
 	[
 		"1337 Color Scheme",
 		"All Autocomplete",
 		"Anaconda",
 		"BracketHighlighter",
+		"Color Scheme - AmyCable",
+		"Color Scheme - Rainbow",
 		"Cscope",
 		"CTags",
 		"Diffy",

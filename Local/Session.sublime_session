@@ -1,6 +1,20 @@
 {
 	"folder_history":
 	[
+		"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration",
+		"/home/ext-huaqin-liuzhigang/tool/autool",
+		"/home/ext-huaqin-liuzhigang/test/hello",
+		"/home/ext-huaqin-liuzhigang/ford/tool/power",
+		"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external",
+		"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/.repo",
+		"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/hardware",
+		"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/vendor",
+		"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/system",
+		"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+		"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/frameworks",
+		"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/device",
+		"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/build",
+		"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/bootable",
 		"/home/ext-huaqin-liuzhigang/gpt",
 		"/home/lzg/android5.0/server/8127/harley/kernel/kernel",
 		"/home/lzg/android5.0/server/8127/harley/kernel/drivers",
@@ -32,11 +46,11 @@
 		"/home/lzg/iozone/iozone3_429/iozone3_429/src/current"
 	],
 	"last_version": 3065,
-	"last_window_id": 6,
+	"last_window_id": 14,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 480.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -44,17 +58,193 @@
 				"selected_items":
 				[
 					[
+						"MODU",
+						"MODULE_LICENSE"
+					],
+					[
+						"my",
+						"my_kobject_exit"
+					],
+					[
+						"K",
+						"KERN_INFO"
+					],
+					[
+						"kobject_cr",
+						"kobject_create_and_add"
+					],
+					[
+						"kerne",
+						"kernel_path"
+					],
+					[
+						"hell",
+						"hell_exit"
+					],
+					[
+						"he",
+						"hello_main"
+					],
+					[
+						"pri",
+						"printk"
+					],
+					[
+						"pre",
+						"prepare"
+					],
+					[
+						"Dec",
+						"DECLARE_WAIT_QUEUE_HEAD"
+					],
+					[
+						"stat",
+						"static"
+					],
+					[
+						"obs",
+						"observer	statement"
+					],
+					[
+						"sto",
+						"stop"
+					],
+					[
+						"try",
+						"try	Try/Except"
+					],
+					[
+						"log",
+						"LoggingEventHandler	class"
+					],
+					[
+						"han",
+						"LoggingEventHandler	class"
+					],
+					[
+						"Fi",
+						"FileSystemEventHandler	class"
+					],
+					[
+						"fi",
+						"FileSystemEventHandler	class"
+					],
+					[
+						"cro",
+						"crowd_id"
+					],
+					[
+						"ex",
+						"expect	function"
+					],
+					[
+						"def",
+						"default"
+					],
+					[
+						"adds",
+						"add_section	function"
+					],
+					[
+						"sec",
+						"sections	function"
+					],
+					[
+						"send",
+						"sendline"
+					],
+					[
+						"_ge",
+						"_Get_Config	function"
+					],
+					[
+						"clien",
+						"client_ovpn"
+					],
+					[
+						"li",
+						"linux_pass	statement"
+					],
+					[
+						"pa",
+						"password	statement"
+					],
+					[
+						"cli",
+						"client_ovpn"
+					],
+					[
+						"user",
+						"username"
+					],
+					[
+						"c",
+						"ConfigParser	class"
+					],
+					[
+						"_f",
+						"_Find_Config	function"
+					],
+					[
+						"con",
+						"config_file"
+					],
+					[
+						"pas",
+						"password"
+					],
+					[
+						"root",
+						"root_password"
+					],
+					[
+						"a",
+						"add_option	function"
+					],
+					[
+						"lo",
+						"logfile	statement"
+					],
+					[
+						"de",
+						"delaybeforesend	statement"
+					],
+					[
+						"lof",
+						"logfile_send	statement"
+					],
+					[
+						"logfile",
+						"logfile_read	statement"
+					],
+					[
+						"conf",
+						"config_name"
+					],
+					[
+						"dir",
+						"dirname"
+					],
+					[
+						"_",
+						"__all__〔variable〕"
+					],
+					[
 						"kd_hi",
 						"kd_hi257_poweron"
 					]
 				]
 			},
-			"build_system": "",
+			"build_system": "Packages/Makefile/Make.sublime-build",
 			"command_palette":
 			{
-				"height": 140.0,
+				"height": 350.0,
 				"selected_items":
 				[
+					[
+						"error",
+						"Anaconda: Show error list"
+					],
 					[
 						"gitlogc",
 						"Git: Log Current File"
@@ -150,144 +340,160 @@
 			},
 			"file_history":
 			[
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_defconfig",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/webrtc/android-webrtc.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/android.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.project.rc",
-				"/home/lzg/android5.0/doc/android-5.0.0_r1..tuxera-lollipop.texfat_tntfs_e2fc27d.patch",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/STATIC_LIBRARIES/liboprofile_db_intermediates/db_debug.P",
-				"/home/lzg/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
-				"/home/lzg/android5.0/MT8382_L_BD2/system/vold/Android.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/full_aw1978.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/huaqin/hq8382_tb_b2c_l/aw1978/default/bsp/kernel/hq8382_tb_b2c_l_defconfig",
-				"/home/lzg/android5.0/MT8382_L_BD2/buildkernel_modversion.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/KERNEL_OBJ/include/generated/utsrelease.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/build_1_9_kernel.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/BOOTLOADER_OBJ/build-aw1978/dev/logo/wsvga/wsvga_num_9.raw",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1231.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/eigen/bench/bench_unrolling",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/eclipse-basebuilder/basebuilder-3.6.2/org.eclipse.releng.basebuilder/plugins/org.eclipse.build.tools/src/org/eclipse/releng/BuildMachineManager.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/eclipse-basebuilder/basebuilder-3.6.2/org.eclipse.releng.basebuilder/plugins/org.eclipse.build.tools/data/builds-emf-2.3.xml",
-				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/gradle-plugin/com/android/tools/build/builder/0.12.2/builder-0.12.2.pom",
-				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/gradle-plugin/com/android/tools/build/builder/0.12.2/builder-0.12.2.jar.sha1",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/clang/test/CodeGen/builtin-unwind-init.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/art/compiler/dex/verification_results.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/libvorbis/doc/vorbis-errors.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/checkpolicy/VERSION",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/srec/config/en.us/audio/v139/v139_189.nwv",
-				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/custom/mt6582/hal/sendepfeature/sp0a19_yuv/config.ftbl.sp0a19_yuv.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/external/lzo/src/config1.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/scripts/config",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/configure",
-				"/home/lzg/android5.0/MT8382_L_BD2/development/samples/devbytes/graphics/FoldingLayout/src/com/example/android/foldinglayout/OnFoldListener.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/skia/src/opts/SkColor_opts_neon.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/clang/CODE_OWNERS.TXT",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/COPYING",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/dynamic_cast.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/delete.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/class_type_info.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/array_type_info.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/typeinfo",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/new",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/cxxabi.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/use_rtti.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/Android.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_8_kernel.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_7.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_6_1.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_6.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_5.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_4.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/Makefile",
-				"/home/lzg/android5.0/MT8382_L_BD2/.gitignore",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/hq8382_tb_b2c_l/init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/resources/manager/ProjectClassLoader.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/media/java/android/media/projection/IMediaProjectionWatcherCallback.aidl",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/factory_init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/meta_init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/factory_init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/project/ProjectChooserHelper.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos_unittest.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/resources/manager/ProjectResources.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/wizards/newproject/NewProjectCreator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/sdklib/src/main/java/com/android/sdklib/internal/project/ProjectCreator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/volley/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/tools/telemetry/unittest_data/perf_report_output.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/tcpdump/print-radius.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/PACKAGING",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8312.usb.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.usb.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/magnetometer/ist8303-new/ist8303.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8312.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/dalvik/dx/src/com/android/dx/util/IntIterator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/emma/core/java12/com/vladium/util/IntIntMap.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/dexmaker/src/dx/java/com/android/dx/util/IntIterator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/dalvik/dexgen/src/com/android/dexgen/util/IntIterator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/libcore/luni/src/main/java/java/lang/ExceptionInInitializerError.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/ipc/ipcns_notifier.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/INSTALL",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/mt6582/init.mt6582.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/include/linux/vermagic.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/apps/DeviceConfig/proguard-project.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/lib1/proguard-project.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/app/proguard-project.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/operator/OP01/packages/apps/ConfigureCheck2/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/apps/DeviceConfig/proguard-project.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/apps/DeviceConfig/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/lib1/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/app/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/testing/gtest/xcode/Config/DebugProject.xcconfig",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/apps/DeviceConfig/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/protobuf/gtest/xcode/Config/DebugProject.xcconfig",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/llvm/autoconf/m4/config_project.m4",
-				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/python/darwin-x86/2.7.5/lib/python2.7/ConfigParser.py",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/mockito/src/org/mockito/internal/configuration/injection/SpyOnInjectedFieldsHandler.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/packages/apps/Camera2/src/com/android/camera/ui/OnIndicatorEventListener.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/hardware/ril/viatelecom/pppd_via/magic.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.modem.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/bootable/bootloader/lk/project/aw1978.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/bootable/bootloader/lk/project/aw1975.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/docs/source.android.com/src/devices/audio_avoiding_pi.jd",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/common/sepolicy/audiocmdservice_atci.te",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/libopus/silk/control_audio_bandwidth.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/fugu/libaudio/audio_hal_hooks.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/generic/goldfish/audio/MODULE_LICENSE_APACHE2",
-				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/audio_hw_hal.cpp",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/flo/audio_effects.conf",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/qemu/audio/audio.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/test/AudioSignalFactoryTest.cpp",
-				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/AudioPolicyManagerDefault.cpp",
-				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/client/AndroidManifest.xml",
-				"/home/lzg/android5.0/MT8382_L_BD2/system/media/audio_utils/primitives.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/art/runtime/dex_instruction_visitor_test.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/BUILD.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/Android.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/data/sounds/AudioPackage13_48.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/data/sounds/AudioPackage12_48.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/htc/flounder/nvaudio_conf.xml",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/av/services/audiopolicy/audio_policy_conf.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/docs/source.android.com/src/devices/audio_latency_measure.jd",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/fugu/libaudio/audio_hal_thunks.cpp",
-				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/audio_policy_hal.cpp",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/av/services/audiopolicy/audio_policy.conf",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/qemu/audio/audio_win_int.h"
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/kernel/power/hibernate.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/tcpdump/win32/Include/errno.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/include/uapi/asm-generic/errno-base.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/third_party/libusb/src/msvc/errno.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/kernel-headers/original/uapi/asm-generic/errno-base.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/bootable/bootloader/lk/platform/mt8127/include/platform/errno.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/bootable/bootloader/lk/lib/openssl/ssl/kssl.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/x86/include/asm/pgtable-2level.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/x86/include/asm/pgtable-3level.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/tile/include/asm/pgtable_64.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/tile/include/asm/pgtable.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/metag/include/asm/pgtable.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/mt_idle.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/mt_dcm.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/mt_clkmgr.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/tools/gn/tutorial/hello.cc",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/misc/mediatek/hello/hello.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/remoting/host/host_event_logger.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/build/core/host_executable.mk",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/hardware/libhardware/hardware.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/MAINTAINERS",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/mesa3d/docs/MESA_ycbcr_texture.spec",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/icu/icu4c/source/data/locales/my_MM.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/misc/mediatek/magnetometer/yamaha530/yas_mag_kernel_driver.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/ash/sticky_keys/sticky_keys_overlay.cc",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/ppapi/proxy/proxy_object_var.cc",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/mesa3d/src/mapi/glapi/gen/APPLE_vertex_array_object.xml",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/third_party/yasm/source/patched-yasm/modules/objfmts/yasm_objfmts.xml",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/gin/modules/module_registry_observer.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/libcxx/test/atomics/atomics.order/memory_order.pass.cpp",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/apache-harmony/x-net/src/test/java/javax/net/ssl/MyKeyManagerFactorySpi.java",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/vendor/mediatek/proprietary/hardware/omx/inc/MtkOmxBase.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/third_party/ocmock/OCMock/OCMockObject.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/bouncycastle/bcprov/src/main/java/org/bouncycastle/asn1/kisa/KISAObjectIdentifiers.java",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/misc/mediatek/hello/kobject.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/frameworks/base/packages/SystemUI/res/drawable/keyguard_overflow_number_background.xml",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/m68k/kernel-options.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Kbuild",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/ash/system/chromeos/system_clock_observer.cc",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/third_party/WebKit/Source/build/scripts/check_objc_rename.sh",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/third_party/webrtc/modules/desktop_capture/screen_capturer_mock_objects.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/chrome/browser/chromeos/accessibility/sticky_keys_browsertest.cc",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/ppapi/tests/test_url_loader_data/hello.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/frameworks/base/core/java/android/text/method/MultiTapKeyListener.java",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/bison/m4/mbstate_t.m4",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/powerpc/platforms/pseries/power.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/powerpc/kernel/fadump.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/powerpc/kernel/cacheinfo.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/mips/alchemy/devboards/pm.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-orion5x/ts78xx-setup.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-omap1/pm.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/tb8127p5/touchpanel/tpd_button.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/tb8127p4_mlc/touchpanel/tpd_button.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/tb8127p4/touchpanel/tpd_button.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/tb27A1912/touchpanel/tpd_button.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/tb27A1910/touchpanel/tpd_button.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/ford_proto/touchpanel/tpd_button.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/ford/touchpanel/tpd_button.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/ford/touchpanel/ssd60xx_tp.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/mt_ptp.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/kernel/etm.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/acpi/sysfs.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/net/wireless/iwlwifi/iwl-6000.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/net/wireless/iwlwifi/iwl-5000.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/net/wireless/iwlwifi/iwl-2000.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/net/wireless/iwlwifi/iwl-1000.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/net/ethernet/intel/igb/igb_main.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/net/ethernet/chelsio/cxgb3/cxgb3_main.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/net/ethernet/broadcom/bnx2x/bnx2x_main.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/net/ethernet/broadcom/tg3.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/mtd/ubi/build.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/media/usb/cpia2/cpia2_v4l.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/media/pci/meye/meye.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/input/touchscreen/mc13783_ts.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/infiniband/core/ucm.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/gpu/drm/radeon/radeon_trace.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/gpu/drm/i915/i915_trace.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/gpu/drm/drm_trace.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/gpu/drm/drm_sysfs.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/block/drbd/drbd_main.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/xtensa/include/asm/cacheasm.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/x86/include/asm/linkage.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/s390/include/asm/linkage.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/powerpc/include/asm/ppc_asm.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/powerpc/boot/reg.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/mn10300/include/asm/module.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/ia64/include/asm/paravirt_patch.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/hexagon/include/asm/module.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/frv/include/asm/module.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/kernel/kprobes-test.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/configs/ford_debug_defconfig",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/clang/test/SemaCXX/function-overloaded-redecl.cpp",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/bison/m4/fcntl-o.m4",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/dnsmasq/FAQ",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/frameworks/base/core/java/android/service/notification/ZenModeConfig.aidl",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/smack/src/org/jivesoftware/smackx/pubsub/listener/NodeConfigListener.java",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/javassist/src/main/javassist/CodeConverter.java",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/deqp/framework/delibs/decpp/deCommandLine.cpp",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/deqp/framework/delibs/deutil/deClock.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/ABI/testing/debugfs-ec",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/dontdiff",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/include/linux/wakelock.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/include/linux/pm.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/include/linux/pm_wakeup.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/ceres-solver/internal/ceres/array_utils_test.cc",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/video/atafb_utils.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/build/tools/adbs",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/configs/ford_defconfig",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/device/amazon/ford/ProjectConfig.mk",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/include/linux/moduleparam.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/kernel/capability.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/include/linux/mm.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/gpu/drm/radeon/mkregtable.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/kernel/power/autosleep.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/kernel/power/suspend.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/include/linux/suspend.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/include/linux/workqueue.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/include/linux/kthread.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/kernel/wait.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/kernel/workqueue.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/workqueue.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/net/sunrpc/xprtrdma/svc_rdma_transport.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/system/core/libsuspend/autosuspend_autosleep.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/frameworks/base/core/java/com/android/internal/widget/AutoScrollHelper.java",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/autokd/autok.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/mm/memcontrol.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/bootable/bootloader/lk/include/malloc.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/eyes-free/MANIFEST.MF"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 39.0
 			},
 			"find_in_files":
 			{
 				"height": 102.0,
 				"where_history":
 				[
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/frameworks",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/hardware",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/vendor",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/kernel/power",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/hardware",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/frameworks",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/misc",
 					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
 					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
 					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
@@ -310,134 +516,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"debug_check_no_locks_held",
-					"debug_check_no",
-					"lockdep_init_map",
-					"mutex_lock_nested",
-					"mutex_lock",
-					"mutex_",
-					"mutex_nest_lock",
-					"mutex_nested_lock",
-					"export_symbol_gpl",
-					"config_lockdep",
-					"config_modules",
-					"config_LOCKDEP",
-					"config_modules",
-					"modules",
-					"config_lockdep",
-					"gpl",
-					"mutex_lock_nested",
-					"config_debug_loc",
-					"config_modules",
-					"config_lockdep",
-					"config",
-					"config_modules",
-					"config_lockdep",
-					"config_modules",
-					"int Volume::formatVol(bool wipe)",
-					"SLOGI(\"Formatting volume %s (%s)\", getLabel(), devicePath);",
-					"int Volume::formatVol(bool wipe)",
-					"setState(Volume::State_Formatting);",
-					"int Volume::formatVol(bool wipe)",
-					"wipe",
-					"int Volume::formatVol(bool wipe)",
-					"if(formatExfat == 1)",
-					"if (formatExfat == 1)",
-					"if (formatExfat == 1) ",
-					"Fat::format(devicePath, 0, wipe)",
-					"if(Fat::format(devicePath, 0, wipe))",
-					"if (Fat::format(devicePath, 0, wipe))",
-					"sprintf(devicePath, \"/dev/block/vold/%d:%d\",",
-					"if (formatEntireDevice)",
-					"setState(Volume::State_Formatting)",
-					"sprintf(devicePath, \"/dev/block/vold/%d:%d\",",
-					"if(formatEntireDevice)",
-					"if (formatEntireDevice)",
-					"Only initialize the MBR if we are formatting the entire device",
-					"formatEntireDevice && !formatExfat",
-					"if (formatEntireDevice)",
-					"Only initialize the MBR if we are formatting the entire ",
-					"Only initialize",
-					"State_Formatting",
-					"copy",
-					"copy.*line",
-					"copy line",
-					"copy",
-					"volume.cpp",
-					"volume",
-					"config_lock",
-					"config_modul",
-					"config_modul=y",
-					"config_moduls",
-					"config_modul",
-					"config",
-					"crc",
-					"define MODULE_ARCH_VERMAGIC",
-					"mutex_lock_nested",
-					"#ifdef CONFIG_MODVERSIONS",
-					"MODULE_ARCH_VERMAGIC=y",
-					"MODULE_ARCH_VERMAGIC",
-					"CONFIG_SMP=y",
-					"CONFIG_PREEMPT",
-					"CONFIG_MODULE_UNLOAD",
-					"MODULE_ARCH_VERMAGIC.*armv7",
-					"armv7",
-					"MODULE_ARCH_VERMAGIC \"ARMv7\"",
-					"MODULE_ARCH_VERMAGIC",
-					"ARMv7",
-					"MODULE_ARCH_VERMAGIC=y",
-					"MODULE_ARCH_VERMAGIC",
-					"MODULE_VERMAGIC_MODVERSIONS",
-					"CONFIG_MODVERSIONS",
-					"CONFIG_LOCKDEP",
-					"CONFIG_DEBUG_LOCK_ALLOC",
-					"CONFIG_MODULES",
-					"CONFIG_MODVERSIONS",
-					"error",
-					"error:",
-					"error",
-					"MODULE_VERMAGIC_MODVERSIONS",
-					"ARMv7",
-					"MODULE_ARCH_VERMAGIC",
-					"ARMv7",
-					"MODULE_ARCH_VERMAGIC",
-					"CONFIG_MODVERSIONS",
-					"version",
-					"MT8382_L_BD2/.*1978",
-					"MT8382_L_BD2/.*8382",
-					"MT8382_L_BD2/.*all",
-					"MT8382_L_BD2/.*8382",
-					"8382",
-					"1987",
-					"MODVERSION",
-					"config_lock",
-					"config_modul",
-					"ntfs",
-					"no_locks_held",
-					"gpl",
-					"lockdep_init_map",
-					"lockedp_init_map",
-					"init_map",
+					"attr_group",
+					"MTKFB_MSG",
+					"power_kobj",
+					"kobj_attribute",
+					"wakeup_count",
+					"power_attr",
+					"attr",
+					"attr_group",
+					"CONFIG_PM_RUNTIME",
+					"#",
+					"autosleep_wq",
+					"WQ_MEM_RECLAIM",
+					"ORDERED",
+					"WQ_ORDERED",
+					"__WQ_ORDERED",
+					"creat_work",
+					"creat_queue",
+					"creat",
+					"autosleep_wq",
+					"destroy_workqueue",
+					"suspend_work",
+					"autosleep_wq",
+					"decl",
+					"interr",
+					"inter",
+					"work_struct",
+					"include",
+					"mm.h",
+					"work_struct",
+					"workstruct",
+					"workstryct",
+					"wait_event",
+					"prepare_to_wait",
+					"func",
+					"event",
+					"wake_up",
+					"prepare_to_wait",
+					"modules_disabled",
+					"SYSCALL_DEFINE2",
+					"modules_disabled",
+					"CONFIG_MODULE",
+					"CONFIG_MODULE_FORCE_UNLOAD",
+					"modules_disabled",
+					"__try_stop_module",
+					"flags",
+					"modules_disabled",
+					"pr_debug",
+					"modules_disabled",
+					"fn",
+					"EPERM",
+					"modules_disabled",
+					"nomodule",
+					"modules_disabled",
+					"EPERM",
+					"modules_disabled",
+					"module_mutex",
+					"modules_disabled",
+					"module_mutex",
+					"modules_disabled",
+					"module_mutex",
+					"modules_disabled",
+					"CONFIG_MODULE_SIG",
+					"nomodule",
+					"modules_disabled",
+					"module",
+					"modules_disabled",
+					"module",
+					"rmmod",
+					"rmm",
+					"rm",
+					"dele",
+					"del",
+					"delte",
+					"module",
+					"delete",
+					"errno",
+					"errmo",
+					"ENOSYS",
+					"errno",
+					"ENOSYS",
+					"38",
+					"remove",
+					"delete",
+					"rmmod",
+					"module",
+					"wake_up",
+					"nosys",
+					"38",
+					"32",
+					"delete_module",
+					"delete_modulee",
+					"32",
+					"error 32",
+					"delete",
+					"esd_recovery_task",
+					"kthread_create",
+					"thread",
+					"do_one_initcall",
+					"kthread_run",
+					"EXPORT_SYMBOL",
+					"kthread_create_on_node",
 					"EXPORT_SYMBOL_GPL",
-					"export",
-					"mutex_lock_nested",
-					"CONFIG_DEBUG_LOCKDEP",
-					"CONFIG_PROVE_LOCKING",
-					"CONFIG_LOCKDEP_SUPPORT",
-					"config_lockdep",
-					"version",
-					"modversion",
-					"version",
-					"debug_lock",
-					"config_module",
-					"config_modules",
-					"config_module",
-					"config",
-					"debug_LOCK",
-					"LOCK",
-					"LOCKDEP",
-					"insmod",
-					"inmod"
+					"EXPORT_SYMBOL",
+					"kthread_create_on_node",
+					"kthread_run",
+					"kthread_create_on_node",
+					"kthread_run",
+					"EXPORT_SYMBOL_GPL",
+					"run",
+					"thread.h",
+					".h ",
+					" kernel_thread",
+					" kernel_thread(",
+					" kernel_thread",
+					"kernel_thread",
+					"    ",
+					"thread",
+					"kernel_thread",
+					"exit",
+					"    ",
+					"end",
+					"DEFINE_WAIT",
+					"WAIT",
+					"add_wait_queue",
+					"wakeup_count_wait_queue",
+					"wake_up",
+					"wakeup_queue",
+					"wakeup"
 				],
 				"highlight": false,
 				"in_selection": false,
@@ -455,7 +661,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 38.0
+				"height": 31.0
 			},
 			"input":
 			{
@@ -476,7 +682,7 @@
 			},
 			"replace":
 			{
-				"height": 0.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -484,6 +690,366 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"hello.c",
+						"kernel/drivers/misc/mediatek/hello/hello.c"
+					],
+					[
+						"my_kobject.c",
+						"hardware/ti/omap4-aah/security/tf_crypto_sst/pkcs11_object.c"
+					],
+					[
+						"kobject.c",
+						"kernel/drivers/misc/mediatek/hello/kobject.c"
+					],
+					[
+						"mtkfb.c",
+						"kernel/drivers/misc/mediatek/video/mt8127/mtkfb.c"
+					],
+					[
+						"kernel/include/linux/kobject.h",
+						"kernel/include/linux/kobject.h"
+					],
+					[
+						"kernel/kernel/power/power.h",
+						"kernel/kernel/power/power.h"
+					],
+					[
+						"ford_de",
+						"kernel/arch/arm/configs/ford_debug_defconfig"
+					],
+					[
+						"forddeconfig",
+						"kernel/arch/arm/configs/ford_defconfig"
+					],
+					[
+						"autosl",
+						"kernel/kernel/power/autosleep.c"
+					],
+					[
+						"documentation/workqueue.txt",
+						"kernel/Documentation/workqueue.txt"
+					],
+					[
+						"mm.h",
+						"kernel/include/linux/mm.h"
+					],
+					[
+						"kernel/include/linux/wait.h",
+						"kernel/include/linux/wait.h"
+					],
+					[
+						"mtkfb",
+						"kernel/drivers/misc/mediatek/video/mt8127/mtkfb.c"
+					],
+					[
+						"kernel/include/linux/kthread.h",
+						"kernel/include/linux/kthread.h"
+					],
+					[
+						"ford_",
+						"kernel/arch/arm/configs/ford_debug_defconfig"
+					],
+					[
+						"kernel/include/linux/moduleparam.h",
+						"kernel/include/linux/moduleparam.h"
+					],
+					[
+						"ford_debu",
+						"kernel/arch/arm/configs/ford_debug_defconfig"
+					],
+					[
+						"ford",
+						"kernel/arch/arm/configs/ford_defconfig"
+					],
+					[
+						"project",
+						"device/amazon/ford/ProjectConfig.mk"
+					],
+					[
+						"module",
+						"kernel/kernel/module.c"
+					],
+					[
+						"rmmod",
+						"system/core/toolbox/rmmod.c"
+					],
+					[
+						"p_module",
+						"external/oprofile/daemon/liblegacy/p_module.h"
+					],
+					[
+						"module.c",
+						"kernel/kernel/module.c"
+					],
+					[
+						"kthread.c",
+						"kernel/kernel/kthread.c"
+					],
+					[
+						"kernel/thread.c",
+						"bootable/bootloader/lk/kernel/thread.c"
+					],
+					[
+						"kernel/include/thread.h",
+						"kernel/include/linux/kthread.h"
+					],
+					[
+						"kernel/drivers/misc/mediatek/misc_via/sync.c",
+						"kernel/drivers/misc/mediatek/misc_via/sync.c"
+					],
+					[
+						"kernel/drivers/media/dvb-core/dvb_ca_en50221.c",
+						"kernel/drivers/media/dvb-core/dvb_ca_en50221.c"
+					],
+					[
+						"wakeup.c",
+						"kernel/drivers/base/power/wakeup.c"
+					],
+					[
+						"kernel/kernel/power/autosleep.c",
+						"kernel/kernel/power/autosleep.c"
+					],
+					[
+						"forddeconfi",
+						"kernel/arch/arm/configs/ford_defconfig"
+					],
+					[
+						"kernel/kernel/power/main.c",
+						"kernel/kernel/power/main.c"
+					],
+					[
+						"ipower",
+						"frameworks/native/services/powermanager/IPowerManager.cpp"
+					],
+					[
+						"kernel/include/linux/pm_wakeup.h",
+						"kernel/include/linux/pm_wakeup.h"
+					],
+					[
+						"hardware/power.c",
+						"hardware/libhardware_legacy/power/power.c"
+					],
+					[
+						"power.java",
+						"frameworks/base/core/java/android/os/PowerManager.java"
+					],
+					[
+						"kernel/kernel/power/earlysuspend.c",
+						"kernel/kernel/power/earlysuspend.c"
+					],
+					[
+						"wakelock.h",
+						"kernel/include/linux/wakelock.h"
+					],
+					[
+						"kernel/drivers/misc/mediatek/misc_via/power.c",
+						"kernel/drivers/misc/mediatek/misc_via/power.c"
+					],
+					[
+						"modules/power",
+						"hardware/libhardware/modules/power/power.c"
+					],
+					[
+						"powermanagerserv",
+						"frameworks/base/services/core/java/com/android/server/power/PowerManagerService.java"
+					],
+					[
+						"frameworks/base/core/jni/power.cpp",
+						"frameworks/base/services/core/jni/com_android_server_power_PowerManagerService.cpp"
+					],
+					[
+						"kernel/power.c",
+						"kernel/kernel/power/suspend_time.c"
+					],
+					[
+						"powerservice.java",
+						"frameworks/base/services/core/java/com/android/server/power/PowerManagerService.java"
+					],
+					[
+						"powerman",
+						"frameworks/base/core/java/android/os/PowerManager.java"
+					],
+					[
+						"external/libnfc-nci/src/gki/ulinux/gki_ulinux.c",
+						"external/libnfc-nci/src/gki/ulinux/gki_ulinux.c"
+					],
+					[
+						"power.c",
+						"kernel/drivers/acpi/power.c"
+					],
+					[
+						"kernel/include/mach/mtk_thermal_monitor.h",
+						"kernel/include/mach/mtk_thermal_monitor.h"
+					],
+					[
+						"kernel/drivers/misc/mediatek/met/mt8127/platform/mt8127/thermal.h",
+						"kernel/drivers/misc/mediatek/met/mt8127/platform/mt8127/thermal.h"
+					],
+					[
+						"therml.c",
+						"kernel/drivers/acpi/thermal.c"
+					],
+					[
+						"kernel/include/linux/thermal.h",
+						"kernel/include/linux/thermal.h"
+					],
+					[
+						"kernel/drivers/misc/mediatek/thermal/mtk_thermal_monitor.c",
+						"kernel/drivers/misc/mediatek/thermal/mtk_thermal_monitor.c"
+					],
+					[
+						"kernel/drivers/misc/mediatek/thermal/mt8127/mtk_ts_pmic6397.c",
+						"kernel/drivers/misc/mediatek/thermal/mt8127/mtk_ts_pmic6397.c"
+					],
+					[
+						"arc/arm/deconfig",
+						"kernel/arch/arm/configs/ford_defconfig"
+					],
+					[
+						"tmp102",
+						"kernel/drivers/hwmon/tmp102.c"
+					],
+					[
+						"documentation/hwmon/sysfs-interface",
+						"kernel/Documentation/hwmon/sysfs-interface"
+					],
+					[
+						"hardware/libhardware/include/hardware/sensors.h",
+						"hardware/libhardware/include/hardware/sensors.h"
+					],
+					[
+						"hardware/libhardware/include/hardware/hardware.h",
+						"hardware/libhardware/include/hardware/hardware.h"
+					],
+					[
+						"sensordevice",
+						"frameworks/native/services/sensorservice/SensorDevice.cpp"
+					],
+					[
+						"sensorservice",
+						"frameworks/native/services/sensorservice/SensorService.cpp"
+					],
+					[
+						"kernel/include/linux/hwmsen_dev.h",
+						"kernel/include/linux/hwmsen_dev.h"
+					],
+					[
+						"mediatak/accel.c",
+						"kernel/drivers/misc/mediatek/accelerometer/accel.c"
+					],
+					[
+						"accel.c",
+						"kernel/drivers/misc/mediatek/accelerometer/accel.c"
+					],
+					[
+						"kernel/arch/arm/mach-mt8127/ford/accelerometer/mpu6050.c",
+						"kernel/arch/arm/mach-mt8127/ford/accelerometer/mpu6050.c"
+					],
+					[
+						"mpu6050gy",
+						"kernel/drivers/misc/mediatek/gyroscope/mpu6050gy/mpu6050.c"
+					],
+					[
+						"hwmsendev",
+						"kernel/drivers/misc/mediatek/hwmon/hwmsen/hwmsen_dev.c"
+					],
+					[
+						"vendor/mediatek/proprietary/hardware/sensor/hwmsen/hwmsen_chip_info.c",
+						"vendor/mediatek/proprietary/hardware/sensor/hwmsen/hwmsen_chip_info.c"
+					],
+					[
+						"projec",
+						"device/amazon/ford/ProjectConfig.mk"
+					],
+					[
+						"device/amazon/ford/custom/hal/sensors/sensor/hwmsen_custom.c",
+						"device/amazon/ford/custom/hal/sensors/sensor/hwmsen_custom.c"
+					],
+					[
+						"kernel/drivers/misc/mediatek/alsps/tmd2771_auto/tmd2771.c",
+						"kernel/drivers/misc/mediatek/alsps/tmd2771_auto/tmd2771.c"
+					],
+					[
+						"projectconfig",
+						"device/amazon/ford/ProjectConfig.mk"
+					],
+					[
+						"include/hardware.h",
+						"hardware/libhardware/include/hardware/hardware.h"
+					],
+					[
+						"hardw",
+						"hardware/libhardware/hardware.c"
+					],
+					[
+						"hwmsenchip",
+						"vendor/mediatek/proprietary/hardware/sensor/hwmsen/hwmsen_chip_info.h"
+					],
+					[
+						"hwmsen_custom.c",
+						"device/amazon/ford/custom/hal/sensors/sensor/hwmsen_custom.c"
+					],
+					[
+						"vendor/mediatek/proprietary/hardware/sensor/hwm",
+						"vendor/mediatek/proprietary/hardware/sensor/hwmsen/sensor_list_readme.txt"
+					],
+					[
+						"vendor/mediatek/proprietary/hardware/sensor",
+						"vendor/mediatek/proprietary/hardware/include/mtkcam/hal/sensor_hal.h"
+					],
+					[
+						"frameworks/native/services/sensorservice/sensorservice.cpp",
+						"frameworks/native/services/sensorservice/SensorService.cpp"
+					],
+					[
+						"frameworks/base/native/android/sensor.cpp",
+						"frameworks/base/native/android/sensor.cpp"
+					],
+					[
+						"apds99",
+						"kernel/drivers/misc/mediatek/alsps/APDS9930/APDS9930.c"
+					],
+					[
+						"kxtj2_1009",
+						"kernel/drivers/misc/mediatek/accelerometer/KXTJ2_1009/kxtj2_1009.c"
+					],
+					[
+						"hwmsensor.h",
+						"device/mediatek/common/kernel-headers/linux/hwmsensor.h"
+					],
+					[
+						"sensors_hwmsen.c",
+						"vendor/mediatek/proprietary/hardware/sensor/hwmsen/sensors_hwmsen.c"
+					],
+					[
+						"tmp10",
+						"kernel/drivers/hwmon/tmp102.c"
+					],
+					[
+						"ker/driv/misc/me/cam/cam/",
+						"kernel/drivers/misc/mediatek/cam_cal/GT24c32a_eeprom/GT24c32a.c"
+					],
+					[
+						"sensor.cpp",
+						"frameworks/base/native/android/sensor.cpp"
+					],
+					[
+						"sensord",
+						"frameworks/native/services/sensorservice/SensorDevice.cpp"
+					],
+					[
+						"tmp102.c",
+						"kernel/drivers/hwmon/tmp102.c"
+					],
+					[
+						"ker/scri/ch",
+						"kernel/scripts/checkstack.pl"
+					],
+					[
+						"ker/driver/mis/media/acce/cus",
+						"kernel/drivers/misc/mediatek/accelerometer/inc/cust_acc.h"
+					],
 					[
 						"aw1978de",
 						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
@@ -613,10 +1179,6 @@
 						"frameworks/rs/driver/runtime/rs_cl.c"
 					],
 					[
-						"projectconfig",
-						"device/mediatek/tb6582p1/ProjectConfig.mk"
-					],
-					[
 						"fiele",
 						"/home/lzg/gitlib/first/source/file2.c"
 					],
@@ -634,30 +1196,34 @@
 				[
 					[
 						"",
-						"~/gitlib/python/python_webapp/conf/webapp.sublime-project"
+						"~/ford/vsb_gerrit_ford/kernel/drivers/base/power/hello.sublime-workspace"
 					]
 				],
 				"width": 380.0
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 392.0,
 				"selected_items":
 				[
+					[
+						"device_ty",
+						"device_type"
+					]
 				],
-				"width": 0.0
+				"width": 998.0
 			},
-			"show_minimap": false,
+			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 318.0,
 			"status_bar_visible": false,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 0.0
+		"new_window_width": 640.0
 	},
 	"windows":
 	[
@@ -667,6 +1233,206 @@
 				"selected_items":
 				[
 					[
+						"kobj_",
+						"kobj_atrr"
+					],
+					[
+						"my",
+						"my_kobjec"
+					],
+					[
+						"print",
+						"printk"
+					],
+					[
+						"siz",
+						"size_t"
+					],
+					[
+						"prin",
+						"printk"
+					],
+					[
+						"_name",
+						"_name##_show"
+					],
+					[
+						"ko",
+						"kobj_attribute"
+					],
+					[
+						"def",
+						"default_attrs"
+					],
+					[
+						"test",
+						"test_attr"
+					],
+					[
+						"MODU",
+						"MODULE_LICENSE"
+					],
+					[
+						"K",
+						"KERN_INFO"
+					],
+					[
+						"kobject_cr",
+						"kobject_create_and_add"
+					],
+					[
+						"kerne",
+						"kernel_path"
+					],
+					[
+						"hell",
+						"hell_exit"
+					],
+					[
+						"he",
+						"hello_main"
+					],
+					[
+						"pri",
+						"printk"
+					],
+					[
+						"pre",
+						"prepare"
+					],
+					[
+						"Dec",
+						"DECLARE_WAIT_QUEUE_HEAD"
+					],
+					[
+						"stat",
+						"static"
+					],
+					[
+						"obs",
+						"observer	statement"
+					],
+					[
+						"sto",
+						"stop"
+					],
+					[
+						"try",
+						"try	Try/Except"
+					],
+					[
+						"log",
+						"LoggingEventHandler	class"
+					],
+					[
+						"han",
+						"LoggingEventHandler	class"
+					],
+					[
+						"Fi",
+						"FileSystemEventHandler	class"
+					],
+					[
+						"fi",
+						"FileSystemEventHandler	class"
+					],
+					[
+						"cro",
+						"crowd_id"
+					],
+					[
+						"ex",
+						"expect	function"
+					],
+					[
+						"adds",
+						"add_section	function"
+					],
+					[
+						"sec",
+						"sections	function"
+					],
+					[
+						"send",
+						"sendline"
+					],
+					[
+						"_ge",
+						"_Get_Config	function"
+					],
+					[
+						"clien",
+						"client_ovpn"
+					],
+					[
+						"li",
+						"linux_pass	statement"
+					],
+					[
+						"pa",
+						"password	statement"
+					],
+					[
+						"cli",
+						"client_ovpn"
+					],
+					[
+						"user",
+						"username"
+					],
+					[
+						"c",
+						"ConfigParser	class"
+					],
+					[
+						"_f",
+						"_Find_Config	function"
+					],
+					[
+						"con",
+						"config_file"
+					],
+					[
+						"pas",
+						"password"
+					],
+					[
+						"root",
+						"root_password"
+					],
+					[
+						"a",
+						"add_option	function"
+					],
+					[
+						"lo",
+						"logfile	statement"
+					],
+					[
+						"de",
+						"delaybeforesend	statement"
+					],
+					[
+						"lof",
+						"logfile_send	statement"
+					],
+					[
+						"logfile",
+						"logfile_read	statement"
+					],
+					[
+						"conf",
+						"config_name"
+					],
+					[
+						"dir",
+						"dirname"
+					],
+					[
+						"_",
+						"__all__〔variable〕"
+					],
+					[
 						"kd_hi",
 						"kd_hi257_poweron"
 					]
@@ -675,20 +1441,32 @@
 			"buffers":
 			[
 				{
-					"file": "/home/ext-huaqin-liuzhigang/test/repo",
+					"file": "/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/bootable/bootloader/preloader-mtk/mt8127/custom/ford/ford.mk",
 					"settings":
 					{
-						"buffer_size": 17443,
+						"buffer_size": 998,
 						"line_ending": "Unix"
 					}
 				}
 			],
-			"build_system": "",
+			"build_system": "Packages/User/my_make.sublime-build",
 			"command_palette":
 			{
-				"height": 140.0,
+				"height": 35.0,
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"error",
+						"Anaconda: Show error list"
+					],
 					[
 						"gitlogc",
 						"Git: Log Current File"
@@ -743,10 +1521,6 @@
 					],
 					[
 						"intall",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
 						"Package Control: Install Package"
 					]
 				],
@@ -784,148 +1558,171 @@
 			},
 			"expanded_folders":
 			[
-				"/home/ext-huaqin-liuzhigang/gpt"
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/.repo",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/bootable",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/bootable/bootloader"
 			],
 			"file_history":
 			[
-				"/home/ext-huaqin-liuzhigang/run_printer_driver.sh",
-				"/home/ext-huaqin-liuzhigang/gpt/flashdiag.py",
-				"/home/ext-huaqin-liuzhigang/test/co/.git/COMMIT_EDITMSG",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_defconfig",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/webrtc/android-webrtc.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/android.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.project.rc",
-				"/home/lzg/android5.0/doc/android-5.0.0_r1..tuxera-lollipop.texfat_tntfs_e2fc27d.patch",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/STATIC_LIBRARIES/liboprofile_db_intermediates/db_debug.P",
-				"/home/lzg/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
-				"/home/lzg/android5.0/MT8382_L_BD2/system/vold/Android.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/full_aw1978.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/huaqin/hq8382_tb_b2c_l/aw1978/default/bsp/kernel/hq8382_tb_b2c_l_defconfig",
-				"/home/lzg/android5.0/MT8382_L_BD2/buildkernel_modversion.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/KERNEL_OBJ/include/generated/utsrelease.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/build_1_9_kernel.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/BOOTLOADER_OBJ/build-aw1978/dev/logo/wsvga/wsvga_num_9.raw",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1231.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/eigen/bench/bench_unrolling",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/eclipse-basebuilder/basebuilder-3.6.2/org.eclipse.releng.basebuilder/plugins/org.eclipse.build.tools/src/org/eclipse/releng/BuildMachineManager.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/eclipse-basebuilder/basebuilder-3.6.2/org.eclipse.releng.basebuilder/plugins/org.eclipse.build.tools/data/builds-emf-2.3.xml",
-				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/gradle-plugin/com/android/tools/build/builder/0.12.2/builder-0.12.2.pom",
-				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/gradle-plugin/com/android/tools/build/builder/0.12.2/builder-0.12.2.jar.sha1",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/clang/test/CodeGen/builtin-unwind-init.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/art/compiler/dex/verification_results.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/libvorbis/doc/vorbis-errors.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/checkpolicy/VERSION",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/srec/config/en.us/audio/v139/v139_189.nwv",
-				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/custom/mt6582/hal/sendepfeature/sp0a19_yuv/config.ftbl.sp0a19_yuv.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/external/lzo/src/config1.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/scripts/config",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/configure",
-				"/home/lzg/android5.0/MT8382_L_BD2/development/samples/devbytes/graphics/FoldingLayout/src/com/example/android/foldinglayout/OnFoldListener.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/skia/src/opts/SkColor_opts_neon.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/clang/CODE_OWNERS.TXT",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/COPYING",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/dynamic_cast.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/delete.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/class_type_info.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/array_type_info.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/typeinfo",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/new",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/cxxabi.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/use_rtti.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/Android.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_8_kernel.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_7.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_6_1.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_6.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_5.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_4.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/Makefile",
-				"/home/lzg/android5.0/MT8382_L_BD2/.gitignore",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/hq8382_tb_b2c_l/init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/resources/manager/ProjectClassLoader.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/media/java/android/media/projection/IMediaProjectionWatcherCallback.aidl",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/factory_init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/meta_init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/factory_init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/project/ProjectChooserHelper.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos_unittest.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/resources/manager/ProjectResources.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/wizards/newproject/NewProjectCreator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/sdklib/src/main/java/com/android/sdklib/internal/project/ProjectCreator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/volley/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/tools/telemetry/unittest_data/perf_report_output.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/tcpdump/print-radius.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/PACKAGING",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8312.usb.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.usb.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/magnetometer/ist8303-new/ist8303.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8312.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/dalvik/dx/src/com/android/dx/util/IntIterator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/emma/core/java12/com/vladium/util/IntIntMap.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/dexmaker/src/dx/java/com/android/dx/util/IntIterator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/dalvik/dexgen/src/com/android/dexgen/util/IntIterator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/libcore/luni/src/main/java/java/lang/ExceptionInInitializerError.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/ipc/ipcns_notifier.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/INSTALL",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/mt6582/init.mt6582.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/include/linux/vermagic.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/apps/DeviceConfig/proguard-project.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/lib1/proguard-project.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/app/proguard-project.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/operator/OP01/packages/apps/ConfigureCheck2/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/apps/DeviceConfig/proguard-project.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/apps/DeviceConfig/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/lib1/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/app/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/testing/gtest/xcode/Config/DebugProject.xcconfig",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/apps/DeviceConfig/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/protobuf/gtest/xcode/Config/DebugProject.xcconfig",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/llvm/autoconf/m4/config_project.m4",
-				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/python/darwin-x86/2.7.5/lib/python2.7/ConfigParser.py",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/mockito/src/org/mockito/internal/configuration/injection/SpyOnInjectedFieldsHandler.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/packages/apps/Camera2/src/com/android/camera/ui/OnIndicatorEventListener.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/hardware/ril/viatelecom/pppd_via/magic.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.modem.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/bootable/bootloader/lk/project/aw1978.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/bootable/bootloader/lk/project/aw1975.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/docs/source.android.com/src/devices/audio_avoiding_pi.jd",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/common/sepolicy/audiocmdservice_atci.te",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/libopus/silk/control_audio_bandwidth.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/fugu/libaudio/audio_hal_hooks.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/generic/goldfish/audio/MODULE_LICENSE_APACHE2",
-				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/audio_hw_hal.cpp",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/flo/audio_effects.conf",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/qemu/audio/audio.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/test/AudioSignalFactoryTest.cpp",
-				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/AudioPolicyManagerDefault.cpp",
-				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/client/AndroidManifest.xml",
-				"/home/lzg/android5.0/MT8382_L_BD2/system/media/audio_utils/primitives.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/art/runtime/dex_instruction_visitor_test.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/BUILD.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/Android.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/data/sounds/AudioPackage13_48.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/data/sounds/AudioPackage12_48.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/htc/flounder/nvaudio_conf.xml",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/av/services/audiopolicy/audio_policy_conf.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/docs/source.android.com/src/devices/audio_latency_measure.jd",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/fugu/libaudio/audio_hal_thunks.cpp"
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/bootable/bootloader/lk-mtk/mt8127/project/ford_proto.mk",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/bootable/bootloader/ufbl-features/project/ford_proto.mk",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/device/amazon/ford/tablet_full_ford.mk",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/device/amazon/ford/full_ford.mk",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/bootable/bootloader/lk-mtk/mt8127/project/ford.mk",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/bootable/bootloader/ufbl-features/project/ford.mk",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/device/amazon/ford_proto/tablet_full_ford_proto.mk",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/fireos/prebuilts/apps/Office/Android.mk",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/external/clang/test/OpenMP/parallel_for_default_messages.cpp",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/fireos/prebuilts/middleware/dcp/settings/ford_proto.dat",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/external/chromium_org/base/mac/sdk_forward_declarations.h",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/external/clang/test/SemaCXX/function-overloaded-redecl.cpp",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/external/bison/m4/fcntl-o.m4",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/fireos/tests/TestDs4a/res/anim/fade_out_delayed.xml",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/external/dnsmasq/FAQ",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/frameworks/av/MODULE_LICENSE_APACHE2",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/frameworks/base/sdk_modules.mk",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/frameworks/rs/rsDefines.h",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/bionic/tests/fortify_test.cpp",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/art/compiler/file_output_stream.cc",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/bionic/libm/fake_long_double.c",
+				"/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/.repo/manifests/fireos.xml",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/include/linux/fcntl.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/fs/fcntl.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/clang/test/SemaCXX/friend-class-nodecl.cpp",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/sepolicy/file_contexts",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/dnsmasq/FAQ",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/deqp/doc/testspecs/GLES31/functional.synchronization.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/deqp/doc/testspecs/GLES3/functional.shaders.int_op.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/deqp/doc/testspecs/GLES31/functional.shaders.opaque_type_indexing.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/include/uapi/asm-generic/fcntl.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/bison/linux-lib/fcntl.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/bison/darwin-lib/fcntl.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/base/core.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/base/class.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/base/bus.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/block/pktcdvd.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/cpufreq/cpufreq.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/cpuidle/sysfs.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/dma/ioat/dma.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/dma/ioat/dma.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/edac/edac_device_sysfs.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/block/elevator.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/block/blk-sysfs.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/block/blk-integrity.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/x86/kernel/cpu/mcheck/mce_amd.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/x86/kernel/cpu/intel_cacheinfo.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/sh/kernel/cpu/sh4/sq.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/s390/kernel/cache.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/powerpc/kernel/cacheinfo.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/ia64/kernel/topology.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/tb8127p5/ssw/sim_switch.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/tb8127p4_mlc/ssw/sim_switch.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/tb8127p4/ssw/sim_switch.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/tb27A1912/ssw/sim_switch.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/tb27A1910/ssw/sim_switch.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/ford_proto/ssw/sim_switch.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/ford/ssw/sim_switch.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/mtk_ccci_helper.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/arch/arm/mach-mt8127/mt_devs.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/md/bcache/sysfs.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/net/bridge/br_private.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/include/linux/sysfs.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/fs/nfsd/vfs.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/fs/nfsd/vfs.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/video4linux/v4l2-framework.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/checkpolicy/VERSION",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/bootable/recovery/fuse_sideload.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/frameworks/compile/slang/tests/P_str_escape/str\\\\escape.rs",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/include/linux/vfs.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/filesystems/vfs.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/bootable/bootloader/lk/lib/openssl/e_os.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/openssl/e_os.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/netperf/netlib.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/mdnsresponder/mDNSShared/dnssd_ipc.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/mdnsresponder/Clients/dns-sd.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/libopus/tests/test_opus_encode.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/libopus/tests/test_opus_decode.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/e2fsprogs/include/nonunix/unistd.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/compiler-rt/lib/profile/InstrProfilingFile.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/third_party/tcmalloc/vendor/src/windows/port.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/third_party/tcmalloc/chromium/src/windows/port.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/third_party/opus/src/tests/test_opus_encode.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/third_party/opus/src/tests/test_opus_decode.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/third_party/openssl/openssl/e_os.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/bootable/bootloader/ufbl-features/features/common_openssl/e_os.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/build/envsetup.sh",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/fdlibm/e_remainder.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/extensions/renderer/resources/extensions_renderer_resources.grd",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/ia64/err_inject.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/misc/mediatek/hello/ls.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/clang/test/Preprocessor/pp-record.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/fs/proc/base.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/tty/synclinkmp.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/net/wan/hd64570.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/media/usb/cpia2/cpia2_core.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/frameworks/native/cmds/ip-up-vpn/ip-up-vpn.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/include/linux/fs.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/build/tools/atree/fs.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/build/tools/atree/fs.cpp",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/clang/include/clang/AST/APValue.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/llvm/test/CodeGen/ARM/a15-partial-update.ll",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/v8/test/webkit/fast/js/array-slow-put-expected.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/extensions/browser/admin_policy_unittest.cc",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/applying-patches.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/build/tools/adbs",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/mm/quicklist.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/iproute2/tc/q_prio.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/chromium_org/components/query_parser/query_parser_unittest.cc",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/qemu/distrib/sdl-1.2.15/docs/man3/SDL_PumpEvents.3",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/frameworks/av/media/libstagefright/codecs/amrwb/src/q_pulse.h",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/zxing/qr_scanner/src/com/google/zxing/client/android/PlanarYUVLuminanceSource.java",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/filesystems/sysfs.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/filesystems/sysv-fs.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/sound/oss/vidc_fill.S",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/infiniband/sysfs.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/rapidio/sysfs.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/cpuidle/sysfs.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/icu/icu4c/source/data/locales/fr_SY.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/icu/icu4c/source/data/locales/ar_SY.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/icu/icu4c/source/data/curr/fr_SY.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/security/keys.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/static-keys.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/scsi/advansys.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/Documentation/ia64/fsys.txt",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/skia/tools/timer/SysTimer_mach.cpp",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/kernel/sys.c",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/external/qemu/distrib/sdl-1.2.15/src/video/SDL_yuv_sw.c"
 			],
 			"find":
 			{
-				"height": 30.0
+				"height": 39.0
 			},
 			"find_in_files":
 			{
 				"height": 102.0,
 				"where_history":
 				[
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/kernel/power",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/kernel",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/kernel/power",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/frameworks",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/hardware",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/vendor",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/kernel/power",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/hardware",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/frameworks",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+					"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/misc",
 					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
 					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
 					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
@@ -948,136 +1745,136 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"debug_check_no_locks_held",
-					"debug_check_no",
-					"lockdep_init_map",
-					"mutex_lock_nested",
-					"mutex_lock",
-					"mutex_",
-					"mutex_nest_lock",
-					"mutex_nested_lock",
-					"export_symbol_gpl",
-					"config_lockdep",
-					"config_modules",
-					"config_LOCKDEP",
-					"config_modules",
-					"modules",
-					"config_lockdep",
-					"gpl",
-					"mutex_lock_nested",
-					"config_debug_loc",
-					"config_modules",
-					"config_lockdep",
-					"config",
-					"config_modules",
-					"config_lockdep",
-					"config_modules",
-					"int Volume::formatVol(bool wipe)",
-					"SLOGI(\"Formatting volume %s (%s)\", getLabel(), devicePath);",
-					"int Volume::formatVol(bool wipe)",
-					"setState(Volume::State_Formatting);",
-					"int Volume::formatVol(bool wipe)",
-					"wipe",
-					"int Volume::formatVol(bool wipe)",
-					"if(formatExfat == 1)",
-					"if (formatExfat == 1)",
-					"if (formatExfat == 1) ",
-					"Fat::format(devicePath, 0, wipe)",
-					"if(Fat::format(devicePath, 0, wipe))",
-					"if (Fat::format(devicePath, 0, wipe))",
-					"sprintf(devicePath, \"/dev/block/vold/%d:%d\",",
-					"if (formatEntireDevice)",
-					"setState(Volume::State_Formatting)",
-					"sprintf(devicePath, \"/dev/block/vold/%d:%d\",",
-					"if(formatEntireDevice)",
-					"if (formatEntireDevice)",
-					"Only initialize the MBR if we are formatting the entire device",
-					"formatEntireDevice && !formatExfat",
-					"if (formatEntireDevice)",
-					"Only initialize the MBR if we are formatting the entire ",
-					"Only initialize",
-					"State_Formatting",
-					"copy",
-					"copy.*line",
-					"copy line",
-					"copy",
-					"volume.cpp",
-					"volume",
-					"config_lock",
-					"config_modul",
-					"config_modul=y",
-					"config_moduls",
-					"config_modul",
-					"config",
-					"crc",
-					"define MODULE_ARCH_VERMAGIC",
-					"mutex_lock_nested",
-					"#ifdef CONFIG_MODVERSIONS",
-					"MODULE_ARCH_VERMAGIC=y",
-					"MODULE_ARCH_VERMAGIC",
-					"CONFIG_SMP=y",
-					"CONFIG_PREEMPT",
-					"CONFIG_MODULE_UNLOAD",
-					"MODULE_ARCH_VERMAGIC.*armv7",
-					"armv7",
-					"MODULE_ARCH_VERMAGIC \"ARMv7\"",
-					"MODULE_ARCH_VERMAGIC",
-					"ARMv7",
-					"MODULE_ARCH_VERMAGIC=y",
-					"MODULE_ARCH_VERMAGIC",
-					"MODULE_VERMAGIC_MODVERSIONS",
-					"CONFIG_MODVERSIONS",
-					"CONFIG_LOCKDEP",
-					"CONFIG_DEBUG_LOCK_ALLOC",
-					"CONFIG_MODULES",
-					"CONFIG_MODVERSIONS",
-					"error",
-					"error:",
-					"error",
-					"MODULE_VERMAGIC_MODVERSIONS",
-					"ARMv7",
-					"MODULE_ARCH_VERMAGIC",
-					"ARMv7",
-					"MODULE_ARCH_VERMAGIC",
-					"CONFIG_MODVERSIONS",
-					"version",
-					"MT8382_L_BD2/.*1978",
-					"MT8382_L_BD2/.*8382",
-					"MT8382_L_BD2/.*all",
-					"MT8382_L_BD2/.*8382",
-					"8382",
-					"1987",
-					"MODVERSION",
-					"config_lock",
-					"config_modul",
-					"ntfs",
-					"no_locks_held",
-					"gpl",
-					"lockdep_init_map",
-					"lockedp_init_map",
-					"init_map",
-					"EXPORT_SYMBOL_GPL",
+					"open",
+					"/*",
+					"taskIdSelf",
+					"getpid",
+					"class_attribute",
+					"toi_attr_show",
+					".sysfs_ops",
+					"ops",
+					".show",
+					"show",
+					"snapshot_write",
+					"snapshot_fops",
+					"kobj_test_init",
+					",\n",
+					"struct",
+					"_name",
+					"my_attr",
+					"find",
+					"quick",
+					"f3",
+					"f1",
+					"work",
+					"autosleep_lock",
+					"pm_get",
+					"count",
+					"try_to_suspend",
+					"trace_wakeup_source_activate",
+					"autosleep_ws",
+					"__pm_stay_awake",
+					"autosleep_ws",
+					"__pm_stay_awake",
+					"wakeup_source_report_event",
+					"wakeup_source_activate",
+					"pm_states",
+					"autosleep_state",
+					"autosleep_show",
+					"wakeup_sources",
+					"libsuspend",
+					"f5",
+					"f9",
+					"f11",
+					"EXPORT",
 					"export",
-					"mutex_lock_nested",
-					"CONFIG_DEBUG_LOCKDEP",
-					"CONFIG_PROVE_LOCKING",
-					"CONFIG_LOCKDEP_SUPPORT",
-					"config_lockdep",
-					"version",
-					"modversion",
-					"version",
-					"debug_lock",
-					"config_module",
-					"config_modules",
-					"config_module",
-					"config",
-					"debug_LOCK",
-					"LOCK",
-					"LOCKDEP",
-					"insmod",
-					"inmod"
+					"vi",
+					"v",
+					"vi",
+					"vim",
+					"attribute",
+					"group",
+					"attribute_group",
+					"sysfs_ops",
+					"type",
+					"kobj_type",
+					"type",
+					"auto",
+					"pm_start_workqueue",
+					"kobject_create_and_add",
+					"sysfs_create_group",
+					"pm_autosleep_init",
+					"core_initcall",
+					"goto_definition",
+					"f12",
+					"find_next",
+					"command",
+					"find",
+					"attr_group",
+					"f4",
+					"f3",
+					"f4",
+					"mode",
+					"f8",
+					"f6",
+					"save",
+					"f5",
+					"log",
+					"hib_log",
+					"attribute",
+					"f7",
+					"default_attrs",
+					"autosleep",
+					"pm_trace_attr",
+					"attr_group",
+					"group",
+					"attrbu",
+					"attr_group",
+					"group",
+					"attr",
+					"kobject_init_and_add",
+					"g",
+					"attr_group",
+					"MTKFB_MSG",
+					"power_kobj",
+					"kobj_attribute",
+					"wakeup_count",
+					"power_attr",
+					"attr",
+					"attr_group",
+					"CONFIG_PM_RUNTIME",
+					"#",
+					"autosleep_wq",
+					"WQ_MEM_RECLAIM",
+					"ORDERED",
+					"WQ_ORDERED",
+					"__WQ_ORDERED",
+					"creat_work",
+					"creat_queue",
+					"creat",
+					"autosleep_wq",
+					"destroy_workqueue",
+					"suspend_work",
+					"autosleep_wq",
+					"decl",
+					"interr",
+					"inter",
+					"work_struct",
+					"include",
+					"mm.h",
+					"work_struct",
+					"workstruct",
+					"workstryct",
+					"wait_event",
+					"prepare_to_wait",
+					"func",
+					"event",
+					"wake_up",
+					"prepare_to_wait",
+					"modules_disabled",
+					"SYSCALL_DEFINE2"
 				],
-				"highlight": false,
+				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
 				"regex": false,
@@ -1095,7 +1892,7 @@
 			[
 				{
 					"follow_symlinks": true,
-					"path": "/home/ext-huaqin-liuzhigang/gpt"
+					"path": "/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration"
 				}
 			],
 			"groups":
@@ -1106,19 +1903,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/ext-huaqin-liuzhigang/test/repo",
+							"file": "/home/ext-huaqin-liuzhigang/ford/integration_ford/work_integration/bootable/bootloader/preloader-mtk/mt8127/custom/ford/ford.mk",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 17443,
+								"buffer_size": 998,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										5998,
-										5998
+										260,
+										260
 									]
 								],
 								"settings":
@@ -1126,156 +1923,66 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
 									],
-									"codeintel": true,
-									"codeintel_database_dir": "~/.codeintel",
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Node.js",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_exclude_scopes_from_complete_triggers":
-									[
-										"comment"
-									],
-									"codeintel_language_settings":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_exclude_dir":
-											[
-												"/build/",
-												"/min/"
-											],
-											"codeintel_scan_extra_dir":
-											[
-											],
-											"codeintel_scan_files_in_project": false,
-											"codeintel_selected_catalogs":
-											[
-												"jQuery"
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 15,
-											"codeintel_scan_exclude_dir":
-											[
-												"/Applications/MAMP/bin/php/php5.5.3/"
-											],
-											"codeintel_scan_extra_dir":
-											[
-											],
-											"codeintel_scan_files_in_project": true,
-											"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
-										},
-										"Python3":
-										{
-											"codeintel_scan_extra_dir":
-											[
-												"/Applications/Sublime Text.app/Contents/MacOS",
-												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
-												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
-											],
-											"codeintel_scan_files_in_project": true,
-											"codeintel_selected_catalogs":
-											[
-											],
-											"python3": "/usr/local/bin/python3.3"
-										}
-									},
-									"codeintel_live": true,
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-									],
-									"codeintel_snippets": false,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"codeintel_word_completions": "buffer",
-									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 3036.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -1286,7 +1993,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 39.0
 			},
 			"input":
 			{
@@ -1317,7 +2024,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 200.0
+				"height": 335.0
 			},
 			"output.find_results":
 			{
@@ -1331,7 +2038,7 @@
 			"project": "",
 			"replace":
 			{
-				"height": 56.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1339,6 +2046,402 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"vfs.c",
+						"kernel/fs/nfsd/vfs.c"
+					],
+					[
+						"vfs.txt",
+						"kernel/Documentation/filesystems/vfs.txt"
+					],
+					[
+						"sys.txt",
+						"kernel/Documentation/filesystems/sysfs.txt"
+					],
+					[
+						"suspend",
+						"kernel/kernel/power/suspend.c"
+					],
+					[
+						"my_ko",
+						"kernel/drivers/misc/mediatek/hello/my_kobject.c"
+					],
+					[
+						"forddeconfig",
+						"kernel/arch/arm/configs/ford_debug_defconfig"
+					],
+					[
+						"ford_debug",
+						"kernel/arch/arm/configs/ford_debug_defconfig"
+					],
+					[
+						"powe.h",
+						"kernel/kernel/power/power.h"
+					],
+					[
+						"kernel/include/linux/sysfs.h",
+						"kernel/include/linux/sysfs.h"
+					],
+					[
+						"power",
+						"kernel/kernel/power/power.h"
+					],
+					[
+						"hello.c",
+						"kernel/drivers/misc/mediatek/hello/hello.c"
+					],
+					[
+						"my_kobject.c",
+						"hardware/ti/omap4-aah/security/tf_crypto_sst/pkcs11_object.c"
+					],
+					[
+						"kobject.c",
+						"kernel/drivers/misc/mediatek/hello/kobject.c"
+					],
+					[
+						"mtkfb.c",
+						"kernel/drivers/misc/mediatek/video/mt8127/mtkfb.c"
+					],
+					[
+						"kernel/include/linux/kobject.h",
+						"kernel/include/linux/kobject.h"
+					],
+					[
+						"kernel/kernel/power/power.h",
+						"kernel/kernel/power/power.h"
+					],
+					[
+						"ford_de",
+						"kernel/arch/arm/configs/ford_debug_defconfig"
+					],
+					[
+						"autosl",
+						"kernel/kernel/power/autosleep.c"
+					],
+					[
+						"documentation/workqueue.txt",
+						"kernel/Documentation/workqueue.txt"
+					],
+					[
+						"mm.h",
+						"kernel/include/linux/mm.h"
+					],
+					[
+						"kernel/include/linux/wait.h",
+						"kernel/include/linux/wait.h"
+					],
+					[
+						"mtkfb",
+						"kernel/drivers/misc/mediatek/video/mt8127/mtkfb.c"
+					],
+					[
+						"kernel/include/linux/kthread.h",
+						"kernel/include/linux/kthread.h"
+					],
+					[
+						"ford_",
+						"kernel/arch/arm/configs/ford_debug_defconfig"
+					],
+					[
+						"kernel/include/linux/moduleparam.h",
+						"kernel/include/linux/moduleparam.h"
+					],
+					[
+						"ford_debu",
+						"kernel/arch/arm/configs/ford_debug_defconfig"
+					],
+					[
+						"ford",
+						"kernel/arch/arm/configs/ford_defconfig"
+					],
+					[
+						"project",
+						"device/amazon/ford/ProjectConfig.mk"
+					],
+					[
+						"module",
+						"kernel/kernel/module.c"
+					],
+					[
+						"rmmod",
+						"system/core/toolbox/rmmod.c"
+					],
+					[
+						"p_module",
+						"external/oprofile/daemon/liblegacy/p_module.h"
+					],
+					[
+						"module.c",
+						"kernel/kernel/module.c"
+					],
+					[
+						"kthread.c",
+						"kernel/kernel/kthread.c"
+					],
+					[
+						"kernel/thread.c",
+						"bootable/bootloader/lk/kernel/thread.c"
+					],
+					[
+						"kernel/include/thread.h",
+						"kernel/include/linux/kthread.h"
+					],
+					[
+						"kernel/drivers/misc/mediatek/misc_via/sync.c",
+						"kernel/drivers/misc/mediatek/misc_via/sync.c"
+					],
+					[
+						"kernel/drivers/media/dvb-core/dvb_ca_en50221.c",
+						"kernel/drivers/media/dvb-core/dvb_ca_en50221.c"
+					],
+					[
+						"wakeup.c",
+						"kernel/drivers/base/power/wakeup.c"
+					],
+					[
+						"kernel/kernel/power/autosleep.c",
+						"kernel/kernel/power/autosleep.c"
+					],
+					[
+						"forddeconfi",
+						"kernel/arch/arm/configs/ford_defconfig"
+					],
+					[
+						"kernel/kernel/power/main.c",
+						"kernel/kernel/power/main.c"
+					],
+					[
+						"ipower",
+						"frameworks/native/services/powermanager/IPowerManager.cpp"
+					],
+					[
+						"kernel/include/linux/pm_wakeup.h",
+						"kernel/include/linux/pm_wakeup.h"
+					],
+					[
+						"hardware/power.c",
+						"hardware/libhardware_legacy/power/power.c"
+					],
+					[
+						"power.java",
+						"frameworks/base/core/java/android/os/PowerManager.java"
+					],
+					[
+						"kernel/kernel/power/earlysuspend.c",
+						"kernel/kernel/power/earlysuspend.c"
+					],
+					[
+						"wakelock.h",
+						"kernel/include/linux/wakelock.h"
+					],
+					[
+						"kernel/drivers/misc/mediatek/misc_via/power.c",
+						"kernel/drivers/misc/mediatek/misc_via/power.c"
+					],
+					[
+						"modules/power",
+						"hardware/libhardware/modules/power/power.c"
+					],
+					[
+						"powermanagerserv",
+						"frameworks/base/services/core/java/com/android/server/power/PowerManagerService.java"
+					],
+					[
+						"frameworks/base/core/jni/power.cpp",
+						"frameworks/base/services/core/jni/com_android_server_power_PowerManagerService.cpp"
+					],
+					[
+						"kernel/power.c",
+						"kernel/kernel/power/suspend_time.c"
+					],
+					[
+						"powerservice.java",
+						"frameworks/base/services/core/java/com/android/server/power/PowerManagerService.java"
+					],
+					[
+						"powerman",
+						"frameworks/base/core/java/android/os/PowerManager.java"
+					],
+					[
+						"external/libnfc-nci/src/gki/ulinux/gki_ulinux.c",
+						"external/libnfc-nci/src/gki/ulinux/gki_ulinux.c"
+					],
+					[
+						"power.c",
+						"kernel/drivers/acpi/power.c"
+					],
+					[
+						"kernel/include/mach/mtk_thermal_monitor.h",
+						"kernel/include/mach/mtk_thermal_monitor.h"
+					],
+					[
+						"kernel/drivers/misc/mediatek/met/mt8127/platform/mt8127/thermal.h",
+						"kernel/drivers/misc/mediatek/met/mt8127/platform/mt8127/thermal.h"
+					],
+					[
+						"therml.c",
+						"kernel/drivers/acpi/thermal.c"
+					],
+					[
+						"kernel/include/linux/thermal.h",
+						"kernel/include/linux/thermal.h"
+					],
+					[
+						"kernel/drivers/misc/mediatek/thermal/mtk_thermal_monitor.c",
+						"kernel/drivers/misc/mediatek/thermal/mtk_thermal_monitor.c"
+					],
+					[
+						"kernel/drivers/misc/mediatek/thermal/mt8127/mtk_ts_pmic6397.c",
+						"kernel/drivers/misc/mediatek/thermal/mt8127/mtk_ts_pmic6397.c"
+					],
+					[
+						"arc/arm/deconfig",
+						"kernel/arch/arm/configs/ford_defconfig"
+					],
+					[
+						"tmp102",
+						"kernel/drivers/hwmon/tmp102.c"
+					],
+					[
+						"documentation/hwmon/sysfs-interface",
+						"kernel/Documentation/hwmon/sysfs-interface"
+					],
+					[
+						"hardware/libhardware/include/hardware/sensors.h",
+						"hardware/libhardware/include/hardware/sensors.h"
+					],
+					[
+						"hardware/libhardware/include/hardware/hardware.h",
+						"hardware/libhardware/include/hardware/hardware.h"
+					],
+					[
+						"sensordevice",
+						"frameworks/native/services/sensorservice/SensorDevice.cpp"
+					],
+					[
+						"sensorservice",
+						"frameworks/native/services/sensorservice/SensorService.cpp"
+					],
+					[
+						"kernel/include/linux/hwmsen_dev.h",
+						"kernel/include/linux/hwmsen_dev.h"
+					],
+					[
+						"mediatak/accel.c",
+						"kernel/drivers/misc/mediatek/accelerometer/accel.c"
+					],
+					[
+						"accel.c",
+						"kernel/drivers/misc/mediatek/accelerometer/accel.c"
+					],
+					[
+						"kernel/arch/arm/mach-mt8127/ford/accelerometer/mpu6050.c",
+						"kernel/arch/arm/mach-mt8127/ford/accelerometer/mpu6050.c"
+					],
+					[
+						"mpu6050gy",
+						"kernel/drivers/misc/mediatek/gyroscope/mpu6050gy/mpu6050.c"
+					],
+					[
+						"hwmsendev",
+						"kernel/drivers/misc/mediatek/hwmon/hwmsen/hwmsen_dev.c"
+					],
+					[
+						"vendor/mediatek/proprietary/hardware/sensor/hwmsen/hwmsen_chip_info.c",
+						"vendor/mediatek/proprietary/hardware/sensor/hwmsen/hwmsen_chip_info.c"
+					],
+					[
+						"projec",
+						"device/amazon/ford/ProjectConfig.mk"
+					],
+					[
+						"device/amazon/ford/custom/hal/sensors/sensor/hwmsen_custom.c",
+						"device/amazon/ford/custom/hal/sensors/sensor/hwmsen_custom.c"
+					],
+					[
+						"kernel/drivers/misc/mediatek/alsps/tmd2771_auto/tmd2771.c",
+						"kernel/drivers/misc/mediatek/alsps/tmd2771_auto/tmd2771.c"
+					],
+					[
+						"projectconfig",
+						"device/amazon/ford/ProjectConfig.mk"
+					],
+					[
+						"include/hardware.h",
+						"hardware/libhardware/include/hardware/hardware.h"
+					],
+					[
+						"hardw",
+						"hardware/libhardware/hardware.c"
+					],
+					[
+						"hwmsenchip",
+						"vendor/mediatek/proprietary/hardware/sensor/hwmsen/hwmsen_chip_info.h"
+					],
+					[
+						"hwmsen_custom.c",
+						"device/amazon/ford/custom/hal/sensors/sensor/hwmsen_custom.c"
+					],
+					[
+						"vendor/mediatek/proprietary/hardware/sensor/hwm",
+						"vendor/mediatek/proprietary/hardware/sensor/hwmsen/sensor_list_readme.txt"
+					],
+					[
+						"vendor/mediatek/proprietary/hardware/sensor",
+						"vendor/mediatek/proprietary/hardware/include/mtkcam/hal/sensor_hal.h"
+					],
+					[
+						"frameworks/native/services/sensorservice/sensorservice.cpp",
+						"frameworks/native/services/sensorservice/SensorService.cpp"
+					],
+					[
+						"frameworks/base/native/android/sensor.cpp",
+						"frameworks/base/native/android/sensor.cpp"
+					],
+					[
+						"apds99",
+						"kernel/drivers/misc/mediatek/alsps/APDS9930/APDS9930.c"
+					],
+					[
+						"kxtj2_1009",
+						"kernel/drivers/misc/mediatek/accelerometer/KXTJ2_1009/kxtj2_1009.c"
+					],
+					[
+						"hwmsensor.h",
+						"device/mediatek/common/kernel-headers/linux/hwmsensor.h"
+					],
+					[
+						"sensors_hwmsen.c",
+						"vendor/mediatek/proprietary/hardware/sensor/hwmsen/sensors_hwmsen.c"
+					],
+					[
+						"tmp10",
+						"kernel/drivers/hwmon/tmp102.c"
+					],
+					[
+						"ker/driv/misc/me/cam/cam/",
+						"kernel/drivers/misc/mediatek/cam_cal/GT24c32a_eeprom/GT24c32a.c"
+					],
+					[
+						"sensor.cpp",
+						"frameworks/base/native/android/sensor.cpp"
+					],
+					[
+						"sensord",
+						"frameworks/native/services/sensorservice/SensorDevice.cpp"
+					],
+					[
+						"tmp102.c",
+						"kernel/drivers/hwmon/tmp102.c"
+					],
+					[
+						"ker/scri/ch",
+						"kernel/scripts/checkstack.pl"
+					],
+					[
+						"ker/driver/mis/media/acce/cus",
+						"kernel/drivers/misc/mediatek/accelerometer/inc/cust_acc.h"
+					],
 					[
 						"aw1978de",
 						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
@@ -1454,30 +2557,6 @@
 					[
 						"init.usb.rc",
 						"device/huaqin/aw1978/init.mt6582.usb.rc"
-					],
-					[
-						"k/d/lcm/",
-						"kernel-3.10/drivers/misc/mediatek/lcm/mt65xx_lcm_list.c"
-					],
-					[
-						"ke/d/lc/",
-						"kernel-3.10/drivers/scsi/lpfc/lpfc_bsg.c"
-					],
-					[
-						"driver//",
-						"frameworks/rs/driver/runtime/rs_cl.c"
-					],
-					[
-						"projectconfig",
-						"device/mediatek/tb6582p1/ProjectConfig.mk"
-					],
-					[
-						"fiele",
-						"/home/lzg/gitlib/first/source/file2.c"
-					],
-					[
-						"/home/gitl",
-						"/home/lzg/gitlib/first/source/file2.c"
 					]
 				],
 				"width": 0.0
@@ -1489,24 +2568,28 @@
 				[
 					[
 						"",
-						"~/gitlib/python/python_webapp/conf/webapp.sublime-project"
+						"~/ford/vsb_gerrit_ford/kernel/drivers/base/power/hello.sublime-workspace"
 					]
 				],
 				"width": 380.0
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 392.0,
 				"selected_items":
 				[
+					[
+						"device_ty",
+						"device_type"
+					]
 				],
-				"width": 0.0
+				"width": 998.0
 			},
 			"selected_group": 0,
 			"settings":
 			{
 			},
-			"show_minimap": false,
+			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": false,
@@ -1515,7 +2598,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 6,
+			"window_id": 14,
 			"workspace_name": ""
 		}
 	],
@@ -1523,6 +2606,9 @@
 	{
 		"recent_workspaces":
 		[
+			"/home/ext-huaqin-liuzhigang/ford/sublime_config/ford.sublime-workspace",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/base/power/hello.sublime-workspace",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/misc/mediatek/hello/autool.sublime-workspace",
 			"/home/lzg/gitlib/python/python_webapp/conf/webapp.sublime-workspace",
 			"/home/lzg/harley/schf/untitled.sublime-workspace",
 			"/home/lzg/android5.0/sublimeconfig/MT8382.sublime-workspace",

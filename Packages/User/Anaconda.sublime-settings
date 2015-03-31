@@ -1,3 +1,5 @@
 {
-	"anaconda_linting": true
+	"anaconda_linting": true,
+	"anaconda_gutter_marks": false,
+	"anaconda_linter_mark_style": "none",
 }

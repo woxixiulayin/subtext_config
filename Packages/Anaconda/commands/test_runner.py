@@ -13,6 +13,7 @@ from ..anaconda_lib.helpers import get_settings, git_installation, is_python
 
 DEFAULT_TEST_COMMAND = "nosetests"
 TEST_DELIMETER = "."
+TB_FILE = r'[ ]*File \"(...*?)\", line ([0-9]*)'
 
 
 def virtualenv(func):
@@ -114,8 +115,10 @@ class AnacondaRunTestsBase(sublime_plugin.TextCommand):
         the path is different
         """
 
-        return 'Packages/{}/PythonConsoleDark.hidden-tmTheme'.format(
-            'anaconda' if git_installation else 'Anaconda'
+        theme = get_settings(
+            self.view, 'test_runner_theme', 'PythonConsoleDark.hidden-tmTheme')
+        return 'Packages/{}/{}'.format(
+            'anaconda' if git_installation else 'Anaconda', theme
         )
 
     @property
@@ -123,8 +126,13 @@ class AnacondaRunTestsBase(sublime_plugin.TextCommand):
         """Return back the tests path
         """
 
-        return os.path.relpath(
-            self.view.file_name(), self.test_root).replace('/', '.')[:-3]
+        real_path = os.path.relpath(
+            self.view.file_name(), self.test_root).replace('/', '.')
+        print(real_path)
+        if real_path is not None:
+            return real_path[:-3]
+
+        return ""
 
     def is_enabled(self):
         """Determine if this command is enabled or not
@@ -142,7 +150,9 @@ class AnacondaRunTestsBase(sublime_plugin.TextCommand):
         self.view.window().run_command(
             'exec', {
                 'shell_cmd': command,
-                'working_dir': self.test_root
+                'working_dir': self.test_root,
+                'syntax': self.output_syntax,
+                "file_regex": TB_FILE
             }
         )
         self._save_test_run(command)
@@ -173,6 +183,7 @@ class AnacondaRunTestsBase(sublime_plugin.TextCommand):
         if self.after_test is not None:
             command += [';', self.after_test]
 
+        print(command)
         return ' '.join(command)
 
     def _configure_output_window(self, width=80):
@@ -180,7 +191,6 @@ class AnacondaRunTestsBase(sublime_plugin.TextCommand):
         """
 
         panel = self.view.window().get_output_panel('exec')
-        panel.set_syntax_file(self.output_syntax)
         panel.settings().set('wrap_width', width,)
 
         if self.output_show_color:
@@ -242,6 +252,8 @@ class AnacondaRunCurrentTest(AnacondaRunTestsBase):
         )
         if test_name is not None:
             return test_path + test_name
+
+        return ''
 
 
 class AnacondaRunLastTest(AnacondaRunTestsBase):
