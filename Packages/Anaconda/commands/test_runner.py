@@ -127,7 +127,7 @@ class AnacondaRunTestsBase(sublime_plugin.TextCommand):
         """
 
         real_path = os.path.relpath(
-            self.view.file_name(), self.test_root).replace('/', '.')
+            self.view.file_name(), self.test_root).replace(os.sep, '.')
         print(real_path)
         if real_path is not None:
             return real_path[:-3]
@@ -158,6 +158,10 @@ class AnacondaRunTestsBase(sublime_plugin.TextCommand):
         self._save_test_run(command)
 
     def _load_settings(self):
+        sep = ";"
+        if os.name == "nt":
+            sep = "&"
+
         gs = get_settings
         self.test_root = gs(
             self.view, 'test_root', self.view.window().folders()[0]
@@ -165,10 +169,10 @@ class AnacondaRunTestsBase(sublime_plugin.TextCommand):
         self.test_command = gs(self.view, 'test_command', DEFAULT_TEST_COMMAND)
         self.before_test = gs(self.view, 'test_before_command')
         if type(self.before_test) is list:
-            self.before_test = ';'.join(self.before_test)
+            self.before_test = sep.join(self.before_test)
         self.after_test = gs(self.view, 'test_after_command')
         if type(self.after_test) is list:
-            self.after_test = ';'.join(self.after_test)
+            self.after_test = sep.join(self.after_test)
         self.test_delimeter = gs(self.view, 'test_delimeter', TEST_DELIMETER)
         self.output_show_color = gs(self.view, 'test_output_show_color', True)
 

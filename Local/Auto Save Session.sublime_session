@@ -1,6 +1,15 @@
 {
 	"folder_history":
 	[
+		"/var/data/chenhaojun/7_30_release500/kernel",
+		"/var/data/chenhaojun/7_30_release500/bootable",
+		"/var/data/chenhaojun/7_30_release500/vendor",
+		"/var/data/chenhaojun/ford_factory/hardware",
+		"/var/data/chenhaojun/ford_factory/vendor",
+		"/var/data/chenhaojun/ford_factory/kernel",
+		"/var/data/chenhaojun/ford_factory/device",
+		"/var/data/chenhaojun/ford_factory/bootable",
+		"/home/ext-huaqin-chenhaojun/jackson",
 		"/home/ext-huaqin-liuzhigang/gpt",
 		"/home/lzg/android5.0/server/8127/harley/kernel/kernel",
 		"/home/lzg/android5.0/server/8127/harley/kernel/drivers",
@@ -31,7 +40,7 @@
 		"/home/lzg/gitlib/python/win7_pygame",
 		"/home/lzg/iozone/iozone3_429/iozone3_429/src/current"
 	],
-	"last_version": 3065,
+	"last_version": 3083,
 	"last_window_id": 6,
 	"log_indexing": false,
 	"settings":
@@ -667,12 +676,168 @@
 				"selected_items":
 				[
 					[
-						"dir",
-						"dirname"
+						"Ti",
+						"Tieba_url"
+					],
+					[
+						"tieba",
+						"tieba_name"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"se",
+						"session"
+					],
+					[
+						"coe",
+						"codes	(my.html)"
+					],
+					[
+						"sel",
+						"self"
 					],
 					[
 						"_",
-						"__all__〔variable〕"
+						"__tablename__"
+					],
+					[
+						"cre",
+						"creat_engine"
+					],
+					[
+						"file",
+						"filenames"
+					],
+					[
+						"f",
+						"filename"
+					],
+					[
+						"pos",
+						"posts	(views.py)"
+					],
+					[
+						"fr",
+						"fromstring	function"
+					],
+					[
+						"he",
+						"height	(deal_image.py)"
+					],
+					[
+						"img",
+						"img_xy_rotate	(deal_image.py)"
+					],
+					[
+						"num",
+						"number_zone_img"
+					],
+					[
+						"enhance",
+						"enhance_shot_img"
+					],
+					[
+						"en",
+						"enhance	(deal_image.py)"
+					],
+					[
+						"cr",
+						"crop_number_zone"
+					],
+					[
+						"sear",
+						"search_width	(deal_image.py)"
+					],
+					[
+						"x_da",
+						"x_days_index	statement"
+					],
+					[
+						"point",
+						"point_number"
+					],
+					[
+						"index",
+						"index_count"
+					],
+					[
+						"height",
+						"search_height"
+					],
+					[
+						"one",
+						"onevalue_gray"
+					],
+					[
+						"E",
+						"enhancer"
+					],
+					[
+						"sho",
+						"show"
+					],
+					[
+						"No",
+						"Normalize	class"
+					],
+					[
+						"ser",
+						"search"
+					],
+					[
+						"sor",
+						"sorted	function"
+					],
+					[
+						"v",
+						"values	function"
+					],
+					[
+						"pix",
+						"pix_list"
+					],
+					[
+						"Err",
+						"IndexError	class"
+					],
+					[
+						"ex",
+						"except	keyword"
+					],
+					[
+						"pi",
+						"pix_lixt"
+					],
+					[
+						"zhi",
+						"zhifang_list"
+					],
+					[
+						"gra",
+						"gray_img"
+					],
+					[
+						"fi",
+						"figure"
+					],
+					[
+						"da",
+						"days2x"
+					],
+					[
+						"re",
+						"reverse	function"
+					],
+					[
+						"int",
+						"interact"
+					],
+					[
+						"dir",
+						"dirname"
 					],
 					[
 						"kd_hi",
@@ -683,47 +848,89 @@
 			"buffers":
 			[
 				{
-					"file": "/bin/repo",
+					"file": "flask_web/tieba_dig/index.html",
 					"settings":
 					{
-						"buffer_size": 23656,
+						"buffer_size": 2471,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/ext-huaqin-liuzhigang/test/os_test.py",
+					"file": "flask_web/tieba_dig/rat.py",
 					"settings":
 					{
-						"buffer_size": 23656,
+						"buffer_size": 2844,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/ext-huaqin-liuzhigang/test/test.py",
+					"file": "flask_web/tieba_dig/server.py",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 545,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "#!/bin/python\nimport os\n\n\nGIT = 'git'                     # our git command\nMIN_GIT_VERSION = (1, 7, 2)     # minimum supported git version\nrepodir = '.repo'               # name of repo's private directory\nS_repo = 'repo'                 # special repo repository\nS_manifests = 'manifests'       # special manifest repository\nREPO_MAIN = S_repo + '/main.py' # main script\nMIN_PYTHON_VERSION = (2, 6)     # minimum supported python version\n\n\ncurdir = os.getcwd()\nrepo = None\nolddir = None\nwhile curdir != '/' \\\n  and curdir != olddir \\\n  and not repo:\n  repo = os.path.join(curdir, repodir, REPO_MAIN)\n  if not os.path.isfile(repo):\n    repo = None\n    olddir = curdir\n    curdir = os.path.dirname(curdir)\nprint (repo, os.path.join(curdir, repodir))\n\nprint os.path.abspath(__file__)\nprint __file__\n\nclass sadf:\n  help = ",
-					"file": "/home/ext-huaqin-liuzhigang/ford/vsb_ford_repo/.repo/repo/cc.py",
-					"file_size": 797,
-					"file_write_time": 130710515890445054,
+					"file": "log/powerkey1.log",
 					"settings":
 					{
-						"buffer_size": 820,
-						"line_ending": "Unix"
+						"buffer_size": 1066154,
+						"line_ending": "Windows"
 					}
 				}
 			],
-			"build_system": "",
+			"build_system": "Anaconda Python Builder",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/my_make.sublime-build",
+							""
+						]
+					],
+					[
+						"Anaconda Python Builder",
+						""
+					]
+				]
+			],
+			"build_varint": "",
 			"command_palette":
 			{
-				"height": 140.0,
+				"height": 329.0,
+				"last_filter": "INSTA",
 				"selected_items":
 				[
+					[
+						"INSTA",
+						"Package Control: Install Package"
+					],
+					[
+						"INS",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"error",
+						"Anaconda: Show error list"
+					],
 					[
 						"gitlogc",
 						"Git: Log Current File"
@@ -779,13 +986,9 @@
 					[
 						"intall",
 						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					]
 				],
-				"width": 521.0
+				"width": 593.0
 			},
 			"console":
 			{
@@ -819,10 +1022,83 @@
 			},
 			"expanded_folders":
 			[
-				"/home/ext-huaqin-liuzhigang/gpt"
+				"/home/ext-huaqin-chenhaojun/jackson",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/flask-tumblelog",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/scrawler",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_dig",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_rat",
+				"/home/ext-huaqin-chenhaojun/jackson/log",
+				"/home/ext-huaqin-chenhaojun/jackson/microblog",
+				"/home/ext-huaqin-chenhaojun/jackson/workscript"
 			],
 			"file_history":
 			[
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/Tag/Tag Package.sublime-settings",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/User/HTMLBeautify.sublime-settings",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_rat/rat/data.sql",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/scrawler/scrapy_test/my_scrapy/my_scrapy/spiders/example.py",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_rat/rat/my.html",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_rat/rat/rat.py",
+				"/home/ext-huaqin-chenhaojun/jackson/workscript/sql_test.py",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_rat/rat/xpath_element_readme.txt",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_rat/rat/model.py",
+				"/usr/lib/python2.7/json/__init__.py",
+				"/usr/lib/python2.7/dist-packages/lxml/_elementpath.py",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_rat/rat/__init__.py",
+				"/home/ext-huaqin-chenhaojun/jackson/microblog/app/views.py",
+				"/home/ext-huaqin-chenhaojun/jackson/microblog/app/templates/base.html",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/flask-tumblelog/tumblelog/__init__.py",
+				"/home/ext-huaqin-chenhaojun/jackson/workscript/sendmail.py",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_rat/requirements.txt",
+				"/home/ext-huaqin-chenhaojun/jackson/workscript/db_sqlite.py",
+				"/home/ext-huaqin-chenhaojun/jackson/workscript/data_form.py",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/flask-tumblelog/tumblelog/admin.py",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/flask-tumblelog/tumblelog/models.py",
+				"/home/ext-huaqin-chenhaojun/jackson/microblog/app/templates/index.html",
+				"/home/ext-huaqin-chenhaojun/jackson/microblog/run.py",
+				"/usr/local/lib/python2.7/dist-packages/sqlalchemy/ext/declarative/api.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/7_31/data_form.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/7_31/capacity_time.jpg",
+				"/usr/local/lib/python2.7/dist-packages/delorean/interface.py",
+				"/home/ext-huaqin-chenhaojun/jackson/test.py",
+				"/home/ext-huaqin-chenhaojun/jackson/test,py",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/use_selenium.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/data_form.py",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/baidu_ocr.py",
+				"/usr/lib/python2.7/subprocess.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_7_8/batterylog.txt",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_7_8/BatteryLog.txt",
+				"/home/ext-huaqin-chenhaojun/jackson/microblog/app/__init__.py",
+				"/home/ext-huaqin-chenhaojun/jackson/wifi_logo/11N-sigma-3/11N-sigma-3/start_ca.bat",
+				"/home/ext-huaqin-chenhaojun/jackson/wifi_logo/11N-sigma-3/11N-sigma-3/start_dut.bat",
+				"/home/ext-huaqin-chenhaojun/jackson/wifi_logo/11N-sigma-3/11N-sigma-3/11n_sigma_install.bat",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_7_8/data_form.py",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/height2data.py",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/tessdata/baidu_ocr.py",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/deal_image.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/08discharge.log",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/charg_ui_soc.log",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/charger.log",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/08hqdischarge.log",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/1.tiff",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/search_filter_img.jpg",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/charger_log_6_25/data_form.py",
+				"/var/data/chenhaojun/keypad.log",
+				"/var/data/chenhaojun/ATA_KEYPAD_reboot.txt",
+				"/var/data/chenhaojun/keypad_log.txt",
+				"/home/ext-huaqin-chenhaojun/bin/ovpn.py",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_ford_repo/.repo/repo/cc.py",
+				"/home/ext-huaqin-liuzhigang/test/test.py",
+				"/bin/repo",
+				"/home/ext-huaqin-liuzhigang/test/os_test.py",
 				"/home/ext-huaqin-liuzhigang/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 				"/home/ext-huaqin-liuzhigang/test/repo",
 				"/home/ext-huaqin-liuzhigang/run_printer_driver.sh",
@@ -884,77 +1160,11 @@
 				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/hq8382_tb_b2c_l/init.project.rc",
 				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/resources/manager/ProjectClassLoader.java",
 				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/media/java/android/media/projection/IMediaProjectionWatcherCallback.aidl",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/factory_init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/meta_init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/factory_init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/project/ProjectChooserHelper.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos_unittest.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/resources/manager/ProjectResources.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/wizards/newproject/NewProjectCreator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/sdklib/src/main/java/com/android/sdklib/internal/project/ProjectCreator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/volley/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/tools/telemetry/unittest_data/perf_report_output.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/tcpdump/print-radius.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/PACKAGING",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8312.usb.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.usb.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/magnetometer/ist8303-new/ist8303.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8312.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/dalvik/dx/src/com/android/dx/util/IntIterator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/emma/core/java12/com/vladium/util/IntIntMap.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/dexmaker/src/dx/java/com/android/dx/util/IntIterator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/dalvik/dexgen/src/com/android/dexgen/util/IntIterator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/libcore/luni/src/main/java/java/lang/ExceptionInInitializerError.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/ipc/ipcns_notifier.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/INSTALL",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/mt6582/init.mt6582.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/include/linux/vermagic.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/apps/DeviceConfig/proguard-project.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/lib1/proguard-project.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/app/proguard-project.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/operator/OP01/packages/apps/ConfigureCheck2/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/apps/DeviceConfig/proguard-project.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/apps/DeviceConfig/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/lib1/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/app/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/testing/gtest/xcode/Config/DebugProject.xcconfig",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/apps/DeviceConfig/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/protobuf/gtest/xcode/Config/DebugProject.xcconfig",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/llvm/autoconf/m4/config_project.m4",
-				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/python/darwin-x86/2.7.5/lib/python2.7/ConfigParser.py",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/mockito/src/org/mockito/internal/configuration/injection/SpyOnInjectedFieldsHandler.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/packages/apps/Camera2/src/com/android/camera/ui/OnIndicatorEventListener.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/hardware/ril/viatelecom/pppd_via/magic.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.modem.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/bootable/bootloader/lk/project/aw1978.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/bootable/bootloader/lk/project/aw1975.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/docs/source.android.com/src/devices/audio_avoiding_pi.jd",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/common/sepolicy/audiocmdservice_atci.te",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/libopus/silk/control_audio_bandwidth.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/fugu/libaudio/audio_hal_hooks.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/generic/goldfish/audio/MODULE_LICENSE_APACHE2",
-				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/audio_hw_hal.cpp",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/flo/audio_effects.conf",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/qemu/audio/audio.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/test/AudioSignalFactoryTest.cpp",
-				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/AudioPolicyManagerDefault.cpp",
-				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/client/AndroidManifest.xml",
-				"/home/lzg/android5.0/MT8382_L_BD2/system/media/audio_utils/primitives.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/art/runtime/dex_instruction_visitor_test.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/BUILD.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/Android.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/data/sounds/AudioPackage13_48.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/data/sounds/AudioPackage12_48.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/htc/flounder/nvaudio_conf.xml",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/av/services/audiopolicy/audio_policy_conf.h"
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/factory_init.project.rc"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 39.0
 			},
 			"find_in_files":
 			{
@@ -983,6 +1193,84 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"event",
+					"key",
+					"pwrkey_int_handler",
+					"key",
+					"power",
+					"key",
+					"re",
+					"resume",
+					"key",
+					"power",
+					"key",
+					"post",
+					"from",
+					"HTML",
+					"tag",
+					"code",
+					"style",
+					"html",
+					"post",
+					"Post",
+					"post",
+					"Post",
+					"72598129856",
+					"first_post_id",
+					"j_reply_data",
+					"dump",
+					"j_thread_list clearfix",
+					"Tieba_url",
+					"get_all_li",
+					"rep_num_for_good",
+					"authorization",
+					"UI_SOC=(0)",
+					"split_img",
+					"img2string",
+					"get_each_number_img",
+					"crop_img",
+					"enhance",
+					"Enhance",
+					"enhance",
+					"twovalue_img_data",
+					"onevalue_color",
+					"day_2_x",
+					"img_xy_rotate",
+					"onevalue_color",
+					"img_xy_rotate",
+					"day_2_x",
+					"twovalue_img_data",
+					"twovalue_img",
+					"onevalue_gray",
+					"device_file_name",
+					"gray_img",
+					"gray",
+					"onevalue_color",
+					"enhance",
+					"ImageEnhance",
+					"search_filter_img",
+					"onevalue_color",
+					"twovalue_img_data",
+					"day_2_x",
+					"onevalue",
+					"img2data",
+					"Enter kpd_auto_test_for_factorymode! ",
+					"factorymo",
+					"factory",
+					"auto",
+					"reboot",
+					"pad",
+					"keypad",
+					"data_of_day",
+					"pix_list",
+					"day_2_x",
+					"twovalue_img_data",
+					"day2x",
+					"get_x_day_data",
+					"ImageFilter",
+					"reason",
+					"reboot",
+					"img_xy_rotate",
 					"help",
 					"_ParseArguments",
 					"_Options",
@@ -1032,85 +1320,7 @@
 					"if (formatEntireDevice)",
 					"Only initialize the MBR if we are formatting the entire device",
 					"formatEntireDevice && !formatExfat",
-					"if (formatEntireDevice)",
-					"Only initialize the MBR if we are formatting the entire ",
-					"Only initialize",
-					"State_Formatting",
-					"copy",
-					"copy.*line",
-					"copy line",
-					"copy",
-					"volume.cpp",
-					"volume",
-					"config_lock",
-					"config_modul",
-					"config_modul=y",
-					"config_moduls",
-					"config_modul",
-					"config",
-					"crc",
-					"define MODULE_ARCH_VERMAGIC",
-					"mutex_lock_nested",
-					"#ifdef CONFIG_MODVERSIONS",
-					"MODULE_ARCH_VERMAGIC=y",
-					"MODULE_ARCH_VERMAGIC",
-					"CONFIG_SMP=y",
-					"CONFIG_PREEMPT",
-					"CONFIG_MODULE_UNLOAD",
-					"MODULE_ARCH_VERMAGIC.*armv7",
-					"armv7",
-					"MODULE_ARCH_VERMAGIC \"ARMv7\"",
-					"MODULE_ARCH_VERMAGIC",
-					"ARMv7",
-					"MODULE_ARCH_VERMAGIC=y",
-					"MODULE_ARCH_VERMAGIC",
-					"MODULE_VERMAGIC_MODVERSIONS",
-					"CONFIG_MODVERSIONS",
-					"CONFIG_LOCKDEP",
-					"CONFIG_DEBUG_LOCK_ALLOC",
-					"CONFIG_MODULES",
-					"CONFIG_MODVERSIONS",
-					"error",
-					"error:",
-					"error",
-					"MODULE_VERMAGIC_MODVERSIONS",
-					"ARMv7",
-					"MODULE_ARCH_VERMAGIC",
-					"ARMv7",
-					"MODULE_ARCH_VERMAGIC",
-					"CONFIG_MODVERSIONS",
-					"version",
-					"MT8382_L_BD2/.*1978",
-					"MT8382_L_BD2/.*8382",
-					"MT8382_L_BD2/.*all",
-					"MT8382_L_BD2/.*8382",
-					"8382",
-					"1987",
-					"MODVERSION",
-					"config_lock",
-					"config_modul",
-					"ntfs",
-					"no_locks_held",
-					"gpl",
-					"lockdep_init_map",
-					"lockedp_init_map",
-					"init_map",
-					"EXPORT_SYMBOL_GPL",
-					"export",
-					"mutex_lock_nested",
-					"CONFIG_DEBUG_LOCKDEP",
-					"CONFIG_PROVE_LOCKING",
-					"CONFIG_LOCKDEP_SUPPORT",
-					"config_lockdep",
-					"version",
-					"modversion",
-					"version",
-					"debug_lock",
-					"config_module",
-					"config_modules",
-					"config_module",
-					"config",
-					"debug_LOCK"
+					"if (formatEntireDevice)"
 				],
 				"highlight": false,
 				"in_selection": false,
@@ -1126,34 +1336,27 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "/home/ext-huaqin-liuzhigang/gpt"
-				}
-			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/bin/repo",
+							"file": "flask_web/tieba_dig/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 23656,
+								"buffer_size": 2471,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										22561,
-										22561
+										1260,
+										1260
 									]
 								],
 								"settings":
@@ -1167,36 +1370,31 @@
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -1207,131 +1405,49 @@
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
 									],
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"tab_size": 2,
+									"is_xml": false,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 15332.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/ext-huaqin-liuzhigang/test/os_test.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 23656,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										21334,
-										21334
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"syntax": "Packages/Python/Python.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 14562.0,
+								"translation.y": 276.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"file": "/home/ext-huaqin-liuzhigang/test/test.py",
+							"buffer": 1,
+							"file": "flask_web/tieba_dig/rat.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 0,
+								"buffer_size": 2844,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										1925,
+										1925
 									]
 								],
 								"settings":
@@ -1345,36 +1461,31 @@
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -1385,16 +1496,111 @@
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1173.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "flask_web/tieba_dig/server.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 545,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										373,
+										373
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
 									],
 									"syntax": "Packages/Python/Python.tmLanguage"
 								},
@@ -1402,30 +1608,29 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
 							"buffer": 3,
-							"file": "/home/ext-huaqin-liuzhigang/ford/vsb_ford_repo/.repo/repo/cc.py",
-							"semi_transient": false,
+							"file": "log/powerkey1.log",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 820,
+								"buffer_size": 1066154,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										820,
-										820
+										1065683,
+										1065683
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
-									"auto_complete": false,
 									"bh_regions":
 									[
 										"bh_tag",
@@ -1433,36 +1638,31 @@
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -1473,26 +1673,29 @@
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
 									],
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 132.0,
+								"translation.y": 315399.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 3,
 							"type": "text"
 						}
 					]
@@ -1531,7 +1734,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 200.0
+				"height": 194.0
 			},
 			"output.find_results":
 			{
@@ -1541,8 +1744,13 @@
 			{
 				"height": 124.0
 			},
+			"output.unsaved_changes":
+			{
+				"height": 148.0
+			},
+			"pinned_build_system": "",
 			"position": "1,1,0,0,0,0,0,0,0,1600,900",
-			"project": "",
+			"project": "jackson.sublime-project",
 			"replace":
 			{
 				"height": 56.0
@@ -1551,6 +1759,7 @@
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -1699,6 +1908,7 @@
 			"select_project":
 			{
 				"height": 500.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -1710,11 +1920,12 @@
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 392.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 557.0
 			},
 			"selected_group": 0,
 			"settings":
@@ -1723,20 +1934,23 @@
 			"show_minimap": false,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 318.0,
 			"status_bar_visible": false,
 			"template_settings":
 			{
 			},
 			"window_id": 6,
-			"workspace_name": ""
+			"workspace_name": "/home/ext-huaqin-chenhaojun/jackson/jackson.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/home/ext-huaqin-chenhaojun/jackson/jackson.sublime-workspace",
+			"/var/data/chenhaojun/fireos.sublime-workspace",
+			"/home/ext-huaqin-chenhaojun/jackson/ford_factory.sublime-workspace",
 			"/home/lzg/gitlib/python/python_webapp/conf/webapp.sublime-workspace",
 			"/home/lzg/harley/schf/untitled.sublime-workspace",
 			"/home/lzg/android5.0/sublimeconfig/MT8382.sublime-workspace",
