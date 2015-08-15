@@ -1,7 +1,21 @@
 {
 	"folder_history":
 	[
+		"/var/data/chenhaojun/ford_factory/frameworks",
+		"/var/data/chenhaojun/7_30_release500/frameworks/base",
+		"/var/data/chenhaojun/7_30_release500/system",
+		"/var/data/chenhaojun/7_30_release500/libnativehelper",
 		"/var/data/chenhaojun/7_30_release500/kernel",
+		"/var/data/chenhaojun/7_30_release500/frameworks",
+		"/var/data/chenhaojun/7_30_release500/fireos",
+		"/var/data/chenhaojun/7_30_release500/device",
+		"/var/data/chenhaojun/ford_factory/system",
+		"/home/ext-huaqin-chenhaojun/bin",
+		"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm/mach-mt8127/ford/touchpanel",
+		"/home/ext-huaqin-chenhaojun/jackson/tp/2_tp_driver",
+		"/home/ext-huaqin-chenhaojun/jackson/tp",
+		"/home/ext-huaqin-chenhaojun/jackson/tp/SSD6250_TPV_20150615_source_code-v2",
+		"/home/ext-huaqin-chenhaojun/jackson/workscript",
 		"/var/data/chenhaojun/7_30_release500/bootable",
 		"/var/data/chenhaojun/7_30_release500/vendor",
 		"/var/data/chenhaojun/ford_factory/hardware",
@@ -41,11 +55,11 @@
 		"/home/lzg/iozone/iozone3_429/iozone3_429/src/current"
 	],
 	"last_version": 3083,
-	"last_window_id": 6,
+	"last_window_id": 9,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 480.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -53,17 +67,325 @@
 				"selected_items":
 				[
 					[
+						"tes",
+						"test_out"
+					],
+					[
+						"to",
+						"tool"
+					],
+					[
+						"lev",
+						"level	(flashimage.py)"
+					],
+					[
+						"__",
+						"__main__	(data_form.py)"
+					],
+					[
+						"cap",
+						"capacity"
+					],
+					[
+						"capa",
+						"capacity_rows"
+					],
+					[
+						"cp",
+						"capacity	statement"
+					],
+					[
+						"cue",
+						"current"
+					],
+					[
+						"ti",
+						"time_strings"
+					],
+					[
+						"da",
+						"days_index"
+					],
+					[
+						"en",
+						"enumerate	class"
+					],
+					[
+						"time",
+						"time_strings"
+					],
+					[
+						"8",
+						"8_6_discharge_Book1	(data_form.py)"
+					],
+					[
+						"wa",
+						"warning	function"
+					],
+					[
+						"l",
+						"logging"
+					],
+					[
+						"ass",
+						"assertTrue	(test.py)"
+					],
+					[
+						"as",
+						"assertEquals	(test.py)"
+					],
+					[
+						"test",
+						"TestCase	class"
+					],
+					[
+						"cont",
+						"content"
+					],
+					[
+						"assertr",
+						"assertTrue	function"
+					],
+					[
+						"inf",
+						"INFO	statement"
+					],
+					[
+						"rep",
+						"rep_num"
+					],
+					[
+						"assert",
+						"assertEquals	statement"
+					],
+					[
+						"re",
+						"request"
+					],
+					[
+						"Ti",
+						"Tieba_url"
+					],
+					[
+						"tieba",
+						"tieba_name"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"se",
+						"session"
+					],
+					[
+						"coe",
+						"codes	(my.html)"
+					],
+					[
+						"sel",
+						"self"
+					],
+					[
+						"_",
+						"__tablename__"
+					],
+					[
+						"cre",
+						"creat_engine"
+					],
+					[
+						"file",
+						"filenames"
+					],
+					[
+						"f",
+						"filename"
+					],
+					[
+						"pos",
+						"posts	(views.py)"
+					],
+					[
+						"fr",
+						"fromstring	function"
+					],
+					[
+						"he",
+						"height	(deal_image.py)"
+					],
+					[
+						"img",
+						"img_xy_rotate	(deal_image.py)"
+					],
+					[
+						"num",
+						"number_zone_img"
+					],
+					[
+						"enhance",
+						"enhance_shot_img"
+					],
+					[
+						"cr",
+						"crop_number_zone"
+					],
+					[
+						"sear",
+						"search_width	(deal_image.py)"
+					],
+					[
+						"x_da",
+						"x_days_index	statement"
+					],
+					[
+						"point",
+						"point_number"
+					],
+					[
+						"index",
+						"index_count"
+					],
+					[
+						"height",
+						"search_height"
+					],
+					[
+						"one",
+						"onevalue_gray"
+					],
+					[
+						"E",
+						"enhancer"
+					],
+					[
+						"sho",
+						"show"
+					],
+					[
+						"No",
+						"Normalize	class"
+					],
+					[
+						"ser",
+						"search"
+					],
+					[
+						"sor",
+						"sorted	function"
+					],
+					[
+						"v",
+						"values	function"
+					],
+					[
+						"pix",
+						"pix_list"
+					],
+					[
+						"Err",
+						"IndexError	class"
+					],
+					[
+						"ex",
+						"except	keyword"
+					],
+					[
+						"pi",
+						"pix_lixt"
+					],
+					[
+						"zhi",
+						"zhifang_list"
+					],
+					[
+						"gra",
+						"gray_img"
+					],
+					[
+						"fi",
+						"figure"
+					],
+					[
+						"int",
+						"interact"
+					],
+					[
+						"dir",
+						"dirname"
+					],
+					[
 						"kd_hi",
 						"kd_hi257_poweron"
 					]
 				]
 			},
-			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/my_make.sublime-build",
+							""
+						]
+					],
+					[
+						"Anaconda Python Builder",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
 			"command_palette":
 			{
-				"height": 140.0,
+				"height": 329.0,
+				"last_filter": "INSTA",
 				"selected_items":
 				[
+					[
+						"INSTA",
+						"Package Control: Install Package"
+					],
+					[
+						"INS",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"error",
+						"Anaconda: Show error list"
+					],
 					[
 						"gitlogc",
 						"Git: Log Current File"
@@ -119,13 +441,9 @@
 					[
 						"intall",
 						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					]
 				],
-				"width": 521.0
+				"width": 593.0
 			},
 			"console":
 			{
@@ -159,6 +477,100 @@
 			},
 			"file_history":
 			[
+				"/home/ext-huaqin-chenhaojun/jackson/log/G0K0H40252860CUS_20150804_1059/debug_service/archive/last_kmsg.1438654601.log",
+				"/home/ext-huaqin-chenhaojun/test/ctp_test.pl",
+				"/home/ext-huaqin-chenhaojun/jackson/tp/2_tp_driver/forcal_fts/command_line_tool/Makefile",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/8_6_discharge_log/auto_charge_form/data_form.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/8_6_discharge_log/data_form.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/7_31/data_form.py",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm/mach-mt8127/ford/touchpanel/focaltech_ex_fun.c",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm/mach-mt8127/ford/touchpanel/ssd60xx_tp.h",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/charger_log_6_25/data_form.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/data_form.py",
+				"/home/ext-huaqin-chenhaojun/jackson/workscript/data_form.py",
+				"/home/ext-huaqin-chenhaojun/jackson/workscript/getrawdata.py",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm/mach-mt8127/ford/touchpanel/Makefile",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_dig/test.py",
+				"/home/ext-huaqin-chenhaojun/jackson/tp/2_tp_driver/solomon_test/getrawdata.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_7_8/data_form.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/8_6_discharge_log/auto_charge_form/test.py",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_dig/index.html",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_dig/rat.py",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_dig/my.html",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_dig/server.py",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/User/python_buildtest.sublime-build",
+				"/home/ext-huaqin-chenhaojun/jackson/jackson.sublime-project",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/User/my_make.sublime-build",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_dig/makefile",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_dig/Makefile",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tiebrat.sublime-workspace",
+				"/usr/lib/python2.7/unittest/case.py",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/Tag/Tag Package.sublime-settings",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/User/HTMLBeautify.sublime-settings",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_rat/rat/data.sql",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/scrawler/scrapy_test/my_scrapy/my_scrapy/spiders/example.py",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_rat/rat/my.html",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_rat/rat/rat.py",
+				"/home/ext-huaqin-chenhaojun/jackson/workscript/sql_test.py",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_rat/rat/xpath_element_readme.txt",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_rat/rat/model.py",
+				"/usr/lib/python2.7/json/__init__.py",
+				"/usr/lib/python2.7/dist-packages/lxml/_elementpath.py",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_rat/rat/__init__.py",
+				"/home/ext-huaqin-chenhaojun/jackson/microblog/app/views.py",
+				"/home/ext-huaqin-chenhaojun/jackson/microblog/app/templates/base.html",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/flask-tumblelog/tumblelog/__init__.py",
+				"/home/ext-huaqin-chenhaojun/jackson/workscript/sendmail.py",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_rat/requirements.txt",
+				"/home/ext-huaqin-chenhaojun/jackson/workscript/db_sqlite.py",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/flask-tumblelog/tumblelog/admin.py",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/flask-tumblelog/tumblelog/models.py",
+				"/home/ext-huaqin-chenhaojun/jackson/microblog/app/templates/index.html",
+				"/home/ext-huaqin-chenhaojun/jackson/microblog/run.py",
+				"/usr/local/lib/python2.7/dist-packages/sqlalchemy/ext/declarative/api.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/7_31/capacity_time.jpg",
+				"/usr/local/lib/python2.7/dist-packages/delorean/interface.py",
+				"/home/ext-huaqin-chenhaojun/jackson/test.py",
+				"/home/ext-huaqin-chenhaojun/jackson/test,py",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/use_selenium.py",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/baidu_ocr.py",
+				"/usr/lib/python2.7/subprocess.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_7_8/batterylog.txt",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_7_8/BatteryLog.txt",
+				"/home/ext-huaqin-chenhaojun/jackson/microblog/app/__init__.py",
+				"/home/ext-huaqin-chenhaojun/jackson/wifi_logo/11N-sigma-3/11N-sigma-3/start_ca.bat",
+				"/home/ext-huaqin-chenhaojun/jackson/wifi_logo/11N-sigma-3/11N-sigma-3/start_dut.bat",
+				"/home/ext-huaqin-chenhaojun/jackson/wifi_logo/11N-sigma-3/11N-sigma-3/11n_sigma_install.bat",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/height2data.py",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/tessdata/baidu_ocr.py",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/deal_image.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/08discharge.log",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/charg_ui_soc.log",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/charger.log",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/08hqdischarge.log",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/1.tiff",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/search_filter_img.jpg",
+				"/var/data/chenhaojun/keypad.log",
+				"/var/data/chenhaojun/ATA_KEYPAD_reboot.txt",
+				"/var/data/chenhaojun/keypad_log.txt",
+				"/home/ext-huaqin-chenhaojun/bin/ovpn.py",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_ford_repo/.repo/repo/cc.py",
+				"/home/ext-huaqin-liuzhigang/test/test.py",
+				"/bin/repo",
+				"/home/ext-huaqin-liuzhigang/test/os_test.py",
+				"/home/ext-huaqin-liuzhigang/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/ext-huaqin-liuzhigang/test/repo",
+				"/home/ext-huaqin-liuzhigang/run_printer_driver.sh",
+				"/home/ext-huaqin-liuzhigang/gpt/flashdiag.py",
+				"/home/ext-huaqin-liuzhigang/test/co/.git/COMMIT_EDITMSG",
 				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_defconfig",
 				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig",
 				"/home/lzg/android5.0/MT8382_L_BD2/external/webrtc/android-webrtc.mk",
@@ -192,111 +604,21 @@
 				"/home/lzg/android5.0/MT8382_L_BD2/development/samples/devbytes/graphics/FoldingLayout/src/com/example/android/foldinglayout/OnFoldListener.java",
 				"/home/lzg/android5.0/MT8382_L_BD2/external/skia/src/opts/SkColor_opts_neon.h",
 				"/home/lzg/android5.0/MT8382_L_BD2/external/clang/CODE_OWNERS.TXT",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/COPYING",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/dynamic_cast.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/delete.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/class_type_info.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/array_type_info.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/typeinfo",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/new",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/cxxabi.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/use_rtti.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/Android.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_8_kernel.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_7.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_6_1.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_6.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_5.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_4.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/Makefile",
-				"/home/lzg/android5.0/MT8382_L_BD2/.gitignore",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/hq8382_tb_b2c_l/init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/resources/manager/ProjectClassLoader.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/media/java/android/media/projection/IMediaProjectionWatcherCallback.aidl",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/factory_init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/meta_init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/factory_init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/init.project.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/project/ProjectChooserHelper.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos_unittest.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/resources/manager/ProjectResources.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/wizards/newproject/NewProjectCreator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/sdklib/src/main/java/com/android/sdklib/internal/project/ProjectCreator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/volley/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/tools/telemetry/unittest_data/perf_report_output.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/tcpdump/print-radius.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/PACKAGING",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8312.usb.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.usb.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/magnetometer/ist8303-new/ist8303.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8312.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/dalvik/dx/src/com/android/dx/util/IntIterator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/emma/core/java12/com/vladium/util/IntIntMap.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/dexmaker/src/dx/java/com/android/dx/util/IntIterator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/dalvik/dexgen/src/com/android/dexgen/util/IntIterator.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/libcore/luni/src/main/java/java/lang/ExceptionInInitializerError.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/ipc/ipcns_notifier.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/INSTALL",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/mt6582/init.mt6582.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/include/linux/vermagic.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/apps/DeviceConfig/proguard-project.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/lib1/proguard-project.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/app/proguard-project.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/operator/OP01/packages/apps/ConfigureCheck2/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/apps/DeviceConfig/proguard-project.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/apps/DeviceConfig/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/lib1/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/app/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/testing/gtest/xcode/Config/DebugProject.xcconfig",
-				"/home/lzg/android5.0/MT8382_L_BD2/sdk/apps/DeviceConfig/project.properties",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/protobuf/gtest/xcode/Config/DebugProject.xcconfig",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/llvm/autoconf/m4/config_project.m4",
-				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/python/darwin-x86/2.7.5/lib/python2.7/ConfigParser.py",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/mockito/src/org/mockito/internal/configuration/injection/SpyOnInjectedFieldsHandler.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/packages/apps/Camera2/src/com/android/camera/ui/OnIndicatorEventListener.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/hardware/ril/viatelecom/pppd_via/magic.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.modem.rc",
-				"/home/lzg/android5.0/MT8382_L_BD2/bootable/bootloader/lk/project/aw1978.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/bootable/bootloader/lk/project/aw1975.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/docs/source.android.com/src/devices/audio_avoiding_pi.jd",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/common/sepolicy/audiocmdservice_atci.te",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/libopus/silk/control_audio_bandwidth.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/fugu/libaudio/audio_hal_hooks.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/generic/goldfish/audio/MODULE_LICENSE_APACHE2",
-				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/audio_hw_hal.cpp",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/flo/audio_effects.conf",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/qemu/audio/audio.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/test/AudioSignalFactoryTest.cpp",
-				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/AudioPolicyManagerDefault.cpp",
-				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/client/AndroidManifest.xml",
-				"/home/lzg/android5.0/MT8382_L_BD2/system/media/audio_utils/primitives.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/art/runtime/dex_instruction_visitor_test.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/BUILD.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/Android.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/data/sounds/AudioPackage13_48.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/data/sounds/AudioPackage12_48.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/htc/flounder/nvaudio_conf.xml",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/av/services/audiopolicy/audio_policy_conf.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/docs/source.android.com/src/devices/audio_latency_measure.jd",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/fugu/libaudio/audio_hal_thunks.cpp",
-				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/audio_policy_hal.cpp",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/av/services/audiopolicy/audio_policy.conf",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/qemu/audio/audio_win_int.h"
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/COPYING"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 39.0
 			},
 			"find_in_files":
 			{
 				"height": 102.0,
 				"where_history":
 				[
+					"/home/ext-huaqin-chenhaojun/jackson/log/G0K0H40252860CUS_20150804_1059/dmesg_current.log",
+					"/home/ext-huaqin-chenhaojun/jackson/log/G0K0H40252860CUS_20150804_1059/dmesg_current.log,/home/ext-huaqin-chenhaojun/jackson/log/power_work.log",
+					"/home/ext-huaqin-chenhaojun/jackson/log",
+					"/home/ext-huaqin-chenhaojun/jackson/log/G0K0H40252860CUS_20150804_1059",
 					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
 					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
 					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
@@ -319,139 +641,139 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"debug_check_no_locks_held",
-					"debug_check_no",
-					"lockdep_init_map",
-					"mutex_lock_nested",
-					"mutex_lock",
-					"mutex_",
-					"mutex_nest_lock",
-					"mutex_nested_lock",
-					"export_symbol_gpl",
-					"config_lockdep",
-					"config_modules",
-					"config_LOCKDEP",
-					"config_modules",
-					"modules",
-					"config_lockdep",
-					"gpl",
-					"mutex_lock_nested",
-					"config_debug_loc",
-					"config_modules",
-					"config_lockdep",
-					"config",
-					"config_modules",
-					"config_lockdep",
-					"config_modules",
-					"int Volume::formatVol(bool wipe)",
-					"SLOGI(\"Formatting volume %s (%s)\", getLabel(), devicePath);",
-					"int Volume::formatVol(bool wipe)",
-					"setState(Volume::State_Formatting);",
-					"int Volume::formatVol(bool wipe)",
-					"wipe",
-					"int Volume::formatVol(bool wipe)",
-					"if(formatExfat == 1)",
-					"if (formatExfat == 1)",
-					"if (formatExfat == 1) ",
-					"Fat::format(devicePath, 0, wipe)",
-					"if(Fat::format(devicePath, 0, wipe))",
-					"if (Fat::format(devicePath, 0, wipe))",
-					"sprintf(devicePath, \"/dev/block/vold/%d:%d\",",
-					"if (formatEntireDevice)",
-					"setState(Volume::State_Formatting)",
-					"sprintf(devicePath, \"/dev/block/vold/%d:%d\",",
-					"if(formatEntireDevice)",
-					"if (formatEntireDevice)",
-					"Only initialize the MBR if we are formatting the entire device",
-					"formatEntireDevice && !formatExfat",
-					"if (formatEntireDevice)",
-					"Only initialize the MBR if we are formatting the entire ",
-					"Only initialize",
-					"State_Formatting",
-					"copy",
-					"copy.*line",
-					"copy line",
-					"copy",
-					"volume.cpp",
-					"volume",
-					"config_lock",
-					"config_modul",
-					"config_modul=y",
-					"config_moduls",
-					"config_modul",
-					"config",
-					"crc",
-					"define MODULE_ARCH_VERMAGIC",
-					"mutex_lock_nested",
-					"#ifdef CONFIG_MODVERSIONS",
-					"MODULE_ARCH_VERMAGIC=y",
-					"MODULE_ARCH_VERMAGIC",
-					"CONFIG_SMP=y",
-					"CONFIG_PREEMPT",
-					"CONFIG_MODULE_UNLOAD",
-					"MODULE_ARCH_VERMAGIC.*armv7",
-					"armv7",
-					"MODULE_ARCH_VERMAGIC \"ARMv7\"",
-					"MODULE_ARCH_VERMAGIC",
-					"ARMv7",
-					"MODULE_ARCH_VERMAGIC=y",
-					"MODULE_ARCH_VERMAGIC",
-					"MODULE_VERMAGIC_MODVERSIONS",
-					"CONFIG_MODVERSIONS",
-					"CONFIG_LOCKDEP",
-					"CONFIG_DEBUG_LOCK_ALLOC",
-					"CONFIG_MODULES",
-					"CONFIG_MODVERSIONS",
-					"error",
-					"error:",
-					"error",
-					"MODULE_VERMAGIC_MODVERSIONS",
-					"ARMv7",
-					"MODULE_ARCH_VERMAGIC",
-					"ARMv7",
-					"MODULE_ARCH_VERMAGIC",
-					"CONFIG_MODVERSIONS",
-					"version",
-					"MT8382_L_BD2/.*1978",
-					"MT8382_L_BD2/.*8382",
-					"MT8382_L_BD2/.*all",
-					"MT8382_L_BD2/.*8382",
-					"8382",
-					"1987",
-					"MODVERSION",
-					"config_lock",
-					"config_modul",
-					"ntfs",
-					"no_locks_held",
-					"gpl",
-					"lockdep_init_map",
-					"lockedp_init_map",
-					"init_map",
-					"EXPORT_SYMBOL_GPL",
-					"export",
-					"mutex_lock_nested",
-					"CONFIG_DEBUG_LOCKDEP",
-					"CONFIG_PROVE_LOCKING",
-					"CONFIG_LOCKDEP_SUPPORT",
-					"config_lockdep",
-					"version",
-					"modversion",
-					"version",
-					"debug_lock",
-					"config_module",
-					"config_modules",
-					"config_module",
-					"config",
-					"debug_LOCK",
-					"LOCK",
-					"LOCKDEP",
-					"insmod",
-					"inmod"
+					"dispatch",
+					"dispatch.*input",
+					"dispatch*input",
+					"dispatchinput",
+					"dispatchinout",
+					"dispatch",
+					"pwrkey",
+					"pwr keyu",
+					"power button",
+					"button",
+					"power button",
+					"pwrkey_int_handler",
+					"power button",
+					"pwrkey_int_handler",
+					"pwrkey",
+					"release per",
+					"release",
+					"pwrkey_int_handler",
+					"1",
+					"pwrkey_int_handler",
+					"ke",
+					"key",
+					"button",
+					"key",
+					"release",
+					"powe",
+					"Release pwrkey",
+					"11363.",
+					"release pwrkey",
+					"release",
+					"Release pwrkey",
+					"release pwrkey",
+					"release perkey",
+					"Release pwrkey",
+					"Power Key generate",
+					"power key",
+					"powerkey",
+					"power",
+					"HW keycode =116 using PMIC",
+					"!\n",
+					"HW keycode =116 using PMIC",
+					"power key",
+					"power",
+					"com not",
+					"tele",
+					"telcom",
+					"tele",
+					"HW keycode =116 using PMIC",
+					"lcm_resume",
+					"int_status_val_1",
+					"int_status_val_1=0x0",
+					"release",
+					"power",
+					"PowerManager",
+					"powermanager",
+					"power",
+					" 116 ",
+					" 116",
+					"116",
+					"power",
+					"release",
+					"press",
+					"power",
+					"int_status_val_1=0x0",
+					"nt_status_val_1=0x0",
+					"int_status_val_1=0x0",
+					"after ,int_status_val_1=0x0\nafter ,int_status_val_1=0x0",
+					"after ,int_status_val_1=0x0",
+					"lcm_resume",
+					"int_status_val_1=0x0",
+					"lcm_resume",
+					"lcm resume",
+					"release pwrkey",
+					"release pwerkey",
+					"release",
+					"telecom",
+					"service",
+					"telecom",
+					"power key",
+					"power",
+					"input",
+					"press",
+					"key",
+					"button",
+					"release",
+					"not found",
+					"not",
+					"nnot ",
+					"Te",
+					"tels",
+					"tele",
+					"tes",
+					"te",
+					"tess",
+					"service",
+					"service not ",
+					"service not found",
+					"checkMd5",
+					"checkmd5",
+					"checkMd5",
+					"checkmd5",
+					"checkMd5",
+					"checkmd5",
+					"checkMd5",
+					"checkmd5",
+					"opts",
+					"checkMd5",
+					"checkmd5",
+					"checkMd5",
+					"checkmd5",
+					"checkMd5",
+					"checkmd5",
+					"checkMd5",
+					"checkmd5",
+					"FASTBOOT_SERIAL",
+					"PRODUCT_OUT",
+					"product_out",
+					"adbCmd",
+					"checkProductPath",
+					"shellCmd",
+					"_adb",
+					"_cmd",
+					"tools",
+					"adbCmd",
+					"checkSerialNumber",
+					"log",
+					"checkSerialNumber",
+					"_adb"
 				],
 				"highlight": false,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
 					"  "
@@ -464,7 +786,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 38.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -473,7 +795,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 200.0
+				"height": 213.0
 			},
 			"output.find_results":
 			{
@@ -483,14 +805,20 @@
 			{
 				"height": 124.0
 			},
+			"output.unsaved_changes":
+			{
+				"height": 148.0
+			},
+			"pinned_build_system": "Anaconda Python Builder",
 			"replace":
 			{
-				"height": 0.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -639,34 +967,36 @@
 			"select_project":
 			{
 				"height": 500.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
 						"",
-						"~/gitlib/python/python_webapp/conf/webapp.sublime-project"
+						"~/jackson/ford_factory.sublime-project"
 					]
 				],
 				"width": 380.0
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 392.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 557.0
 			},
 			"show_minimap": false,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 318.0,
+			"side_bar_width": 362.0,
 			"status_bar_visible": false,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 0.0
+		"new_window_width": 640.0
 	},
 	"windows":
 	[
@@ -675,82 +1005,6 @@
 			{
 				"selected_items":
 				[
-					[
-						"cont",
-						"content"
-					],
-					[
-						"assertr",
-						"assertTrue	function"
-					],
-					[
-						"inf",
-						"INFO	statement"
-					],
-					[
-						"rep",
-						"rep_num"
-					],
-					[
-						"tes",
-						"Testcase	class"
-					],
-					[
-						"assert",
-						"assertEquals	statement"
-					],
-					[
-						"re",
-						"request"
-					],
-					[
-						"Ti",
-						"Tieba_url"
-					],
-					[
-						"tieba",
-						"tieba_name"
-					],
-					[
-						"back",
-						"background-color"
-					],
-					[
-						"se",
-						"session"
-					],
-					[
-						"coe",
-						"codes	(my.html)"
-					],
-					[
-						"sel",
-						"self"
-					],
-					[
-						"_",
-						"__tablename__"
-					],
-					[
-						"cre",
-						"creat_engine"
-					],
-					[
-						"file",
-						"filenames"
-					],
-					[
-						"f",
-						"filename"
-					],
-					[
-						"pos",
-						"posts	(views.py)"
-					],
-					[
-						"fr",
-						"fromstring	function"
-					],
 					[
 						"he",
 						"height	(deal_image.py)"
@@ -856,6 +1110,2800 @@
 						"days2x"
 					],
 					[
+						"re",
+						"reverse	function"
+					],
+					[
+						"int",
+						"interact"
+					],
+					[
+						"dir",
+						"dirname"
+					],
+					[
+						"_",
+						"__all__〔variable〕"
+					],
+					[
+						"kd_hi",
+						"kd_hi257_poweron"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/drivers/power/mediatek/battery_common.c",
+					"settings":
+					{
+						"buffer_size": 133386,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "In folder /var/data/chenhaojun/ford_factory\nFound 0 matches for C symbol: report_action_is_press\n--------------------------------------------------\n\n",
+					"settings":
+					{
+						"buffer_size": 149,
+						"line_ending": "Unix",
+						"name": "Cscope results - report_action_is_press",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"contents": "In folder /var/data/chenhaojun/ford_factory\nFound 2 matches for global definition: pwrkey_int_handler\n--------------------------------------------------\n\n\nkernel/mediatek/mt8127/3.10/drivers/misc/mediatek/power/mt8127/pmic_mt6323.c:\n   671 void pwrkey_int_handler(void )\n\nkernel/mediatek/mt8127/3.10/drivers/misc/mediatek/power/mt8127/pmic_mt6397.c:\n   759 void pwrkey_int_handler(void )",
+					"settings":
+					{
+						"buffer_size": 387,
+						"line_ending": "Unix",
+						"name": "Cscope results - pwrkey_int_handler",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/drivers/misc/mediatek/power/mt8127/pmic_mt6323.c",
+					"settings":
+					{
+						"buffer_size": 138009,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/data/chenhaojun/ford_factory/frameworks/base/services/core/jni/com_android_server_input_InputManagerService.cpp",
+					"settings":
+					{
+						"buffer_size": 58730,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Searching 37054 files for \"InputReaderThread::\"\n\n/var/data/chenhaojun/ford_factory/frameworks/native/services/inputflinger/InputReader.cpp:\n  840  // --- InputReaderThread ---\n  841  \n  842: InputReaderThread::InputReaderThread(const sp<InputReaderInterface>& reader) :\n  843          Thread(/*canCallJava*/ true), mReader(reader) {\n  844  }\n  845  \n  846: InputReaderThread::~InputReaderThread() {\n  847  }\n  848  \n  849: bool InputReaderThread::threadLoop() {\n  850      mReader->loopOnce();\n  851      return true;\n\n3 matches in 1 file\n",
+					"settings":
+					{
+						"buffer_size": 539,
+						"line_ending": "Unix",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/var/data/chenhaojun/ford_factory/frameworks/native/services/inputflinger/InputReader.cpp",
+					"settings":
+					{
+						"buffer_size": 262289,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/drivers/misc/mediatek/keypad/kpd.c",
+					"settings":
+					{
+						"buffer_size": 27507,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/drivers/misc/mediatek/power/mt8127/charging_hw_bq24296.c",
+					"settings":
+					{
+						"buffer_size": 47597,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/drivers/power/mediatek/switch_charging.c",
+					"settings":
+					{
+						"buffer_size": 28854,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm/mach-mt8127/ford/touchpanel/ssd60xx_tp.h",
+					"settings":
+					{
+						"buffer_size": 36450,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm/mach-mt8127/ford/touchpanel/ssd60xx_tp.c",
+					"settings":
+					{
+						"buffer_size": 39877,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/data/chenhaojun/ford_factory/device/amazon/ford/init.project.rc",
+					"settings":
+					{
+						"buffer_size": 4539,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/data/chenhaojun/ford_factory/vendor/huaqin/source/FactoryKitTest/src/com/huaqin/factory/TestAutoCtp.java",
+					"settings":
+					{
+						"buffer_size": 10192,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "log/power_key/log",
+					"settings":
+					{
+						"buffer_size": 926841,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/var/data/chenhaojun/ford_factory/device/amazon/ford/itocheck/ito_check.sh",
+					"settings":
+					{
+						"buffer_size": 4432,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm/configs/ford_debug_defconfig",
+					"settings":
+					{
+						"buffer_size": 87411,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "In folder /var/data/chenhaojun/ford_factory\nFound 1 matches for global definition: CHARGE_CURRENT_MAX\n--------------------------------------------------\n\n\nkernel/mediatek/mt8127/3.10/include/mach/charging.h:\n   454 CHARGE_CURRENT_MAX",
+					"settings":
+					{
+						"buffer_size": 233,
+						"line_ending": "Unix",
+						"name": "Cscope results - CHARGE_CURRENT_MAX",
+						"read_only": true,
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "Anaconda Python Builder",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/my_make.sublime-build",
+							""
+						]
+					],
+					[
+						"Anaconda Python Builder",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 350.0,
+				"last_filter": "error",
+				"selected_items":
+				[
+					[
+						"error",
+						"Anaconda: Show error list"
+					],
+					[
+						"gitlogc",
+						"Git: Log Current File"
+					],
+					[
+						"gitlog",
+						"Git: Log Current File"
+					],
+					[
+						"gitdiffc",
+						"Git: Diff Current File"
+					],
+					[
+						"gitdiff",
+						"Git: Diff Current File"
+					],
+					[
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"gitd",
+						"Git: Diff Current File"
+					],
+					[
+						"gitdiffcu",
+						"Git: Diff Current File"
+					],
+					[
+						"git",
+						"Git: Diff All Files"
+					],
+					[
+						"gitlo",
+						"Git: Log All"
+					],
+					[
+						"git d",
+						"Git: Diff Current File"
+					],
+					[
+						"git diffc",
+						"Git: Diff Tool Current File"
+					],
+					[
+						"gitdiffcur",
+						"Git: Diff Current File"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 593.0
+			},
+			"console":
+			{
+				"height": 105.0,
+				"history":
+				[
+					"print (100**100)",
+					"print (2**100)",
+					"import tkinter",
+					"import Tkinter",
+					"import tk",
+					"print(1)",
+					"print \"asd\"",
+					"printf  1",
+					"print  1",
+					"print  \"1\"",
+					"import os",
+					"import  pygame",
+					"import",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/var/data/chenhaojun/ford_factory/kernel",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm/mach-mt8127",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm/mach-mt8127/ford",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm/mach-mt8127/ford/touchpanel",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/drivers",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/drivers/misc/mediatek",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/drivers/misc/mediatek/power",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/drivers/misc/mediatek/power/mt8127",
+				"/var/data/chenhaojun/7_30_release500/frameworks/base/telecomm/java",
+				"/var/data/chenhaojun/7_30_release500/frameworks/base/telecomm/java/android",
+				"/var/data/chenhaojun/7_30_release500/frameworks/base/telecomm/java/android/telecom",
+				"/var/data/chenhaojun/ford_factory/frameworks/base/services"
+			],
+			"file_history":
+			[
+				"/var/data/chenhaojun/ford_factory/frameworks/base/services/core/jni/com_android_server_input_InputManagerService.cpp",
+				"/home/ext-huaqin-chenhaojun/jackson/log/power_no_response/power_key_uart.log",
+				"/var/data/chenhaojun/ford_factory/device/amazon/ford/itocheck/ssl_tp_test",
+				"/var/data/chenhaojun/ford_factory/device/amazon/ford/itocheck/ito_check.sh",
+				"/var/data/chenhaojun/ford_factory/system/core/init/init.c",
+				"/var/data/chenhaojun/ford_factory/device/amazon/ford/ProjectConfig.mk",
+				"/var/data/chenhaojun/ford_factory/bootable/bootloader/lk-mtk/mt8127/platform/init.c",
+				"/var/data/chenhaojun/ford_factory/vendor/mediatek/proprietary/external/charger/charging_control.cpp",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/include/mach/charging.h",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/use_selenium.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/data_form.py",
+				"/usr/lib/python2.7/subprocess.py",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/height2data.py",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/deal_image.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/08discharge.log",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/charg_ui_soc.log",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/charger.log",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/08hqdischarge.log",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/1.tiff",
+				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/search_filter_img.jpg",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/charger_log_6_25/data_form.py",
+				"/usr/local/lib/python2.7/dist-packages/delorean/interface.py",
+				"/var/data/chenhaojun/keypad.log",
+				"/var/data/chenhaojun/ATA_KEYPAD_reboot.txt",
+				"/var/data/chenhaojun/keypad_log.txt",
+				"/home/ext-huaqin-chenhaojun/bin/ovpn.py",
+				"/home/ext-huaqin-liuzhigang/ford/vsb_ford_repo/.repo/repo/cc.py",
+				"/home/ext-huaqin-liuzhigang/test/test.py",
+				"/bin/repo",
+				"/home/ext-huaqin-liuzhigang/test/os_test.py",
+				"/home/ext-huaqin-liuzhigang/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/ext-huaqin-liuzhigang/test/repo",
+				"/home/ext-huaqin-liuzhigang/run_printer_driver.sh",
+				"/home/ext-huaqin-liuzhigang/gpt/flashdiag.py",
+				"/home/ext-huaqin-liuzhigang/test/co/.git/COMMIT_EDITMSG",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/webrtc/android-webrtc.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/android.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.project.rc",
+				"/home/lzg/android5.0/doc/android-5.0.0_r1..tuxera-lollipop.texfat_tntfs_e2fc27d.patch",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/STATIC_LIBRARIES/liboprofile_db_intermediates/db_debug.P",
+				"/home/lzg/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/lzg/android5.0/MT8382_L_BD2/system/vold/Android.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/full_aw1978.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/huaqin/hq8382_tb_b2c_l/aw1978/default/bsp/kernel/hq8382_tb_b2c_l_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/buildkernel_modversion.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/KERNEL_OBJ/include/generated/utsrelease.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/build_1_9_kernel.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/BOOTLOADER_OBJ/build-aw1978/dev/logo/wsvga/wsvga_num_9.raw",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1231.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/eigen/bench/bench_unrolling",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/eclipse-basebuilder/basebuilder-3.6.2/org.eclipse.releng.basebuilder/plugins/org.eclipse.build.tools/src/org/eclipse/releng/BuildMachineManager.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/eclipse-basebuilder/basebuilder-3.6.2/org.eclipse.releng.basebuilder/plugins/org.eclipse.build.tools/data/builds-emf-2.3.xml",
+				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/gradle-plugin/com/android/tools/build/builder/0.12.2/builder-0.12.2.pom",
+				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/gradle-plugin/com/android/tools/build/builder/0.12.2/builder-0.12.2.jar.sha1",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/clang/test/CodeGen/builtin-unwind-init.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/art/compiler/dex/verification_results.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/libvorbis/doc/vorbis-errors.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/checkpolicy/VERSION",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/srec/config/en.us/audio/v139/v139_189.nwv",
+				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/custom/mt6582/hal/sendepfeature/sp0a19_yuv/config.ftbl.sp0a19_yuv.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/external/lzo/src/config1.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/scripts/config",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/configure",
+				"/home/lzg/android5.0/MT8382_L_BD2/development/samples/devbytes/graphics/FoldingLayout/src/com/example/android/foldinglayout/OnFoldListener.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/skia/src/opts/SkColor_opts_neon.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/clang/CODE_OWNERS.TXT",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/COPYING",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/dynamic_cast.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/delete.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/class_type_info.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/array_type_info.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/typeinfo",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/new",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/cxxabi.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/use_rtti.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/Android.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_8_kernel.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_7.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_6_1.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_6.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_5.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_4.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/Makefile",
+				"/home/lzg/android5.0/MT8382_L_BD2/.gitignore",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/hq8382_tb_b2c_l/init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/resources/manager/ProjectClassLoader.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/media/java/android/media/projection/IMediaProjectionWatcherCallback.aidl",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/factory_init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/meta_init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/factory_init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/project/ProjectChooserHelper.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos_unittest.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/resources/manager/ProjectResources.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/wizards/newproject/NewProjectCreator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/sdklib/src/main/java/com/android/sdklib/internal/project/ProjectCreator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/volley/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/tools/telemetry/unittest_data/perf_report_output.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/tcpdump/print-radius.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/PACKAGING",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8312.usb.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.usb.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/magnetometer/ist8303-new/ist8303.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8312.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/dalvik/dx/src/com/android/dx/util/IntIterator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/emma/core/java12/com/vladium/util/IntIntMap.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/dexmaker/src/dx/java/com/android/dx/util/IntIterator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/dalvik/dexgen/src/com/android/dexgen/util/IntIterator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/libcore/luni/src/main/java/java/lang/ExceptionInInitializerError.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/ipc/ipcns_notifier.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/INSTALL",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/mt6582/init.mt6582.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/include/linux/vermagic.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/apps/DeviceConfig/proguard-project.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/lib1/proguard-project.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/app/proguard-project.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/operator/OP01/packages/apps/ConfigureCheck2/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/apps/DeviceConfig/proguard-project.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/apps/DeviceConfig/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/lib1/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/app/project.properties"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"/var/data/chenhaojun/ford_factory/frameworks",
+					"/var/data/chenhaojun/ford_factory/frameworks/base/services",
+					"/var/data/chenhaojun/ford_factory/frameworks",
+					"/var/data/chenhaojun/ford_factory/frameworks/base/services",
+					"/var/data/chenhaojun/7_30_release500/frameworks/base",
+					"/var/data/chenhaojun/ford_factory/system",
+					"/var/data/chenhaojun/ford_factory/kernel",
+					"/var/data/chenhaojun/ford_factory/system",
+					"/var/data/chenhaojun/ford_factory/device",
+					"/var/data/chenhaojun/ford_factory/hardware",
+					"/var/data/chenhaojun/ford_factory/device",
+					"/var/data/chenhaojun/ford_factory/bootable",
+					"/var/data/chenhaojun/ford_factory/kernel",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/kernel",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/android/configs",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"G:\\android5.0\\MT8382_L_BD2\\system",
+					"G:\\android5.0\\MT8382_L_BD2\\system\\core",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ALOGD",
+					"mReader",
+					"InputReaderThread::",
+					"InputReaderThread",
+					"InputReader",
+					"getDefaultOutgoingPhoneAccount",
+					"isServiceConnected",
+					"getDefaultOutgoingPhoneAccount",
+					"getTelecomService",
+					"Telecom Service not found",
+					"pwrkey_int_handler",
+					"PROPERTY_START_TPTEST",
+					"teststatus",
+					"property",
+					"ito",
+					"PRODUCT_COPY_FILES",
+					"ito",
+					"selinux_is_disabled",
+					"selinux_is_enforcing",
+					"device_patch",
+					"patch",
+					"ssd60xx_device_reset",
+					"reset",
+					"ssd_misc_write",
+					"no enough memory",
+					"kfree(kbuf);",
+					" battery l=",
+					"type",
+					"thread",
+					"health",
+					"heatlth",
+					"bat_thread_kthread",
+					"thread",
+					"health",
+					"CONFIG_MTK_PUMP_EXPRESS_PLUS_SUPPORT",
+					"battery_pump_express_charger_check",
+					"charger_type = ",
+					"charger_type",
+					"g_ftm_battery_flag",
+					"CHARGE_CURRENT_MAX",
+					"UI_SOC=(0)",
+					"split_img",
+					"img2string",
+					"get_each_number_img",
+					"crop_img",
+					"enhance",
+					"Enhance",
+					"enhance",
+					"twovalue_img_data",
+					"onevalue_color",
+					"day_2_x",
+					"img_xy_rotate",
+					"onevalue_color",
+					"img_xy_rotate",
+					"day_2_x",
+					"twovalue_img_data",
+					"twovalue_img",
+					"onevalue_gray",
+					"device_file_name",
+					"gray_img",
+					"gray",
+					"onevalue_color",
+					"enhance",
+					"ImageEnhance",
+					"search_filter_img",
+					"onevalue_color",
+					"twovalue_img_data",
+					"day_2_x",
+					"onevalue",
+					"img2data",
+					"Enter kpd_auto_test_for_factorymode! ",
+					"factorymo",
+					"factory",
+					"auto",
+					"reboot",
+					"pad",
+					"keypad",
+					"data_of_day",
+					"pix_list",
+					"day_2_x",
+					"twovalue_img_data",
+					"day2x",
+					"get_x_day_data",
+					"ImageFilter",
+					"reason",
+					"reboot",
+					"img_xy_rotate",
+					"help",
+					"_ParseArguments",
+					"_Options",
+					"find",
+					"debug_check_no_locks_held",
+					"debug_check_no",
+					"lockdep_init_map",
+					"mutex_lock_nested",
+					"mutex_lock",
+					"mutex_",
+					"mutex_nest_lock",
+					"mutex_nested_lock",
+					"export_symbol_gpl",
+					"config_lockdep",
+					"config_modules",
+					"config_LOCKDEP",
+					"config_modules",
+					"modules",
+					"config_lockdep",
+					"gpl",
+					"mutex_lock_nested",
+					"config_debug_loc",
+					"config_modules",
+					"config_lockdep",
+					"config",
+					"config_modules",
+					"config_lockdep",
+					"config_modules",
+					"int Volume::formatVol(bool wipe)",
+					"SLOGI(\"Formatting volume %s (%s)\", getLabel(), devicePath);",
+					"int Volume::formatVol(bool wipe)",
+					"setState(Volume::State_Formatting);",
+					"int Volume::formatVol(bool wipe)",
+					"wipe",
+					"int Volume::formatVol(bool wipe)",
+					"if(formatExfat == 1)",
+					"if (formatExfat == 1)",
+					"if (formatExfat == 1) ",
+					"Fat::format(devicePath, 0, wipe)",
+					"if(Fat::format(devicePath, 0, wipe))",
+					"if (Fat::format(devicePath, 0, wipe))"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"  "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 6,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/drivers/power/mediatek/battery_common.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 133386,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										93664,
+										93664
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 68748.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 149,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										149,
+										149
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"default_dir": "/var/data/chenhaojun/ford_factory/bootable",
+									"syntax": "Packages/Cscope/Lookup Results.hidden-tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 387,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										263,
+										263
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"default_dir": "/var/data/chenhaojun/ford_factory/bootable",
+									"syntax": "Packages/Cscope/Lookup Results.hidden-tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/drivers/misc/mediatek/power/mt8127/pmic_mt6323.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 138009,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										19533,
+										19533
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/C++/C++.tmLanguage"
+								},
+								"translation.x": -0.0,
+								"translation.y": 14568.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/var/data/chenhaojun/ford_factory/frameworks/base/services/core/jni/com_android_server_input_InputManagerService.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 58730,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										26959,
+										26959
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 16385.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 539,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												191,
+												210
+											],
+											[
+												357,
+												376
+											],
+											[
+												428,
+												447
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										448,
+										448
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"default_dir": "/var/data/chenhaojun/ford_factory/bootable",
+									"detect_indentation": false,
+									"line_numbers": false,
+									"output_tag": 1,
+									"result_base_dir": "",
+									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/var/data/chenhaojun/ford_factory/frameworks/native/services/inputflinger/InputReader.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 262289,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										143525,
+										143525
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 90065.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/drivers/misc/mediatek/keypad/kpd.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 27507,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9563,
+										9563
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 7691.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/drivers/misc/mediatek/power/mt8127/charging_hw_bq24296.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 47597,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										40673,
+										40673
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 32730.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/drivers/power/mediatek/switch_charging.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 28854,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3161,
+										3161
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1726.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm/mach-mt8127/ford/touchpanel/ssd60xx_tp.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 36450,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3064,
+										3064
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2684.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm/mach-mt8127/ford/touchpanel/ssd60xx_tp.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 39877,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										25050,
+										25050
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 19620.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/var/data/chenhaojun/ford_factory/device/amazon/ford/init.project.rc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4539,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3857,
+										3857
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3167.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/var/data/chenhaojun/ford_factory/vendor/huaqin/source/FactoryKitTest/src/com/huaqin/factory/TestAutoCtp.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10192,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6103,
+										6103
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/Java/Java.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3129.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "log/power_key/log",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 926841,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "/var/data/chenhaojun/ford_factory/device/amazon/ford/itocheck/ito_check.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4432,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 16,
+							"file": "/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm/configs/ford_debug_defconfig",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 87411,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 31227.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 16,
+							"type": "text"
+						},
+						{
+							"buffer": 17,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 233,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										24,
+										24
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"default_dir": "/var/data/chenhaojun/ford_factory/bootable",
+									"syntax": "Packages/Cscope/Lookup Results.hidden-tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 17,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 260.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 124.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,958,367,1598,847,1600,900",
+			"project": "ford_factory.sublime-project",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"testauto",
+						"vendor/huaqin/source/FactoryKitTest/src/com/huaqin/factory/TestAutoCtp.java"
+					],
+					[
+						"ford/projectconfig.mk",
+						"device/amazon/ford/ProjectConfig.mk"
+					],
+					[
+						"platforminit.c",
+						"bootable/bootloader/lk-mtk/mt8127/platform/init.c"
+					],
+					[
+						"init.c",
+						"bootable/bootloader/lk-mtk/mt8127/platform/init.c"
+					],
+					[
+						"ssd60",
+						"kernel/mediatek/mt8127/3.10/arch/arm/mach-mt8127/ford/touchpanel/ssd60xx_tp.h"
+					],
+					[
+						"charging",
+						"kernel/mediatek/mt8127/3.10/drivers/misc/mediatek/power/mt8127/charging_hw_bq24296.c"
+					],
+					[
+						"debug_defcon",
+						"kernel/mediatek/mt8127/3.10/arch/arm/configs/ford_debug_defconfig"
+					],
+					[
+						"kernel/mediatek/mt8127/3.10/include/mach/charging.h",
+						"kernel/mediatek/mt8127/3.10/include/mach/charging.h"
+					],
+					[
+						"switchch",
+						"kernel/mediatek/mt8127/3.10/drivers/power/mediatek/switch_charging.c"
+					],
+					[
+						"battery_comm",
+						"kernel/mediatek/mt8127/3.10/drivers/power/mediatek/battery_common.c"
+					],
+					[
+						"aw1978de",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"aw1978defon",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_defconfig"
+					],
+					[
+						"aw1978_debug",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"aw1978",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"aw1978defconfig",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"utsrelease.h",
+						"MT8382_L_BD2/out/target/product/aw1978/obj/KERNEL_OBJ/include/generated/utsrelease.h"
+					],
+					[
+						"build1_9",
+						"MT8382_L_BD2/build_1_9_kernel.log"
+					],
+					[
+						"buildmod",
+						"MT8382_L_BD2/buildkernel_modversion.log"
+					],
+					[
+						"vermagic",
+						"MT8382_L_BD2/kernel-3.10/include/linux/vermagic.h"
+					],
+					[
+						"config1987",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"projectrc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"init83",
+						"MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.rc"
+					],
+					[
+						"aw1978initrc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"genfs",
+						"MT8382_L_BD2/device/mediatek/common/sepolicy/genfs_contexts"
+					],
+					[
+						"initrc",
+						"~/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"initpro.rc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"init.project.rc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"system/vold/volume.cpp",
+						"MT8382_L_BD2/system/vold/Volume.cpp"
+					],
+					[
+						"system/vold/main.cpp",
+						"MT8382_L_BD2/system/vold/main.cpp"
+					],
+					[
+						"system/vold/android.mk",
+						"MT8382_L_BD2/system/vold/Android.mk"
+					],
+					[
+						"aw1978_debug_defconfig",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"kern/mm/kmem",
+						"kernel-3.10\\mm\\kmemcheck.c"
+					],
+					[
+						"system/vold/vol",
+						"system\\vold\\Volume.cpp"
+					],
+					[
+						"system/vold/ma",
+						"system\\vold\\main.cpp"
+					],
+					[
+						"system/vold/mai",
+						"system/vold/main.cpp"
+					],
+					[
+						".ko",
+						"kernel-3.10/fs/nls/nls_koi8-u.c"
+					],
+					[
+						"initusb",
+						"device/huaqin/aw1978/init.mt6582.usb.rc"
+					],
+					[
+						"init.usb",
+						"system/core/rootdir/init.usb.rc"
+					],
+					[
+						"init.usb.rc",
+						"device/huaqin/aw1978/init.mt6582.usb.rc"
+					],
+					[
+						"k/d/lcm/",
+						"kernel-3.10/drivers/misc/mediatek/lcm/mt65xx_lcm_list.c"
+					],
+					[
+						"ke/d/lc/",
+						"kernel-3.10/drivers/scsi/lpfc/lpfc_bsg.c"
+					],
+					[
+						"driver//",
+						"frameworks/rs/driver/runtime/rs_cl.c"
+					],
+					[
+						"projectconfig",
+						"device/mediatek/tb6582p1/ProjectConfig.mk"
+					],
+					[
+						"fiele",
+						"/home/lzg/gitlib/first/source/file2.c"
+					],
+					[
+						"/home/gitl",
+						"/home/lzg/gitlib/first/source/file2.c"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/jackson/ford_factory.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 642.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			},
+			"window_id": 9,
+			"workspace_name": "/home/ext-huaqin-chenhaojun/jackson/ford_factory.sublime-workspace"
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"alert",
+						"alert〔function〕"
+					],
+					[
+						"tes",
+						"test_out"
+					],
+					[
+						"to",
+						"tool"
+					],
+					[
+						"lev",
+						"level	(flashimage.py)"
+					],
+					[
+						"__",
+						"__main__	(data_form.py)"
+					],
+					[
+						"cap",
+						"capacity"
+					],
+					[
+						"capa",
+						"capacity_rows"
+					],
+					[
+						"cp",
+						"capacity	statement"
+					],
+					[
+						"cue",
+						"current"
+					],
+					[
+						"ti",
+						"time_strings"
+					],
+					[
+						"da",
+						"days_index"
+					],
+					[
+						"en",
+						"enumerate	class"
+					],
+					[
+						"time",
+						"time_strings"
+					],
+					[
+						"8",
+						"8_6_discharge_Book1	(data_form.py)"
+					],
+					[
+						"wa",
+						"warning	function"
+					],
+					[
+						"l",
+						"logging"
+					],
+					[
+						"ass",
+						"assertTrue	(test.py)"
+					],
+					[
+						"as",
+						"assertEquals	(test.py)"
+					],
+					[
+						"test",
+						"TestCase	class"
+					],
+					[
+						"cont",
+						"content"
+					],
+					[
+						"assertr",
+						"assertTrue	function"
+					],
+					[
+						"inf",
+						"INFO	statement"
+					],
+					[
+						"rep",
+						"rep_num"
+					],
+					[
+						"assert",
+						"assertEquals	statement"
+					],
+					[
+						"re",
+						"request"
+					],
+					[
+						"Ti",
+						"Tieba_url"
+					],
+					[
+						"tieba",
+						"tieba_name"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"se",
+						"session"
+					],
+					[
+						"coe",
+						"codes	(my.html)"
+					],
+					[
+						"sel",
+						"self"
+					],
+					[
+						"_",
+						"__tablename__"
+					],
+					[
+						"cre",
+						"creat_engine"
+					],
+					[
+						"file",
+						"filenames"
+					],
+					[
+						"f",
+						"filename"
+					],
+					[
+						"pos",
+						"posts	(views.py)"
+					],
+					[
+						"fr",
+						"fromstring	function"
+					],
+					[
+						"he",
+						"height	(deal_image.py)"
+					],
+					[
+						"img",
+						"img_xy_rotate	(deal_image.py)"
+					],
+					[
+						"num",
+						"number_zone_img"
+					],
+					[
+						"enhance",
+						"enhance_shot_img"
+					],
+					[
+						"cr",
+						"crop_number_zone"
+					],
+					[
+						"sear",
+						"search_width	(deal_image.py)"
+					],
+					[
+						"x_da",
+						"x_days_index	statement"
+					],
+					[
+						"point",
+						"point_number"
+					],
+					[
+						"index",
+						"index_count"
+					],
+					[
+						"height",
+						"search_height"
+					],
+					[
+						"one",
+						"onevalue_gray"
+					],
+					[
+						"E",
+						"enhancer"
+					],
+					[
+						"sho",
+						"show"
+					],
+					[
+						"No",
+						"Normalize	class"
+					],
+					[
+						"ser",
+						"search"
+					],
+					[
+						"sor",
+						"sorted	function"
+					],
+					[
+						"v",
+						"values	function"
+					],
+					[
+						"pix",
+						"pix_list"
+					],
+					[
+						"Err",
+						"IndexError	class"
+					],
+					[
+						"ex",
+						"except	keyword"
+					],
+					[
+						"pi",
+						"pix_lixt"
+					],
+					[
+						"zhi",
+						"zhifang_list"
+					],
+					[
+						"gra",
+						"gray_img"
+					],
+					[
+						"fi",
+						"figure"
+					],
+					[
 						"int",
 						"interact"
 					],
@@ -872,10 +3920,42 @@
 			"buffers":
 			[
 				{
+					"file": "log/power_no_response/20150813_1356_./get_logs.sh/G0K0H40152520AVE_20150813_1356/logcat.log",
+					"settings":
+					{
+						"buffer_size": 1186254,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "tp/SSD6250_TPV_20150615_source_code-v2/ssl_tp_test.c",
+					"settings":
+					{
+						"buffer_size": 20472,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "javascript/test.js",
+					"settings":
+					{
+						"buffer_size": 148,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "javascript/vue/vue_startip.html",
+					"settings":
+					{
+						"buffer_size": 422,
+						"line_ending": "Unix"
+					}
+				},
+				{
 					"file": "flask_web/tieba_dig/index.html",
 					"settings":
 					{
-						"buffer_size": 2471,
+						"buffer_size": 2782,
 						"line_ending": "Unix"
 					}
 				},
@@ -883,47 +3963,7 @@
 					"file": "flask_web/tieba_dig/rat.py",
 					"settings":
 					{
-						"buffer_size": 3933,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/User/python_buildtest.sublime-build",
-					"settings":
-					{
-						"buffer_size": 42,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "flask_web/jiese_flask/tumblelog/insert_posts.py",
-					"settings":
-					{
-						"buffer_size": 3008,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "flask_web/tieba_dig/my.html",
-					"settings":
-					{
-						"buffer_size": 445515,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "flask_web/tieba_dig/test.py",
-					"settings":
-					{
-						"buffer_size": 876,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "flask_web/tieba_dig/server.py",
-					"settings":
-					{
-						"buffer_size": 779,
+						"buffer_size": 4107,
 						"line_ending": "Unix"
 					}
 				}
@@ -1088,14 +4128,65 @@
 			[
 				"/home/ext-huaqin-chenhaojun/jackson",
 				"/home/ext-huaqin-chenhaojun/jackson/flask_web",
-				"/home/ext-huaqin-chenhaojun/jackson/flask_web/jiese_flask",
-				"/home/ext-huaqin-chenhaojun/jackson/flask_web/jiese_flask/tumblelog",
 				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_dig",
-				"/home/ext-huaqin-chenhaojun/jackson/microblog",
-				"/home/ext-huaqin-chenhaojun/jackson/workscript"
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_dig/mail.huaqin.com/A1912.sbd",
+				"/home/ext-huaqin-chenhaojun/jackson/javascript",
+				"/home/ext-huaqin-chenhaojun/jackson/javascript/vue",
+				"/home/ext-huaqin-chenhaojun/jackson/log/power_no_response",
+				"/home/ext-huaqin-chenhaojun/jackson/log/power_no_response/20150813_1021_powerkey0AVE/20150813_1021_powerkey0AVE",
+				"/home/ext-huaqin-chenhaojun/jackson/log/power_no_response/20150813_1021_powerkey0AVE/20150813_1021_powerkey0AVE/G0K0H40152520AVE_20150813_1021_userdebug_522045510_powerkey0AVE",
+				"/home/ext-huaqin-chenhaojun/jackson/log/power_no_response/20150813_1349_./get_logs.sh",
+				"/home/ext-huaqin-chenhaojun/jackson/log/power_no_response/20150813_1349_./get_logs.sh/G0K0H40152520AVE_20150813_1349",
+				"/home/ext-huaqin-chenhaojun/jackson/log/power_no_response/20150813_1356_.",
+				"/home/ext-huaqin-chenhaojun/jackson/log/power_no_response/20150813_1356_./get_logs.sh",
+				"/home/ext-huaqin-chenhaojun/jackson/log/power_no_response/20150813_1356_./get_logs.sh/G0K0H40152520AVE_20150813_1356",
+				"/home/ext-huaqin-chenhaojun/jackson/tp/2_tp_driver",
+				"/home/ext-huaqin-chenhaojun/jackson/tp/2_tp_driver/solomon_ssd",
+				"/home/ext-huaqin-chenhaojun/bin",
+				"/home/ext-huaqin-chenhaojun/bin/bin"
 			],
 			"file_history":
 			[
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/User/javascript.sublime-build",
+				"/home/ext-huaqin-chenhaojun/jackson/log/power_no_response/20150813_1356_./get_logs.sh/G0K0H40152520AVE_20150813_1356/logcat.log",
+				"/home/ext-huaqin-chenhaojun/jackson/log/power_no_response/20150813_1356_./get_logs.sh/G0K0H40152520AVE_20150813_1356/anr/traces.txt.bugreport",
+				"/home/ext-huaqin-chenhaojun/jackson/log/G0K0H40252860CUS_20150804_1059/dmesg_current.log",
+				"/home/ext-huaqin-chenhaojun/jackson/workscript/command.py",
+				"/home/ext-huaqin-chenhaojun/jackson/tp/2_tp_driver/forcal_fts/command_line_tool/command.py",
+				"/home/ext-huaqin-chenhaojun/jackson/tp/2_tp_driver/forcal_fts/command_line_tool/flashtools.py",
+				"/home/ext-huaqin-chenhaojun/bin/flashimage.py",
+				"/home/ext-huaqin-chenhaojun/jackson/log/G0K0H40252860CUS_20150804_1059/logcat.log",
+				"/home/ext-huaqin-chenhaojun/jackson/log/G0K0H40252860CUS_20150804_1059/logcat.kernel.log",
+				"/home/ext-huaqin-chenhaojun/jackson/log/power_no_response/20150813_1021_powerkey0AVE/20150813_1021_powerkey0AVE/G0K0H40152520AVE_20150813_1021_userdebug_522045510_powerkey0AVE/logcat.log",
+				"/home/ext-huaqin-chenhaojun/jackson/log/power_no_response/20150813_1356_./get_logs.sh/G0K0H40152520AVE_20150813_1356/bugreport.log",
+				"/home/ext-huaqin-chenhaojun/jackson/log/power_work.log",
+				"/home/ext-huaqin-chenhaojun/jackson/log/G0K0H40252860CUS_20150804_1059/dumpsys.log",
+				"/home/ext-huaqin-chenhaojun/bin/flashtools.py",
+				"/home/ext-huaqin-chenhaojun/jackson/log/power_no_response/20150813_1356_./get_logs.sh/G0K0H40152520AVE_20150813_1356/dmesg_current.log",
+				"/home/ext-huaqin-chenhaojun/jackson/log/G0K0H40252860CUS_20150804_1059/debug_service/archive/last_kmsg.1438654601.log",
+				"/home/ext-huaqin-chenhaojun/test/ctp_test.pl",
+				"/home/ext-huaqin-chenhaojun/jackson/tp/2_tp_driver/forcal_fts/command_line_tool/Makefile",
+				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/8_6_discharge_log/auto_charge_form/data_form.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/8_6_discharge_log/data_form.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/7_31/data_form.py",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm/mach-mt8127/ford/touchpanel/focaltech_ex_fun.c",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm/mach-mt8127/ford/touchpanel/ssd60xx_tp.h",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/charger_log_6_25/data_form.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/data_form.py",
+				"/home/ext-huaqin-chenhaojun/jackson/workscript/data_form.py",
+				"/home/ext-huaqin-chenhaojun/jackson/workscript/getrawdata.py",
+				"/var/data/chenhaojun/ford_factory/kernel/mediatek/mt8127/3.10/arch/arm/mach-mt8127/ford/touchpanel/Makefile",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_dig/test.py",
+				"/home/ext-huaqin-chenhaojun/jackson/tp/2_tp_driver/solomon_test/getrawdata.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_7_8/data_form.py",
+				"/home/ext-huaqin-chenhaojun/jackson/charge_log/8_6_discharge_log/auto_charge_form/test.py",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_dig/index.html",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_dig/rat.py",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_dig/my.html",
+				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_dig/server.py",
 				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/User/python_buildtest.sublime-build",
 				"/home/ext-huaqin-chenhaojun/jackson/jackson.sublime-project",
 				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/User/my_make.sublime-build",
@@ -1104,12 +4195,9 @@
 				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tiebrat.sublime-workspace",
 				"/usr/lib/python2.7/unittest/case.py",
 				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
-				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
 				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
 				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/Tag/Tag Package.sublime-settings",
 				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
-				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
 				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/User/HTMLBeautify.sublime-settings",
 				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
 				"/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
@@ -1129,19 +4217,16 @@
 				"/home/ext-huaqin-chenhaojun/jackson/workscript/sendmail.py",
 				"/home/ext-huaqin-chenhaojun/jackson/flask_web/tieba_rat/requirements.txt",
 				"/home/ext-huaqin-chenhaojun/jackson/workscript/db_sqlite.py",
-				"/home/ext-huaqin-chenhaojun/jackson/workscript/data_form.py",
 				"/home/ext-huaqin-chenhaojun/jackson/flask_web/flask-tumblelog/tumblelog/admin.py",
 				"/home/ext-huaqin-chenhaojun/jackson/flask_web/flask-tumblelog/tumblelog/models.py",
 				"/home/ext-huaqin-chenhaojun/jackson/microblog/app/templates/index.html",
 				"/home/ext-huaqin-chenhaojun/jackson/microblog/run.py",
 				"/usr/local/lib/python2.7/dist-packages/sqlalchemy/ext/declarative/api.py",
-				"/home/ext-huaqin-chenhaojun/jackson/charge_log/7_31/data_form.py",
 				"/home/ext-huaqin-chenhaojun/jackson/charge_log/7_31/capacity_time.jpg",
 				"/usr/local/lib/python2.7/dist-packages/delorean/interface.py",
 				"/home/ext-huaqin-chenhaojun/jackson/test.py",
 				"/home/ext-huaqin-chenhaojun/jackson/test,py",
 				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/use_selenium.py",
-				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/data_form.py",
 				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/baidu_ocr.py",
 				"/usr/lib/python2.7/subprocess.py",
 				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_7_8/batterylog.txt",
@@ -1150,7 +4235,6 @@
 				"/home/ext-huaqin-chenhaojun/jackson/wifi_logo/11N-sigma-3/11N-sigma-3/start_ca.bat",
 				"/home/ext-huaqin-chenhaojun/jackson/wifi_logo/11N-sigma-3/11N-sigma-3/start_dut.bat",
 				"/home/ext-huaqin-chenhaojun/jackson/wifi_logo/11N-sigma-3/11N-sigma-3/11n_sigma_install.bat",
-				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_7_8/data_form.py",
 				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/height2data.py",
 				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/tessdata/baidu_ocr.py",
 				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/deal_image.py",
@@ -1160,7 +4244,6 @@
 				"/home/ext-huaqin-chenhaojun/jackson/charge_log/discharger_log_6_25/08hqdischarge.log",
 				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/1.tiff",
 				"/home/ext-huaqin-chenhaojun/jackson/baidu_index/search_filter_img.jpg",
-				"/home/ext-huaqin-chenhaojun/jackson/charge_log/charger_log_6_25/data_form.py",
 				"/var/data/chenhaojun/keypad.log",
 				"/var/data/chenhaojun/ATA_KEYPAD_reboot.txt",
 				"/var/data/chenhaojun/keypad_log.txt",
@@ -1191,39 +4274,7 @@
 				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/BOOTLOADER_OBJ/build-aw1978/dev/logo/wsvga/wsvga_num_9.raw",
 				"/home/lzg/android5.0/MT8382_L_BD2/build1231.log",
 				"/home/lzg/android5.0/MT8382_L_BD2/external/eigen/bench/bench_unrolling",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/eclipse-basebuilder/basebuilder-3.6.2/org.eclipse.releng.basebuilder/plugins/org.eclipse.build.tools/src/org/eclipse/releng/BuildMachineManager.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/eclipse-basebuilder/basebuilder-3.6.2/org.eclipse.releng.basebuilder/plugins/org.eclipse.build.tools/data/builds-emf-2.3.xml",
-				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/gradle-plugin/com/android/tools/build/builder/0.12.2/builder-0.12.2.pom",
-				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/gradle-plugin/com/android/tools/build/builder/0.12.2/builder-0.12.2.jar.sha1",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/clang/test/CodeGen/builtin-unwind-init.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/art/compiler/dex/verification_results.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/libvorbis/doc/vorbis-errors.txt",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/checkpolicy/VERSION",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/srec/config/en.us/audio/v139/v139_189.nwv",
-				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/custom/mt6582/hal/sendepfeature/sp0a19_yuv/config.ftbl.sp0a19_yuv.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/external/lzo/src/config1.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/scripts/config",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/configure",
-				"/home/lzg/android5.0/MT8382_L_BD2/development/samples/devbytes/graphics/FoldingLayout/src/com/example/android/foldinglayout/OnFoldListener.java",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/skia/src/opts/SkColor_opts_neon.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/external/clang/CODE_OWNERS.TXT",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/COPYING",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/dynamic_cast.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/delete.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/class_type_info.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/array_type_info.cc",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/typeinfo",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/new",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/cxxabi.h",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/use_rtti.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/Android.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_8_kernel.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_7.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_6_1.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_6.log",
-				"/home/lzg/android5.0/MT8382_L_BD2/build1_5.log"
+				"/home/lzg/android5.0/MT8382_L_BD2/external/eclipse-basebuilder/basebuilder-3.6.2/org.eclipse.releng.basebuilder/plugins/org.eclipse.build.tools/src/org/eclipse/releng/BuildMachineManager.java"
 			],
 			"find":
 			{
@@ -1234,6 +4285,11 @@
 				"height": 102.0,
 				"where_history":
 				[
+					"/home/ext-huaqin-chenhaojun/jackson/log/power_no_response/20150813_1356_./get_logs.sh/G0K0H40152520AVE_20150813_1356",
+					"/home/ext-huaqin-chenhaojun/jackson/log/G0K0H40252860CUS_20150804_1059/dmesg_current.log",
+					"/home/ext-huaqin-chenhaojun/jackson/log/G0K0H40252860CUS_20150804_1059/dmesg_current.log,/home/ext-huaqin-chenhaojun/jackson/log/power_work.log",
+					"/home/ext-huaqin-chenhaojun/jackson/log",
+					"/home/ext-huaqin-chenhaojun/jackson/log/G0K0H40252860CUS_20150804_1059",
 					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
 					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
 					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
@@ -1256,134 +4312,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"chardet",
-					"self",
-					"posts",
-					"j_thread_list clearfix",
-					"My_url",
-					"Tieba_url",
-					"build",
-					"URL",
-					"url",
-					"URL",
-					"url",
-					"tieba_name",
-					"http://tieba.baidu.com/",
-					"deepth",
-					"event",
-					"key",
 					"pwrkey_int_handler",
+					"InputReader",
+					"Telecom Service not found",
+					"pwrkey_int_handler",
+					"timer_pos",
+					"pwrkey_int_handler",
+					"report_action_is_press",
+					"on",
+					"screen on",
+					"pwrkey",
+					"input",
+					"report_action_is_press",
+					"dispatch",
+					"dispatch.*input",
+					"dispatch*input",
+					"dispatchinput",
+					"dispatchinout",
+					"dispatch",
+					"pwrkey",
+					"pwr keyu",
+					"power button",
+					"button",
+					"power button",
+					"pwrkey_int_handler",
+					"power button",
+					"pwrkey_int_handler",
+					"pwrkey",
+					"release per",
+					"release",
+					"pwrkey_int_handler",
+					"1",
+					"pwrkey_int_handler",
+					"ke",
 					"key",
+					"button",
+					"key",
+					"release",
+					"powe",
+					"Release pwrkey",
+					"11363.",
+					"release pwrkey",
+					"release",
+					"Release pwrkey",
+					"release pwrkey",
+					"release perkey",
+					"Release pwrkey",
+					"Power Key generate",
+					"power key",
+					"powerkey",
 					"power",
-					"key",
-					"re",
-					"resume",
-					"key",
+					"HW keycode =116 using PMIC",
+					"!\n",
+					"HW keycode =116 using PMIC",
+					"power key",
 					"power",
+					"com not",
+					"tele",
+					"telcom",
+					"tele",
+					"HW keycode =116 using PMIC",
+					"lcm_resume",
+					"int_status_val_1",
+					"int_status_val_1=0x0",
+					"release",
+					"power",
+					"PowerManager",
+					"powermanager",
+					"power",
+					" 116 ",
+					" 116",
+					"116",
+					"power",
+					"release",
+					"press",
+					"power",
+					"int_status_val_1=0x0",
+					"nt_status_val_1=0x0",
+					"int_status_val_1=0x0",
+					"after ,int_status_val_1=0x0\nafter ,int_status_val_1=0x0",
+					"after ,int_status_val_1=0x0",
+					"lcm_resume",
+					"int_status_val_1=0x0",
+					"lcm_resume",
+					"lcm resume",
+					"release pwrkey",
+					"release pwerkey",
+					"release",
+					"telecom",
+					"service",
+					"telecom",
+					"power key",
+					"power",
+					"input",
+					"press",
 					"key",
-					"post",
-					"from",
-					"HTML",
-					"tag",
-					"code",
-					"style",
-					"html",
-					"post",
-					"Post",
-					"post",
-					"Post",
-					"72598129856",
-					"first_post_id",
-					"j_reply_data",
-					"dump",
-					"j_thread_list clearfix",
-					"Tieba_url",
-					"get_all_li",
-					"rep_num_for_good",
-					"authorization",
-					"UI_SOC=(0)",
-					"split_img",
-					"img2string",
-					"get_each_number_img",
-					"crop_img",
-					"enhance",
-					"Enhance",
-					"enhance",
-					"twovalue_img_data",
-					"onevalue_color",
-					"day_2_x",
-					"img_xy_rotate",
-					"onevalue_color",
-					"img_xy_rotate",
-					"day_2_x",
-					"twovalue_img_data",
-					"twovalue_img",
-					"onevalue_gray",
-					"device_file_name",
-					"gray_img",
-					"gray",
-					"onevalue_color",
-					"enhance",
-					"ImageEnhance",
-					"search_filter_img",
-					"onevalue_color",
-					"twovalue_img_data",
-					"day_2_x",
-					"onevalue",
-					"img2data",
-					"Enter kpd_auto_test_for_factorymode! ",
-					"factorymo",
-					"factory",
-					"auto",
-					"reboot",
-					"pad",
-					"keypad",
-					"data_of_day",
-					"pix_list",
-					"day_2_x",
-					"twovalue_img_data",
-					"day2x",
-					"get_x_day_data",
-					"ImageFilter",
-					"reason",
-					"reboot",
-					"img_xy_rotate",
-					"help",
-					"_ParseArguments",
-					"_Options",
-					"find",
-					"debug_check_no_locks_held",
-					"debug_check_no",
-					"lockdep_init_map",
-					"mutex_lock_nested",
-					"mutex_lock",
-					"mutex_",
-					"mutex_nest_lock",
-					"mutex_nested_lock",
-					"export_symbol_gpl",
-					"config_lockdep",
-					"config_modules",
-					"config_LOCKDEP",
-					"config_modules",
-					"modules",
-					"config_lockdep",
-					"gpl",
-					"mutex_lock_nested",
-					"config_debug_loc",
-					"config_modules",
-					"config_lockdep",
-					"config",
-					"config_modules",
-					"config_lockdep",
-					"config_modules",
-					"int Volume::formatVol(bool wipe)",
-					"SLOGI(\"Formatting volume %s (%s)\", getLabel(), devicePath);",
-					"int Volume::formatVol(bool wipe)",
-					"setState(Volume::State_Formatting);",
-					"int Volume::formatVol(bool wipe)",
-					"wipe",
-					"int Volume::formatVol(bool wipe)",
-					"if(formatExfat == 1)"
+					"button",
+					"release",
+					"not found",
+					"not",
+					"nnot ",
+					"Te",
+					"tels",
+					"tele",
+					"tes",
+					"te",
+					"tess",
+					"service",
+					"service not ",
+					"service not found",
+					"checkMd5",
+					"checkmd5",
+					"checkMd5",
+					"checkmd5",
+					"checkMd5",
+					"checkmd5",
+					"checkMd5",
+					"checkmd5",
+					"opts",
+					"checkMd5",
+					"checkmd5",
+					"checkMd5",
+					"checkmd5",
+					"checkMd5",
+					"checkmd5",
+					"checkMd5",
+					"checkmd5",
+					"FASTBOOT_SERIAL",
+					"PRODUCT_OUT"
 				],
 				"highlight": false,
 				"in_selection": false,
@@ -1402,30 +4458,29 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 4,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "flask_web/tieba_dig/index.html",
+							"file": "log/power_no_response/20150813_1356_./get_logs.sh/G0K0H40152520AVE_20150813_1356/logcat.log",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2471,
+								"buffer_size": 1186254,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1061,
-										1061
+										97441,
+										97441
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
-									"auto_complete": false,
 									"bh_regions":
 									[
 										"bh_tag",
@@ -1484,39 +4539,35 @@
 										"bh_c_define_close",
 										"bh_c_define_content"
 									],
-									"is_xml": false,
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 345.0,
+								"translation.y": 26719.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 5,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "flask_web/tieba_dig/rat.py",
+							"file": "tp/SSD6250_TPV_20150615_source_code-v2/ssl_tp_test.c",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3933,
+								"buffer_size": 20472,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2351,
-										2351
+										6079,
+										6079
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
-									"auto_complete": false,
 									"bh_regions":
 									[
 										"bh_tag",
@@ -1575,301 +4626,31 @@
 										"bh_c_define_close",
 										"bh_c_define_content"
 									],
-									"spell_check": true,
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 1659.0,
+								"translation.y": 5405.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
 							"buffer": 2,
-							"file": "/home/ext-huaqin-chenhaojun/.config/sublime-text-3/Packages/User/python_buildtest.sublime-build",
+							"file": "javascript/test.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 42,
+								"buffer_size": 148,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										4,
-										4
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": true,
-									"bh_regions":
-									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "flask_web/jiese_flask/tumblelog/insert_posts.py",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 3008,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1949,
-										1949
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 1518.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "flask_web/tieba_dig/my.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 445515,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										12,
-										12
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"is_xml": false,
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 23.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "flask_web/tieba_dig/test.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 876,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										71,
-										71
+										145,
+										145
 									]
 								],
 								"settings":
@@ -1935,45 +4716,211 @@
 										"bh_c_define_content"
 									],
 									"open_with_edit": true,
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
-							"buffer": 6,
-							"file": "flask_web/tieba_dig/server.py",
+							"buffer": 3,
+							"file": "javascript/vue/vue_startip.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 779,
+								"buffer_size": 422,
 								"regions":
 								{
-									"mark":
-									{
-										"flags": 144,
-										"icon": "dot",
-										"regions":
-										[
-											[
-												636,
-												636
-											]
-										],
-										"scope": "mark"
-									}
 								},
 								"selection":
 								[
 									[
-										629,
-										629
+										422,
+										422
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"is_xml": false,
+									"open_with_edit": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "flask_web/tieba_dig/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2782,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										2782
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"is_xml": false,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1308.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "flask_web/tieba_dig/rat.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4107,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1982,
+										1982
 									]
 								],
 								"settings":
@@ -2042,11 +4989,11 @@
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.x": -0.0,
+								"translation.y": 1173.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -2085,7 +5032,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 318.0
+				"height": 320.0
 			},
 			"output.find_results":
 			{
@@ -2099,12 +5046,12 @@
 			{
 				"height": 148.0
 			},
-			"pinned_build_system": "Packages/User/python_buildtest.sublime-build",
-			"position": "1,1,0,0,0,0,0,0,0,1600,900",
+			"pinned_build_system": "Packages/User/javascript.sublime-build",
+			"position": "0,1,0,0,0,-1,24,639,504,1600,900",
 			"project": "jackson.sublime-project",
 			"replace":
 			{
-				"height": 56.0
+				"height": 72.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2113,6 +5060,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"ssl_tp_test.c",
+						"jackson/tp/SSD6250_TPV_20150615_source_code-v2/ssl_tp_test.c"
+					],
 					[
 						"aw1978de",
 						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
@@ -2264,7 +5215,7 @@
 				[
 					[
 						"",
-						"/var/data/chenhaojun/fireos.sublime-project"
+						"~/jackson/jackson.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -2286,7 +5237,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 318.0,
+			"side_bar_width": 362.0,
 			"status_bar_visible": false,
 			"template_settings":
 			{
@@ -2299,9 +5250,10 @@
 	{
 		"recent_workspaces":
 		[
+			"/home/ext-huaqin-chenhaojun/jackson/ford_factory.sublime-workspace",
 			"/home/ext-huaqin-chenhaojun/jackson/jackson.sublime-workspace",
 			"/var/data/chenhaojun/fireos.sublime-workspace",
-			"/home/ext-huaqin-chenhaojun/jackson/ford_factory.sublime-workspace",
+			"/home/ext-huaqin-chenhaojun/jackson/tp/tp_test.sublime-workspace",
 			"/home/lzg/gitlib/python/python_webapp/conf/webapp.sublime-workspace",
 			"/home/lzg/harley/schf/untitled.sublime-workspace",
 			"/home/lzg/android5.0/sublimeconfig/MT8382.sublime-workspace",
